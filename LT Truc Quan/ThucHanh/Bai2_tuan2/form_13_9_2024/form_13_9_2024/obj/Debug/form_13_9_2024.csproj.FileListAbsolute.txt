@@ -1,0 +1,30 @@
+C:\Users\user\source\repos\form_13_9_2024\form_13_9_2024\bin\Debug\form_13_9_2024.exe.config
+C:\Users\user\source\repos\form_13_9_2024\form_13_9_2024\bin\Debug\form_13_9_2024.exe
+C:\Users\user\source\repos\form_13_9_2024\form_13_9_2024\bin\Debug\form_13_9_2024.pdb
+C:\Users\user\source\repos\form_13_9_2024\form_13_9_2024\obj\Debug\form_13_9_2024.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\form_13_9_2024\form_13_9_2024\obj\Debug\form_13_9_2024.Form1.resources
+C:\Users\user\source\repos\form_13_9_2024\form_13_9_2024\obj\Debug\form_13_9_2024.Properties.Resources.resources
+C:\Users\user\source\repos\form_13_9_2024\form_13_9_2024\obj\Debug\form_13_9_2024.csproj.GenerateResource.cache
+C:\Users\user\source\repos\form_13_9_2024\form_13_9_2024\obj\Debug\form_13_9_2024.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\form_13_9_2024\form_13_9_2024\obj\Debug\form_13_9_2024.exe
+C:\Users\user\source\repos\form_13_9_2024\form_13_9_2024\obj\Debug\form_13_9_2024.pdb
+E:\LT Truc Quan\TH_Buoi2\form_13_9_2024\form_13_9_2024\bin\Debug\form_13_9_2024.exe.config
+E:\LT Truc Quan\TH_Buoi2\form_13_9_2024\form_13_9_2024\bin\Debug\form_13_9_2024.exe
+E:\LT Truc Quan\TH_Buoi2\form_13_9_2024\form_13_9_2024\bin\Debug\form_13_9_2024.pdb
+E:\LT Truc Quan\TH_Buoi2\form_13_9_2024\form_13_9_2024\obj\Debug\form_13_9_2024.csproj.AssemblyReference.cache
+E:\LT Truc Quan\TH_Buoi2\form_13_9_2024\form_13_9_2024\obj\Debug\form_13_9_2024.Form1.resources
+E:\LT Truc Quan\TH_Buoi2\form_13_9_2024\form_13_9_2024\obj\Debug\form_13_9_2024.Properties.Resources.resources
+E:\LT Truc Quan\TH_Buoi2\form_13_9_2024\form_13_9_2024\obj\Debug\form_13_9_2024.csproj.GenerateResource.cache
+E:\LT Truc Quan\TH_Buoi2\form_13_9_2024\form_13_9_2024\obj\Debug\form_13_9_2024.csproj.CoreCompileInputs.cache
+E:\LT Truc Quan\TH_Buoi2\form_13_9_2024\form_13_9_2024\obj\Debug\form_13_9_2024.exe
+E:\LT Truc Quan\TH_Buoi2\form_13_9_2024\form_13_9_2024\obj\Debug\form_13_9_2024.pdb
+E:\LT Truc Quan\ThucHanh\Bai2_tuan2\form_13_9_2024\form_13_9_2024\bin\Debug\form_13_9_2024.exe.config
+E:\LT Truc Quan\ThucHanh\Bai2_tuan2\form_13_9_2024\form_13_9_2024\bin\Debug\form_13_9_2024.exe
+E:\LT Truc Quan\ThucHanh\Bai2_tuan2\form_13_9_2024\form_13_9_2024\bin\Debug\form_13_9_2024.pdb
+E:\LT Truc Quan\ThucHanh\Bai2_tuan2\form_13_9_2024\form_13_9_2024\obj\Debug\form_13_9_2024.csproj.AssemblyReference.cache
+E:\LT Truc Quan\ThucHanh\Bai2_tuan2\form_13_9_2024\form_13_9_2024\obj\Debug\form_13_9_2024.Form1.resources
+E:\LT Truc Quan\ThucHanh\Bai2_tuan2\form_13_9_2024\form_13_9_2024\obj\Debug\form_13_9_2024.Properties.Resources.resources
+E:\LT Truc Quan\ThucHanh\Bai2_tuan2\form_13_9_2024\form_13_9_2024\obj\Debug\form_13_9_2024.csproj.GenerateResource.cache
+E:\LT Truc Quan\ThucHanh\Bai2_tuan2\form_13_9_2024\form_13_9_2024\obj\Debug\form_13_9_2024.csproj.CoreCompileInputs.cache
+E:\LT Truc Quan\ThucHanh\Bai2_tuan2\form_13_9_2024\form_13_9_2024\obj\Debug\form_13_9_2024.exe
+E:\LT Truc Quan\ThucHanh\Bai2_tuan2\form_13_9_2024\form_13_9_2024\obj\Debug\form_13_9_2024.pdb

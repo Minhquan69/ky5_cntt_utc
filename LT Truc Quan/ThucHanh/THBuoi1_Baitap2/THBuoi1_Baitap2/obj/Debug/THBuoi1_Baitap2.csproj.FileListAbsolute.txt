@@ -1,0 +1,20 @@
+D:\LapTrinhTrucQuan\THBuoi1_Baitap2\THBuoi1_Baitap2\bin\Debug\THBuoi1_Baitap2.exe.config
+D:\LapTrinhTrucQuan\THBuoi1_Baitap2\THBuoi1_Baitap2\bin\Debug\THBuoi1_Baitap2.exe
+D:\LapTrinhTrucQuan\THBuoi1_Baitap2\THBuoi1_Baitap2\bin\Debug\THBuoi1_Baitap2.pdb
+D:\LapTrinhTrucQuan\THBuoi1_Baitap2\THBuoi1_Baitap2\obj\Debug\THBuoi1_Baitap2.csproj.AssemblyReference.cache
+D:\LapTrinhTrucQuan\THBuoi1_Baitap2\THBuoi1_Baitap2\obj\Debug\THBuoi1_Baitap2.FormPoint.resources
+D:\LapTrinhTrucQuan\THBuoi1_Baitap2\THBuoi1_Baitap2\obj\Debug\THBuoi1_Baitap2.Properties.Resources.resources
+D:\LapTrinhTrucQuan\THBuoi1_Baitap2\THBuoi1_Baitap2\obj\Debug\THBuoi1_Baitap2.csproj.GenerateResource.cache
+D:\LapTrinhTrucQuan\THBuoi1_Baitap2\THBuoi1_Baitap2\obj\Debug\THBuoi1_Baitap2.csproj.CoreCompileInputs.cache
+D:\LapTrinhTrucQuan\THBuoi1_Baitap2\THBuoi1_Baitap2\obj\Debug\THBuoi1_Baitap2.exe
+D:\LapTrinhTrucQuan\THBuoi1_Baitap2\THBuoi1_Baitap2\obj\Debug\THBuoi1_Baitap2.pdb
+E:\LT Truc Quan\THBuoi1_Baitap2\THBuoi1_Baitap2\bin\Debug\THBuoi1_Baitap2.exe.config
+E:\LT Truc Quan\THBuoi1_Baitap2\THBuoi1_Baitap2\bin\Debug\THBuoi1_Baitap2.exe
+E:\LT Truc Quan\THBuoi1_Baitap2\THBuoi1_Baitap2\bin\Debug\THBuoi1_Baitap2.pdb
+E:\LT Truc Quan\THBuoi1_Baitap2\THBuoi1_Baitap2\obj\Debug\THBuoi1_Baitap2.csproj.AssemblyReference.cache
+E:\LT Truc Quan\THBuoi1_Baitap2\THBuoi1_Baitap2\obj\Debug\THBuoi1_Baitap2.FormPoint.resources
+E:\LT Truc Quan\THBuoi1_Baitap2\THBuoi1_Baitap2\obj\Debug\THBuoi1_Baitap2.Properties.Resources.resources
+E:\LT Truc Quan\THBuoi1_Baitap2\THBuoi1_Baitap2\obj\Debug\THBuoi1_Baitap2.csproj.GenerateResource.cache
+E:\LT Truc Quan\THBuoi1_Baitap2\THBuoi1_Baitap2\obj\Debug\THBuoi1_Baitap2.csproj.CoreCompileInputs.cache
+E:\LT Truc Quan\THBuoi1_Baitap2\THBuoi1_Baitap2\obj\Debug\THBuoi1_Baitap2.exe
+E:\LT Truc Quan\THBuoi1_Baitap2\THBuoi1_Baitap2\obj\Debug\THBuoi1_Baitap2.pdb

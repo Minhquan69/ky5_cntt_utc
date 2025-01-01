@@ -1,0 +1,1 @@
+grant select on tNhaCungCap to Der with grant option

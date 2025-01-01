@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\visualstudio\\ProjectInVisual\\WebBanVaLiN05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{073A45B2-6373-4928-BB63-AB9974E384BD}|WebBanVaLiN05\\WebBanVaLiN05.csproj|e:\\visualstudio\\projectinvisual\\webbanvalin05\\webbanvalin05\\views\\shared\\_layoutogani.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{073A45B2-6373-4928-BB63-AB9974E384BD}|WebBanVaLiN05\\WebBanVaLiN05.csproj|solutionrelative:webbanvalin05\\views\\shared\\_layoutogani.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073A45B2-6373-4928-BB63-AB9974E384BD}|WebBanVaLiN05\\WebBanVaLiN05.csproj|e:\\visualstudio\\projectinvisual\\webbanvalin05\\webbanvalin05\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{073A45B2-6373-4928-BB63-AB9974E384BD}|WebBanVaLiN05\\WebBanVaLiN05.csproj|solutionrelative:webbanvalin05\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073A45B2-6373-4928-BB63-AB9974E384BD}|WebBanVaLiN05\\WebBanVaLiN05.csproj|e:\\visualstudio\\projectinvisual\\webbanvalin05\\webbanvalin05\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{073A45B2-6373-4928-BB63-AB9974E384BD}|WebBanVaLiN05\\WebBanVaLiN05.csproj|solutionrelative:webbanvalin05\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073A45B2-6373-4928-BB63-AB9974E384BD}|WebBanVaLiN05\\WebBanVaLiN05.csproj|e:\\visualstudio\\projectinvisual\\webbanvalin05\\webbanvalin05\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{073A45B2-6373-4928-BB63-AB9974E384BD}|WebBanVaLiN05\\WebBanVaLiN05.csproj|solutionrelative:webbanvalin05\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073A45B2-6373-4928-BB63-AB9974E384BD}|WebBanVaLiN05\\WebBanVaLiN05.csproj|e:\\visualstudio\\projectinvisual\\webbanvalin05\\webbanvalin05\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{073A45B2-6373-4928-BB63-AB9974E384BD}|WebBanVaLiN05\\WebBanVaLiN05.csproj|solutionrelative:webbanvalin05\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{073A45B2-6373-4928-BB63-AB9974E384BD}|WebBanVaLiN05\\WebBanVaLiN05.csproj|e:\\visualstudio\\projectinvisual\\webbanvalin05\\webbanvalin05\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073A45B2-6373-4928-BB63-AB9974E384BD}|WebBanVaLiN05\\WebBanVaLiN05.csproj|solutionrelative:webbanvalin05\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_header.cshtml",
+              "DocumentMoniker": "E:\\visualstudio\\ProjectInVisual\\WebBanVaLiN05\\WebBanVaLiN05\\Views\\Shared\\_header.cshtml",
+              "RelativeDocumentMoniker": "WebBanVaLiN05\\Views\\Shared\\_header.cshtml",
+              "ToolTip": "E:\\visualstudio\\ProjectInVisual\\WebBanVaLiN05\\WebBanVaLiN05\\Views\\Shared\\_header.cshtml*",
+              "RelativeToolTip": "WebBanVaLiN05\\Views\\Shared\\_header.cshtml*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAE0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-23T08:05:34.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\visualstudio\\ProjectInVisual\\WebBanVaLiN05\\WebBanVaLiN05\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WebBanVaLiN05\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "E:\\visualstudio\\ProjectInVisual\\WebBanVaLiN05\\WebBanVaLiN05\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "WebBanVaLiN05\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-23T07:55:55.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\visualstudio\\ProjectInVisual\\WebBanVaLiN05\\WebBanVaLiN05\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebBanVaLiN05\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\visualstudio\\ProjectInVisual\\WebBanVaLiN05\\WebBanVaLiN05\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebBanVaLiN05\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-23T07:50:55.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\visualstudio\\ProjectInVisual\\WebBanVaLiN05\\WebBanVaLiN05\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebBanVaLiN05\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\visualstudio\\ProjectInVisual\\WebBanVaLiN05\\WebBanVaLiN05\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebBanVaLiN05\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-23T07:50:34.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_LayoutOgani.cshtml",
+              "DocumentMoniker": "E:\\visualstudio\\ProjectInVisual\\WebBanVaLiN05\\WebBanVaLiN05\\Views\\Shared\\_LayoutOgani.cshtml",
+              "RelativeDocumentMoniker": "WebBanVaLiN05\\Views\\Shared\\_LayoutOgani.cshtml",
+              "ToolTip": "E:\\visualstudio\\ProjectInVisual\\WebBanVaLiN05\\WebBanVaLiN05\\Views\\Shared\\_LayoutOgani.cshtml*",
+              "RelativeToolTip": "WebBanVaLiN05\\Views\\Shared\\_LayoutOgani.cshtml*",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAAAFoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-23T07:43:49.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\visualstudio\\ProjectInVisual\\WebBanVaLiN05\\WebBanVaLiN05\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebBanVaLiN05\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\visualstudio\\ProjectInVisual\\WebBanVaLiN05\\WebBanVaLiN05\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebBanVaLiN05\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T07:38:58.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

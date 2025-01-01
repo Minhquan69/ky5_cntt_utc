@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\LT Truc Quan\\THBuoi1_Baitap2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\LT Truc Quan\\THBuoi1_Baitap2\\THBuoi1_Baitap2\\THBuoi1_Baitap2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:THBuoi1_Baitap2\\THBuoi1_Baitap2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\LT Truc Quan\\THBuoi1_Baitap2\\THBuoi1_Baitap2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:THBuoi1_Baitap2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\LT Truc Quan\\THBuoi1_Baitap2\\THBuoi1_Baitap2\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:THBuoi1_Baitap2\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\LT Truc Quan\\THBuoi1_Baitap2\\THBuoi1_Baitap2\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:THBuoi1_Baitap2\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\LT Truc Quan\\THBuoi1_Baitap2\\THBuoi1_Baitap2\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "THBuoi1_Baitap2\\Form1.Designer.cs",
+              "ToolTip": "E:\\LT Truc Quan\\THBuoi1_Baitap2\\THBuoi1_Baitap2\\Form1.Designer.cs",
+              "RelativeToolTip": "THBuoi1_Baitap2\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T04:32:00.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\LT Truc Quan\\THBuoi1_Baitap2\\THBuoi1_Baitap2\\Form1.cs",
+              "RelativeDocumentMoniker": "THBuoi1_Baitap2\\Form1.cs",
+              "ToolTip": "E:\\LT Truc Quan\\THBuoi1_Baitap2\\THBuoi1_Baitap2\\Form1.cs",
+              "RelativeToolTip": "THBuoi1_Baitap2\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T04:31:32.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\LT Truc Quan\\THBuoi1_Baitap2\\THBuoi1_Baitap2\\Program.cs",
+              "RelativeDocumentMoniker": "THBuoi1_Baitap2\\Program.cs",
+              "ToolTip": "E:\\LT Truc Quan\\THBuoi1_Baitap2\\THBuoi1_Baitap2\\Program.cs",
+              "RelativeToolTip": "THBuoi1_Baitap2\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T04:31:21.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "THBuoi1_Baitap2.csproj",
+              "DocumentMoniker": "E:\\LT Truc Quan\\THBuoi1_Baitap2\\THBuoi1_Baitap2\\THBuoi1_Baitap2.csproj",
+              "RelativeDocumentMoniker": "THBuoi1_Baitap2\\THBuoi1_Baitap2.csproj",
+              "ToolTip": "E:\\LT Truc Quan\\THBuoi1_Baitap2\\THBuoi1_Baitap2\\THBuoi1_Baitap2.csproj",
+              "RelativeToolTip": "THBuoi1_Baitap2\\THBuoi1_Baitap2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-27T04:31:19.745Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

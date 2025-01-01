@@ -1,0 +1,50 @@
+E:\zalo\trucquan\ktragiuaky\dektracntt4\dektracntt4\bin\Debug\dektracntt4.exe.config
+E:\zalo\trucquan\ktragiuaky\dektracntt4\dektracntt4\bin\Debug\dektracntt4.exe
+E:\zalo\trucquan\ktragiuaky\dektracntt4\dektracntt4\bin\Debug\dektracntt4.pdb
+E:\zalo\trucquan\ktragiuaky\dektracntt4\dektracntt4\obj\Debug\dektracntt4.csproj.AssemblyReference.cache
+E:\zalo\trucquan\ktragiuaky\dektracntt4\dektracntt4\obj\Debug\dektracntt4.Form1.resources
+E:\zalo\trucquan\ktragiuaky\dektracntt4\dektracntt4\obj\Debug\dektracntt4.Properties.Resources.resources
+E:\zalo\trucquan\ktragiuaky\dektracntt4\dektracntt4\obj\Debug\dektracntt4.csproj.GenerateResource.cache
+E:\zalo\trucquan\ktragiuaky\dektracntt4\dektracntt4\obj\Debug\dektracntt4.csproj.CoreCompileInputs.cache
+E:\zalo\trucquan\ktragiuaky\dektracntt4\dektracntt4\obj\Debug\dektracntt4.exe
+E:\zalo\trucquan\ktragiuaky\dektracntt4\dektracntt4\obj\Debug\dektracntt4.pdb
+E:\LT Truc Quan\De\ktlop4-master\dektracntt4\bin\Debug\dektracntt4.exe.config
+E:\LT Truc Quan\De\ktlop4-master\dektracntt4\bin\Debug\dektracntt4.exe
+E:\LT Truc Quan\De\ktlop4-master\dektracntt4\bin\Debug\dektracntt4.pdb
+E:\LT Truc Quan\De\ktlop4-master\dektracntt4\obj\Debug\dektracntt4.csproj.AssemblyReference.cache
+E:\LT Truc Quan\De\ktlop4-master\dektracntt4\obj\Debug\dektracntt4.Properties.Resources.resources
+E:\LT Truc Quan\De\ktlop4-master\dektracntt4\obj\Debug\dektracntt4.csproj.GenerateResource.cache
+E:\LT Truc Quan\De\ktlop4-master\dektracntt4\obj\Debug\dektracntt4.csproj.CoreCompileInputs.cache
+E:\LT Truc Quan\De\ktlop4-master\dektracntt4\obj\Debug\dektracntt4.exe
+E:\LT Truc Quan\De\ktlop4-master\dektracntt4\obj\Debug\dektracntt4.pdb
+E:\LT Truc Quan\De\ktlop4-master\dektracntt4\obj\Debug\dektracntt4.frmNhanVien.resources
+E:\LT Truc Quan\De\ktlop4-master\dektracntt4\bin\Debug\ClosedXML.dll
+E:\LT Truc Quan\De\ktlop4-master\dektracntt4\bin\Debug\ClosedXML.Parser.dll
+E:\LT Truc Quan\De\ktlop4-master\dektracntt4\bin\Debug\DocumentFormat.OpenXml.dll
+E:\LT Truc Quan\De\ktlop4-master\dektracntt4\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+E:\LT Truc Quan\De\ktlop4-master\dektracntt4\bin\Debug\ExcelNumberFormat.dll
+E:\LT Truc Quan\De\ktlop4-master\dektracntt4\bin\Debug\Microsoft.Bcl.HashCode.dll
+E:\LT Truc Quan\De\ktlop4-master\dektracntt4\bin\Debug\RBush.dll
+E:\LT Truc Quan\De\ktlop4-master\dektracntt4\bin\Debug\SixLabors.Fonts.dll
+E:\LT Truc Quan\De\ktlop4-master\dektracntt4\bin\Debug\System.Buffers.dll
+E:\LT Truc Quan\De\ktlop4-master\dektracntt4\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\LT Truc Quan\De\ktlop4-master\dektracntt4\bin\Debug\System.IO.Packaging.dll
+E:\LT Truc Quan\De\ktlop4-master\dektracntt4\bin\Debug\System.Memory.dll
+E:\LT Truc Quan\De\ktlop4-master\dektracntt4\bin\Debug\System.Numerics.Vectors.dll
+E:\LT Truc Quan\De\ktlop4-master\dektracntt4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\LT Truc Quan\De\ktlop4-master\dektracntt4\bin\Debug\ClosedXML.pdb
+E:\LT Truc Quan\De\ktlop4-master\dektracntt4\bin\Debug\ClosedXML.xml
+E:\LT Truc Quan\De\ktlop4-master\dektracntt4\bin\Debug\ClosedXML.Parser.xml
+E:\LT Truc Quan\De\ktlop4-master\dektracntt4\bin\Debug\DocumentFormat.OpenXml.xml
+E:\LT Truc Quan\De\ktlop4-master\dektracntt4\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+E:\LT Truc Quan\De\ktlop4-master\dektracntt4\bin\Debug\ExcelNumberFormat.xml
+E:\LT Truc Quan\De\ktlop4-master\dektracntt4\bin\Debug\Microsoft.Bcl.HashCode.xml
+E:\LT Truc Quan\De\ktlop4-master\dektracntt4\bin\Debug\RBush.xml
+E:\LT Truc Quan\De\ktlop4-master\dektracntt4\bin\Debug\SixLabors.Fonts.xml
+E:\LT Truc Quan\De\ktlop4-master\dektracntt4\bin\Debug\System.Buffers.xml
+E:\LT Truc Quan\De\ktlop4-master\dektracntt4\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\LT Truc Quan\De\ktlop4-master\dektracntt4\bin\Debug\System.IO.Packaging.xml
+E:\LT Truc Quan\De\ktlop4-master\dektracntt4\bin\Debug\System.Memory.xml
+E:\LT Truc Quan\De\ktlop4-master\dektracntt4\bin\Debug\System.Numerics.Vectors.xml
+E:\LT Truc Quan\De\ktlop4-master\dektracntt4\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\LT Truc Quan\De\ktlop4-master\dektracntt4\obj\Debug\dektracn.4E7CB47D.Up2Date

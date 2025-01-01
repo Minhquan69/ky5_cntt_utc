@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\LT Truc Quan\\De\\KTRACK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A6FECC-F5DC-44DC-8E75-BB6AE0F53BB7}|KTRACK\\KTRACK.csproj|E:\\LT Truc Quan\\De\\KTRACK\\ktrack\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8A6FECC-F5DC-44DC-8E75-BB6AE0F53BB7}|KTRACK\\KTRACK.csproj|solutionrelative:ktrack\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A6FECC-F5DC-44DC-8E75-BB6AE0F53BB7}|KTRACK\\KTRACK.csproj|e:\\lt truc quan\\de\\ktrack\\ktrack\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A6FECC-F5DC-44DC-8E75-BB6AE0F53BB7}|KTRACK\\KTRACK.csproj|solutionrelative:ktrack\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A6FECC-F5DC-44DC-8E75-BB6AE0F53BB7}|KTRACK\\KTRACK.csproj|e:\\lt truc quan\\de\\ktrack\\ktrack\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A6FECC-F5DC-44DC-8E75-BB6AE0F53BB7}|KTRACK\\KTRACK.csproj|solutionrelative:ktrack\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A6FECC-F5DC-44DC-8E75-BB6AE0F53BB7}|KTRACK\\KTRACK.csproj|e:\\lt truc quan\\de\\ktrack\\ktrack\\giaodien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8A6FECC-F5DC-44DC-8E75-BB6AE0F53BB7}|KTRACK\\KTRACK.csproj|solutionrelative:ktrack\\giaodien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A6FECC-F5DC-44DC-8E75-BB6AE0F53BB7}|KTRACK\\KTRACK.csproj|e:\\lt truc quan\\de\\ktrack\\ktrack\\giaodien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A6FECC-F5DC-44DC-8E75-BB6AE0F53BB7}|KTRACK\\KTRACK.csproj|solutionrelative:ktrack\\giaodien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A6FECC-F5DC-44DC-8E75-BB6AE0F53BB7}|KTRACK\\KTRACK.csproj|e:\\lt truc quan\\de\\ktrack\\ktrack\\giaodien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A6FECC-F5DC-44DC-8E75-BB6AE0F53BB7}|KTRACK\\KTRACK.csproj|solutionrelative:ktrack\\giaodien.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A6FECC-F5DC-44DC-8E75-BB6AE0F53BB7}|KTRACK\\KTRACK.csproj|e:\\lt truc quan\\de\\ktrack\\ktrack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A6FECC-F5DC-44DC-8E75-BB6AE0F53BB7}|KTRACK\\KTRACK.csproj|solutionrelative:ktrack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8A6FECC-F5DC-44DC-8E75-BB6AE0F53BB7}|KTRACK\\KTRACK.csproj|E:\\LT Truc Quan\\De\\KTRACK\\ktrack\\classes\\dataprocesser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8A6FECC-F5DC-44DC-8E75-BB6AE0F53BB7}|KTRACK\\KTRACK.csproj|solutionrelative:ktrack\\classes\\dataprocesser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\LT Truc Quan\\De\\KTRACK\\KTRACK\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "KTRACK\\Form1.Designer.cs",
+              "ToolTip": "E:\\LT Truc Quan\\De\\KTRACK\\KTRACK\\Form1.Designer.cs",
+              "RelativeToolTip": "KTRACK\\Form1.Designer.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAhwLEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T00:53:24.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GiaoDien.cs",
+              "DocumentMoniker": "E:\\LT Truc Quan\\De\\KTRACK\\KTRACK\\GiaoDien.cs",
+              "RelativeDocumentMoniker": "KTRACK\\GiaoDien.cs",
+              "ToolTip": "E:\\LT Truc Quan\\De\\KTRACK\\KTRACK\\GiaoDien.cs",
+              "RelativeToolTip": "KTRACK\\GiaoDien.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T00:36:49.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\LT Truc Quan\\De\\KTRACK\\KTRACK\\Program.cs",
+              "RelativeDocumentMoniker": "KTRACK\\Program.cs",
+              "ToolTip": "E:\\LT Truc Quan\\De\\KTRACK\\KTRACK\\Program.cs",
+              "RelativeToolTip": "KTRACK\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T00:35:57.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GiaoDien.cs [Design]",
+              "DocumentMoniker": "E:\\LT Truc Quan\\De\\KTRACK\\KTRACK\\GiaoDien.cs",
+              "RelativeDocumentMoniker": "KTRACK\\GiaoDien.cs",
+              "ToolTip": "E:\\LT Truc Quan\\De\\KTRACK\\KTRACK\\GiaoDien.cs [Design]",
+              "RelativeToolTip": "KTRACK\\GiaoDien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T00:34:22.341Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataProcesser.cs",
+              "DocumentMoniker": "E:\\LT Truc Quan\\De\\KTRACK\\KTRACK\\Classes\\DataProcesser.cs",
+              "RelativeDocumentMoniker": "KTRACK\\Classes\\DataProcesser.cs",
+              "ToolTip": "E:\\LT Truc Quan\\De\\KTRACK\\KTRACK\\Classes\\DataProcesser.cs",
+              "RelativeToolTip": "KTRACK\\Classes\\DataProcesser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T12:08:36.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\LT Truc Quan\\De\\KTRACK\\KTRACK\\Form1.cs",
+              "RelativeDocumentMoniker": "KTRACK\\Form1.cs",
+              "ToolTip": "E:\\LT Truc Quan\\De\\KTRACK\\KTRACK\\Form1.cs",
+              "RelativeToolTip": "KTRACK\\Form1.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAApwHQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T12:07:52.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\LT Truc Quan\\De\\KTRACK\\KTRACK\\Form1.cs",
+              "RelativeDocumentMoniker": "KTRACK\\Form1.cs",
+              "ToolTip": "E:\\LT Truc Quan\\De\\KTRACK\\KTRACK\\Form1.cs [Design]",
+              "RelativeToolTip": "KTRACK\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T12:06:00.329Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GiaoDien.Designer.cs",
+              "DocumentMoniker": "E:\\LT Truc Quan\\De\\KTRACK\\KTRACK\\GiaoDien.Designer.cs",
+              "RelativeDocumentMoniker": "KTRACK\\GiaoDien.Designer.cs",
+              "ToolTip": "E:\\LT Truc Quan\\De\\KTRACK\\KTRACK\\GiaoDien.Designer.cs",
+              "RelativeToolTip": "KTRACK\\GiaoDien.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T01:11:05.621Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+D:\Ki1_Nam3\LTTQ\BT\FormMenu\FormMenu\bin\Debug\FormMenu.exe.config
+D:\Ki1_Nam3\LTTQ\BT\FormMenu\FormMenu\bin\Debug\FormMenu.exe
+D:\Ki1_Nam3\LTTQ\BT\FormMenu\FormMenu\bin\Debug\FormMenu.pdb
+D:\Ki1_Nam3\LTTQ\BT\FormMenu\FormMenu\obj\Debug\FormMenu.csproj.AssemblyReference.cache
+D:\Ki1_Nam3\LTTQ\BT\FormMenu\FormMenu\obj\Debug\FormMenu.Form1.resources
+D:\Ki1_Nam3\LTTQ\BT\FormMenu\FormMenu\obj\Debug\FormMenu.Properties.Resources.resources
+D:\Ki1_Nam3\LTTQ\BT\FormMenu\FormMenu\obj\Debug\FormMenu.csproj.GenerateResource.cache
+D:\Ki1_Nam3\LTTQ\BT\FormMenu\FormMenu\obj\Debug\FormMenu.csproj.CoreCompileInputs.cache
+D:\Ki1_Nam3\LTTQ\BT\FormMenu\FormMenu\obj\Debug\FormMenu.exe
+D:\Ki1_Nam3\LTTQ\BT\FormMenu\FormMenu\obj\Debug\FormMenu.pdb
+D:\Ki1_Nam3\LTTQ\BT\FormMenu\FormMenu\obj\Debug\FormMenu.Form2.resources
+D:\Ki1_Nam3\LTTQ\BT\FormMenu\FormMenu\obj\Debug\FormMenu.Form3.resources
+D:\Ki1_Nam3\LTTQ\BT\FormMenu\FormMenu\obj\Debug\FormMenu.Form4.resources
+E:\LT Truc Quan\FormMenu\bin\Debug\FormMenu.exe.config
+E:\LT Truc Quan\FormMenu\bin\Debug\FormMenu.exe
+E:\LT Truc Quan\FormMenu\bin\Debug\FormMenu.pdb
+E:\LT Truc Quan\FormMenu\obj\Debug\FormMenu.csproj.AssemblyReference.cache
+E:\LT Truc Quan\FormMenu\obj\Debug\FormMenu.Form1.resources
+E:\LT Truc Quan\FormMenu\obj\Debug\FormMenu.Form2.resources
+E:\LT Truc Quan\FormMenu\obj\Debug\FormMenu.Form3.resources
+E:\LT Truc Quan\FormMenu\obj\Debug\FormMenu.Form4.resources
+E:\LT Truc Quan\FormMenu\obj\Debug\FormMenu.Properties.Resources.resources
+E:\LT Truc Quan\FormMenu\obj\Debug\FormMenu.csproj.GenerateResource.cache
+E:\LT Truc Quan\FormMenu\obj\Debug\FormMenu.csproj.CoreCompileInputs.cache
+E:\LT Truc Quan\FormMenu\obj\Debug\FormMenu.exe
+E:\LT Truc Quan\FormMenu\obj\Debug\FormMenu.pdb

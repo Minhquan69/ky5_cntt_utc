@@ -1,0 +1,10 @@
+E:\visualstudio\ProjectInVisual\test20_8_lttq\test20_8_lttq\bin\Debug\test20_8_lttq.exe.config
+E:\visualstudio\ProjectInVisual\test20_8_lttq\test20_8_lttq\bin\Debug\test20_8_lttq.exe
+E:\visualstudio\ProjectInVisual\test20_8_lttq\test20_8_lttq\bin\Debug\test20_8_lttq.pdb
+E:\visualstudio\ProjectInVisual\test20_8_lttq\test20_8_lttq\obj\Debug\test20_8_lttq.csproj.AssemblyReference.cache
+E:\visualstudio\ProjectInVisual\test20_8_lttq\test20_8_lttq\obj\Debug\test20_8_lttq.Form1.resources
+E:\visualstudio\ProjectInVisual\test20_8_lttq\test20_8_lttq\obj\Debug\test20_8_lttq.Properties.Resources.resources
+E:\visualstudio\ProjectInVisual\test20_8_lttq\test20_8_lttq\obj\Debug\test20_8_lttq.csproj.GenerateResource.cache
+E:\visualstudio\ProjectInVisual\test20_8_lttq\test20_8_lttq\obj\Debug\test20_8_lttq.csproj.CoreCompileInputs.cache
+E:\visualstudio\ProjectInVisual\test20_8_lttq\test20_8_lttq\obj\Debug\test20_8_lttq.exe
+E:\visualstudio\ProjectInVisual\test20_8_lttq\test20_8_lttq\obj\Debug\test20_8_lttq.pdb

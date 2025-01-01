@@ -1,0 +1,10 @@
+E:\LT Truc Quan\THBuoi1_Baitap3\BTtrenLop\BTtrenLop\bin\Debug\BTtrenLop.exe.config
+E:\LT Truc Quan\THBuoi1_Baitap3\BTtrenLop\BTtrenLop\bin\Debug\BTtrenLop.exe
+E:\LT Truc Quan\THBuoi1_Baitap3\BTtrenLop\BTtrenLop\bin\Debug\BTtrenLop.pdb
+E:\LT Truc Quan\THBuoi1_Baitap3\BTtrenLop\BTtrenLop\obj\Debug\BTtrenLop.csproj.AssemblyReference.cache
+E:\LT Truc Quan\THBuoi1_Baitap3\BTtrenLop\BTtrenLop\obj\Debug\BTtrenLop.Form1.resources
+E:\LT Truc Quan\THBuoi1_Baitap3\BTtrenLop\BTtrenLop\obj\Debug\BTtrenLop.Properties.Resources.resources
+E:\LT Truc Quan\THBuoi1_Baitap3\BTtrenLop\BTtrenLop\obj\Debug\BTtrenLop.csproj.GenerateResource.cache
+E:\LT Truc Quan\THBuoi1_Baitap3\BTtrenLop\BTtrenLop\obj\Debug\BTtrenLop.csproj.CoreCompileInputs.cache
+E:\LT Truc Quan\THBuoi1_Baitap3\BTtrenLop\BTtrenLop\obj\Debug\BTtrenLop.exe
+E:\LT Truc Quan\THBuoi1_Baitap3\BTtrenLop\BTtrenLop\obj\Debug\BTtrenLop.pdb

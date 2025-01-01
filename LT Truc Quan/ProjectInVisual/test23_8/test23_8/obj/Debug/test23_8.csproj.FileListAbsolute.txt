@@ -1,0 +1,14 @@
+E:\visualstudio\ProjectInVisual\test23_8\test23_8\bin\Debug\test23_8.exe.config
+E:\visualstudio\ProjectInVisual\test23_8\test23_8\bin\Debug\test23_8.exe
+E:\visualstudio\ProjectInVisual\test23_8\test23_8\bin\Debug\test23_8.pdb
+E:\visualstudio\ProjectInVisual\test23_8\test23_8\obj\Debug\test23_8.csproj.AssemblyReference.cache
+E:\visualstudio\ProjectInVisual\test23_8\test23_8\obj\Debug\test23_8.csproj.CoreCompileInputs.cache
+E:\visualstudio\ProjectInVisual\test23_8\test23_8\obj\Debug\test23_8.exe
+E:\visualstudio\ProjectInVisual\test23_8\test23_8\obj\Debug\test23_8.pdb
+E:\LT Truc Quan\ProjectInVisual\test23_8\test23_8\bin\Debug\test23_8.exe.config
+E:\LT Truc Quan\ProjectInVisual\test23_8\test23_8\bin\Debug\test23_8.exe
+E:\LT Truc Quan\ProjectInVisual\test23_8\test23_8\bin\Debug\test23_8.pdb
+E:\LT Truc Quan\ProjectInVisual\test23_8\test23_8\obj\Debug\test23_8.csproj.AssemblyReference.cache
+E:\LT Truc Quan\ProjectInVisual\test23_8\test23_8\obj\Debug\test23_8.csproj.CoreCompileInputs.cache
+E:\LT Truc Quan\ProjectInVisual\test23_8\test23_8\obj\Debug\test23_8.exe
+E:\LT Truc Quan\ProjectInVisual\test23_8\test23_8\obj\Debug\test23_8.pdb

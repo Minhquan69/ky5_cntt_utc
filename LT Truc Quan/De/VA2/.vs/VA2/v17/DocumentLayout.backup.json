@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\LT Truc Quan\\De\\VA2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F11F474F-E717-4CE5-9AF8-865EA4665ED5}|VA2\\VA2.csproj|E:\\LT Truc Quan\\De\\VA2\\va2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F11F474F-E717-4CE5-9AF8-865EA4665ED5}|VA2\\VA2.csproj|solutionrelative:va2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11F474F-E717-4CE5-9AF8-865EA4665ED5}|VA2\\VA2.csproj|e:\\lt truc quan\\de\\va2\\va2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F11F474F-E717-4CE5-9AF8-865EA4665ED5}|VA2\\VA2.csproj|solutionrelative:va2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11F474F-E717-4CE5-9AF8-865EA4665ED5}|VA2\\VA2.csproj|E:\\LT Truc Quan\\De\\VA2\\va2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F11F474F-E717-4CE5-9AF8-865EA4665ED5}|VA2\\VA2.csproj|solutionrelative:va2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11F474F-E717-4CE5-9AF8-865EA4665ED5}|VA2\\VA2.csproj|E:\\LT Truc Quan\\De\\VA2\\va2\\classes\\dataprocesser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F11F474F-E717-4CE5-9AF8-865EA4665ED5}|VA2\\VA2.csproj|solutionrelative:va2\\classes\\dataprocesser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\LT Truc Quan\\De\\VA2\\VA2\\Form1.cs",
+              "RelativeDocumentMoniker": "VA2\\Form1.cs",
+              "ToolTip": "E:\\LT Truc Quan\\De\\VA2\\VA2\\Form1.cs",
+              "RelativeToolTip": "VA2\\Form1.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAlwEMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T04:34:24.03Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\LT Truc Quan\\De\\VA2\\VA2\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "VA2\\Form1.Designer.cs",
+              "ToolTip": "E:\\LT Truc Quan\\De\\VA2\\VA2\\Form1.Designer.cs",
+              "RelativeToolTip": "VA2\\Form1.Designer.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAApwE8AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T04:44:43.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataProcesser.cs",
+              "DocumentMoniker": "E:\\LT Truc Quan\\De\\VA2\\VA2\\Classes\\DataProcesser.cs",
+              "RelativeDocumentMoniker": "VA2\\Classes\\DataProcesser.cs",
+              "ToolTip": "E:\\LT Truc Quan\\De\\VA2\\VA2\\Classes\\DataProcesser.cs",
+              "RelativeToolTip": "VA2\\Classes\\DataProcesser.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwCYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T04:33:59.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\LT Truc Quan\\De\\VA2\\VA2\\Form1.cs",
+              "RelativeDocumentMoniker": "VA2\\Form1.cs",
+              "ToolTip": "E:\\LT Truc Quan\\De\\VA2\\VA2\\Form1.cs [Design]",
+              "RelativeToolTip": "VA2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T04:18:35.626Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

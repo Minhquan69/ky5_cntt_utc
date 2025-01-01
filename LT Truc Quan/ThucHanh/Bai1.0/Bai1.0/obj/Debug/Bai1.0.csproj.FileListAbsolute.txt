@@ -1,0 +1,14 @@
+D:\Ki1_Nam3\LTTQ\BT\Bai1.0\Bai1.0\bin\Debug\Bai1.0.exe.config
+D:\Ki1_Nam3\LTTQ\BT\Bai1.0\Bai1.0\bin\Debug\Bai1.0.exe
+D:\Ki1_Nam3\LTTQ\BT\Bai1.0\Bai1.0\bin\Debug\Bai1.0.pdb
+D:\Ki1_Nam3\LTTQ\BT\Bai1.0\Bai1.0\obj\Debug\Bai1.0.csproj.AssemblyReference.cache
+D:\Ki1_Nam3\LTTQ\BT\Bai1.0\Bai1.0\obj\Debug\Bai1.0.csproj.CoreCompileInputs.cache
+D:\Ki1_Nam3\LTTQ\BT\Bai1.0\Bai1.0\obj\Debug\Bai1.0.exe
+D:\Ki1_Nam3\LTTQ\BT\Bai1.0\Bai1.0\obj\Debug\Bai1.0.pdb
+C:\Users\DELL\Downloads\Bai1.0\Bai1.0\bin\Debug\Bai1.0.exe.config
+C:\Users\DELL\Downloads\Bai1.0\Bai1.0\bin\Debug\Bai1.0.exe
+C:\Users\DELL\Downloads\Bai1.0\Bai1.0\bin\Debug\Bai1.0.pdb
+C:\Users\DELL\Downloads\Bai1.0\Bai1.0\obj\Debug\Bai1.0.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\Bai1.0\Bai1.0\obj\Debug\Bai1.0.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Bai1.0\Bai1.0\obj\Debug\Bai1.0.exe
+C:\Users\DELL\Downloads\Bai1.0\Bai1.0\obj\Debug\Bai1.0.pdb

@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\visualstudio\\ProjectInVisual\\ltweb20_8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC3F718-07D6-42EF-A00D-31446791F355}|ltweb20_8\\ltweb20_8.csproj|e:\\visualstudio\\projectinvisual\\ltweb20_8\\ltweb20_8\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC3F718-07D6-42EF-A00D-31446791F355}|ltweb20_8\\ltweb20_8.csproj|solutionrelative:ltweb20_8\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC3F718-07D6-42EF-A00D-31446791F355}|ltweb20_8\\ltweb20_8.csproj|e:\\visualstudio\\projectinvisual\\ltweb20_8\\ltweb20_8\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEC3F718-07D6-42EF-A00D-31446791F355}|ltweb20_8\\ltweb20_8.csproj|solutionrelative:ltweb20_8\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC3F718-07D6-42EF-A00D-31446791F355}|ltweb20_8\\ltweb20_8.csproj|e:\\visualstudio\\projectinvisual\\ltweb20_8\\ltweb20_8\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC3F718-07D6-42EF-A00D-31446791F355}|ltweb20_8\\ltweb20_8.csproj|solutionrelative:ltweb20_8\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC3F718-07D6-42EF-A00D-31446791F355}|ltweb20_8\\ltweb20_8.csproj|e:\\visualstudio\\projectinvisual\\ltweb20_8\\ltweb20_8\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEC3F718-07D6-42EF-A00D-31446791F355}|ltweb20_8\\ltweb20_8.csproj|solutionrelative:ltweb20_8\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC3F718-07D6-42EF-A00D-31446791F355}|ltweb20_8\\ltweb20_8.csproj|e:\\visualstudio\\projectinvisual\\ltweb20_8\\ltweb20_8\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC3F718-07D6-42EF-A00D-31446791F355}|ltweb20_8\\ltweb20_8.csproj|solutionrelative:ltweb20_8\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC3F718-07D6-42EF-A00D-31446791F355}|ltweb20_8\\ltweb20_8.csproj|e:\\visualstudio\\projectinvisual\\ltweb20_8\\ltweb20_8\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEC3F718-07D6-42EF-A00D-31446791F355}|ltweb20_8\\ltweb20_8.csproj|solutionrelative:ltweb20_8\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC3F718-07D6-42EF-A00D-31446791F355}|ltweb20_8\\ltweb20_8.csproj|e:\\visualstudio\\projectinvisual\\ltweb20_8\\ltweb20_8\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEC3F718-07D6-42EF-A00D-31446791F355}|ltweb20_8\\ltweb20_8.csproj|solutionrelative:ltweb20_8\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC3F718-07D6-42EF-A00D-31446791F355}|ltweb20_8\\ltweb20_8.csproj|e:\\visualstudio\\projectinvisual\\ltweb20_8\\ltweb20_8\\views\\shared\\_partialheader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEC3F718-07D6-42EF-A00D-31446791F355}|ltweb20_8\\ltweb20_8.csproj|solutionrelative:ltweb20_8\\views\\shared\\_partialheader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC3F718-07D6-42EF-A00D-31446791F355}|ltweb20_8\\ltweb20_8.csproj|e:\\visualstudio\\projectinvisual\\ltweb20_8\\ltweb20_8\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEC3F718-07D6-42EF-A00D-31446791F355}|ltweb20_8\\ltweb20_8.csproj|solutionrelative:ltweb20_8\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEC3F718-07D6-42EF-A00D-31446791F355}|ltweb20_8\\ltweb20_8.csproj|e:\\visualstudio\\projectinvisual\\ltweb20_8\\ltweb20_8\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEC3F718-07D6-42EF-A00D-31446791F355}|ltweb20_8\\ltweb20_8.csproj|solutionrelative:ltweb20_8\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\visualstudio\\ProjectInVisual\\ltweb20_8\\ltweb20_8\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "ltweb20_8\\Views\\Home\\Login.cshtml",
+              "ToolTip": "E:\\visualstudio\\ProjectInVisual\\ltweb20_8\\ltweb20_8\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "ltweb20_8\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-23T06:49:09.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cs",
+              "DocumentMoniker": "E:\\visualstudio\\ProjectInVisual\\ltweb20_8\\ltweb20_8\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "ltweb20_8\\Models\\Login.cs",
+              "ToolTip": "E:\\visualstudio\\ProjectInVisual\\ltweb20_8\\ltweb20_8\\Models\\Login.cs*",
+              "RelativeToolTip": "ltweb20_8\\Models\\Login.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:43:00.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\visualstudio\\ProjectInVisual\\ltweb20_8\\ltweb20_8\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ltweb20_8\\Models\\User.cs",
+              "ToolTip": "E:\\visualstudio\\ProjectInVisual\\ltweb20_8\\ltweb20_8\\Models\\User.cs",
+              "RelativeToolTip": "ltweb20_8\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T10:08:04.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\visualstudio\\ProjectInVisual\\ltweb20_8\\ltweb20_8\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ltweb20_8\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "E:\\visualstudio\\ProjectInVisual\\ltweb20_8\\ltweb20_8\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ltweb20_8\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T09:23:23.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\visualstudio\\ProjectInVisual\\ltweb20_8\\ltweb20_8\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ltweb20_8\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\visualstudio\\ProjectInVisual\\ltweb20_8\\ltweb20_8\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ltweb20_8\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAF4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T09:08:28.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\visualstudio\\ProjectInVisual\\ltweb20_8\\ltweb20_8\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ltweb20_8\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\visualstudio\\ProjectInVisual\\ltweb20_8\\ltweb20_8\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ltweb20_8\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wBQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T09:08:17.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\visualstudio\\ProjectInVisual\\ltweb20_8\\ltweb20_8\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ltweb20_8\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\visualstudio\\ProjectInVisual\\ltweb20_8\\ltweb20_8\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ltweb20_8\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T08:54:16.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "E:\\visualstudio\\ProjectInVisual\\ltweb20_8\\ltweb20_8\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ltweb20_8\\Models\\ErrorViewModel.cs",
+              "ToolTip": "E:\\visualstudio\\ProjectInVisual\\ltweb20_8\\ltweb20_8\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ltweb20_8\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T08:53:55.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_partialHeader.cshtml",
+              "DocumentMoniker": "E:\\visualstudio\\ProjectInVisual\\ltweb20_8\\ltweb20_8\\Views\\Shared\\_partialHeader.cshtml",
+              "RelativeDocumentMoniker": "ltweb20_8\\Views\\Shared\\_partialHeader.cshtml",
+              "ToolTip": "E:\\visualstudio\\ProjectInVisual\\ltweb20_8\\ltweb20_8\\Views\\Shared\\_partialHeader.cshtml",
+              "RelativeToolTip": "ltweb20_8\\Views\\Shared\\_partialHeader.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T09:07:36.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\visualstudio\\ProjectInVisual\\ltweb20_8\\ltweb20_8\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ltweb20_8\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\visualstudio\\ProjectInVisual\\ltweb20_8\\ltweb20_8\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ltweb20_8\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T08:54:14.458Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

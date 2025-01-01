@@ -1,0 +1,10 @@
+E:\LT Truc Quan\De\De1\De1\bin\Debug\De1.exe.config
+E:\LT Truc Quan\De\De1\De1\bin\Debug\De1.exe
+E:\LT Truc Quan\De\De1\De1\bin\Debug\De1.pdb
+E:\LT Truc Quan\De\De1\De1\obj\Debug\De1.csproj.AssemblyReference.cache
+E:\LT Truc Quan\De\De1\De1\obj\Debug\De1.Form1.resources
+E:\LT Truc Quan\De\De1\De1\obj\Debug\De1.Properties.Resources.resources
+E:\LT Truc Quan\De\De1\De1\obj\Debug\De1.csproj.GenerateResource.cache
+E:\LT Truc Quan\De\De1\De1\obj\Debug\De1.csproj.CoreCompileInputs.cache
+E:\LT Truc Quan\De\De1\De1\obj\Debug\De1.exe
+E:\LT Truc Quan\De\De1\De1\obj\Debug\De1.pdb

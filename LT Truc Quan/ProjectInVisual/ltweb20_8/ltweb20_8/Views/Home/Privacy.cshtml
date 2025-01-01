@@ -1,0 +1,24 @@
+﻿@using ltweb20_8.Models;
+@model User
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+
+    <h2>User Form</h2>
+    @using (Html.BeginForm())
+    {
+        @Html.ValidationSummary(true)
+        <div>@Html.LabelFor(model => model.name)</div>
+        <div>@Html.EditorFor(model => model.name)</div>
+        <div>@Html.LabelFor(model => model.address)</div>
+        @Html.EditorFor(model => model.address)
+        <div>@Html.LabelFor(model => model.email)</div>
+        <div>@Html.EditorFor(model => model.email) </div>
+        <p><input type="submit" value="Create" /></p>
+    }
+</body>
+</html>

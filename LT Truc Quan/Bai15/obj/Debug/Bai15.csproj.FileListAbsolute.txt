@@ -1,0 +1,20 @@
+D:\Ki1_Nam3\LTTQ\BT\Bai15\Bai15\obj\Debug\Bai15.csproj.AssemblyReference.cache
+D:\Ki1_Nam3\LTTQ\BT\Bai15\Bai15\obj\Debug\Bai15.Properties.Resources.resources
+D:\Ki1_Nam3\LTTQ\BT\Bai15\Bai15\obj\Debug\Bai15.csproj.GenerateResource.cache
+D:\Ki1_Nam3\LTTQ\BT\Bai15\Bai15\obj\Debug\Bai15.csproj.CoreCompileInputs.cache
+D:\Ki1_Nam3\LTTQ\BT\Bai15\Bai15\obj\Debug\Bai15.Form2.resources
+D:\Ki1_Nam3\LTTQ\BT\Bai15\Bai15\bin\Debug\Bai15.exe.config
+D:\Ki1_Nam3\LTTQ\BT\Bai15\Bai15\bin\Debug\Bai15.exe
+D:\Ki1_Nam3\LTTQ\BT\Bai15\Bai15\bin\Debug\Bai15.pdb
+D:\Ki1_Nam3\LTTQ\BT\Bai15\Bai15\obj\Debug\Bai15.exe
+D:\Ki1_Nam3\LTTQ\BT\Bai15\Bai15\obj\Debug\Bai15.pdb
+E:\LT Truc Quan\Bai15\bin\Debug\Bai15.exe.config
+E:\LT Truc Quan\Bai15\bin\Debug\Bai15.exe
+E:\LT Truc Quan\Bai15\bin\Debug\Bai15.pdb
+E:\LT Truc Quan\Bai15\obj\Debug\Bai15.csproj.AssemblyReference.cache
+E:\LT Truc Quan\Bai15\obj\Debug\Bai15.Form2.resources
+E:\LT Truc Quan\Bai15\obj\Debug\Bai15.Properties.Resources.resources
+E:\LT Truc Quan\Bai15\obj\Debug\Bai15.csproj.GenerateResource.cache
+E:\LT Truc Quan\Bai15\obj\Debug\Bai15.csproj.CoreCompileInputs.cache
+E:\LT Truc Quan\Bai15\obj\Debug\Bai15.exe
+E:\LT Truc Quan\Bai15\obj\Debug\Bai15.pdb

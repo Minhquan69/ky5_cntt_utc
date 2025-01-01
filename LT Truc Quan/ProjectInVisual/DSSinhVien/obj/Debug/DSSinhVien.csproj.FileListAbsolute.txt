@@ -1,0 +1,7 @@
+D:\Lập Trình Trực Quan\Code\DSSinhVien\DSSinhVien\bin\Debug\DSSinhVien.exe.config
+D:\Lập Trình Trực Quan\Code\DSSinhVien\DSSinhVien\bin\Debug\DSSinhVien.exe
+D:\Lập Trình Trực Quan\Code\DSSinhVien\DSSinhVien\bin\Debug\DSSinhVien.pdb
+D:\Lập Trình Trực Quan\Code\DSSinhVien\DSSinhVien\obj\Debug\DSSinhVien.csproj.AssemblyReference.cache
+D:\Lập Trình Trực Quan\Code\DSSinhVien\DSSinhVien\obj\Debug\DSSinhVien.csproj.CoreCompileInputs.cache
+D:\Lập Trình Trực Quan\Code\DSSinhVien\DSSinhVien\obj\Debug\DSSinhVien.exe
+D:\Lập Trình Trực Quan\Code\DSSinhVien\DSSinhVien\obj\Debug\DSSinhVien.pdb

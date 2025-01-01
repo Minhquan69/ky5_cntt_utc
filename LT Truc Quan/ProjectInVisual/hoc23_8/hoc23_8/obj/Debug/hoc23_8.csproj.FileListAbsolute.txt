@@ -1,0 +1,9 @@
+E:\visualstudio\ProjectInVisual\hoc23_8\hoc23_8\bin\Debug\hoc23_8.exe.config
+E:\visualstudio\ProjectInVisual\hoc23_8\hoc23_8\bin\Debug\hoc23_8.exe
+E:\visualstudio\ProjectInVisual\hoc23_8\hoc23_8\bin\Debug\hoc23_8.pdb
+E:\visualstudio\ProjectInVisual\hoc23_8\hoc23_8\obj\Debug\hoc23_8.csproj.AssemblyReference.cache
+E:\visualstudio\ProjectInVisual\hoc23_8\hoc23_8\obj\Debug\hoc23_8.Properties.Resources.resources
+E:\visualstudio\ProjectInVisual\hoc23_8\hoc23_8\obj\Debug\hoc23_8.csproj.GenerateResource.cache
+E:\visualstudio\ProjectInVisual\hoc23_8\hoc23_8\obj\Debug\hoc23_8.csproj.CoreCompileInputs.cache
+E:\visualstudio\ProjectInVisual\hoc23_8\hoc23_8\obj\Debug\hoc23_8.exe
+E:\visualstudio\ProjectInVisual\hoc23_8\hoc23_8\obj\Debug\hoc23_8.pdb

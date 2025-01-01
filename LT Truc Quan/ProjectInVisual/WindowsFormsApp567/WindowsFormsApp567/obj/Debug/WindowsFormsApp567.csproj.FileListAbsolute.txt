@@ -1,0 +1,4 @@
+E:\visualstudio\ProjectInVisual\WindowsFormsApp567\WindowsFormsApp567\obj\Debug\WindowsFormsApp567.csproj.AssemblyReference.cache
+E:\visualstudio\ProjectInVisual\WindowsFormsApp567\WindowsFormsApp567\obj\Debug\WindowsFormsApp567.Properties.Resources.resources
+E:\visualstudio\ProjectInVisual\WindowsFormsApp567\WindowsFormsApp567\obj\Debug\WindowsFormsApp567.csproj.GenerateResource.cache
+E:\visualstudio\ProjectInVisual\WindowsFormsApp567\WindowsFormsApp567\obj\Debug\WindowsFormsApp567.csproj.CoreCompileInputs.cache
