@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Wed\\KTralan2\\TestKT2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8235593C-F9ED-47C2-BD79-5F39A25CA3D5}|TestKT2\\TestKT2.csproj|e:\\wed\\ktralan2\\testkt2\\testkt2\\models\\qlthuviencontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8235593C-F9ED-47C2-BD79-5F39A25CA3D5}|TestKT2\\TestKT2.csproj|solutionrelative:testkt2\\models\\qlthuviencontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8235593C-F9ED-47C2-BD79-5F39A25CA3D5}|TestKT2\\TestKT2.csproj|e:\\wed\\ktralan2\\testkt2\\testkt2\\views\\shared\\components\\tensach\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8235593C-F9ED-47C2-BD79-5F39A25CA3D5}|TestKT2\\TestKT2.csproj|solutionrelative:testkt2\\views\\shared\\components\\tensach\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8235593C-F9ED-47C2-BD79-5F39A25CA3D5}|TestKT2\\TestKT2.csproj|e:\\wed\\ktralan2\\testkt2\\testkt2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8235593C-F9ED-47C2-BD79-5F39A25CA3D5}|TestKT2\\TestKT2.csproj|solutionrelative:testkt2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8235593C-F9ED-47C2-BD79-5F39A25CA3D5}|TestKT2\\TestKT2.csproj|e:\\wed\\ktralan2\\testkt2\\testkt2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8235593C-F9ED-47C2-BD79-5F39A25CA3D5}|TestKT2\\TestKT2.csproj|solutionrelative:testkt2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8235593C-F9ED-47C2-BD79-5F39A25CA3D5}|TestKT2\\TestKT2.csproj|e:\\wed\\ktralan2\\testkt2\\testkt2\\views\\shared\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8235593C-F9ED-47C2-BD79-5F39A25CA3D5}|TestKT2\\TestKT2.csproj|solutionrelative:testkt2\\views\\shared\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8235593C-F9ED-47C2-BD79-5F39A25CA3D5}|TestKT2\\TestKT2.csproj|e:\\wed\\ktralan2\\testkt2\\testkt2\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8235593C-F9ED-47C2-BD79-5F39A25CA3D5}|TestKT2\\TestKT2.csproj|solutionrelative:testkt2\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8235593C-F9ED-47C2-BD79-5F39A25CA3D5}|TestKT2\\TestKT2.csproj|e:\\wed\\ktralan2\\testkt2\\testkt2\\viewcomponents\\tensachviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8235593C-F9ED-47C2-BD79-5F39A25CA3D5}|TestKT2\\TestKT2.csproj|solutionrelative:testkt2\\viewcomponents\\tensachviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8235593C-F9ED-47C2-BD79-5F39A25CA3D5}|TestKT2\\TestKT2.csproj|e:\\wed\\ktralan2\\testkt2\\testkt2\\views\\shared\\_layoutindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8235593C-F9ED-47C2-BD79-5F39A25CA3D5}|TestKT2\\TestKT2.csproj|solutionrelative:testkt2\\views\\shared\\_layoutindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8235593C-F9ED-47C2-BD79-5F39A25CA3D5}|TestKT2\\TestKT2.csproj|e:\\wed\\ktralan2\\testkt2\\testkt2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8235593C-F9ED-47C2-BD79-5F39A25CA3D5}|TestKT2\\TestKT2.csproj|solutionrelative:testkt2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8235593C-F9ED-47C2-BD79-5F39A25CA3D5}|TestKT2\\TestKT2.csproj|e:\\wed\\ktralan2\\testkt2\\testkt2\\views\\home\\suathongtin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8235593C-F9ED-47C2-BD79-5F39A25CA3D5}|TestKT2\\TestKT2.csproj|solutionrelative:testkt2\\views\\home\\suathongtin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8235593C-F9ED-47C2-BD79-5F39A25CA3D5}|TestKT2\\TestKT2.csproj|e:\\wed\\ktralan2\\testkt2\\testkt2\\testkt2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8235593C-F9ED-47C2-BD79-5F39A25CA3D5}|TestKT2\\TestKT2.csproj|solutionrelative:testkt2\\testkt2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QlthuVienContext.cs",
+              "DocumentMoniker": "E:\\Wed\\KTralan2\\TestKT2\\TestKT2\\Models\\QlthuVienContext.cs",
+              "RelativeDocumentMoniker": "TestKT2\\Models\\QlthuVienContext.cs",
+              "ToolTip": "E:\\Wed\\KTralan2\\TestKT2\\TestKT2\\Models\\QlthuVienContext.cs",
+              "RelativeToolTip": "TestKT2\\Models\\QlthuVienContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T15:20:28.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Wed\\KTralan2\\TestKT2\\TestKT2\\Program.cs",
+              "RelativeDocumentMoniker": "TestKT2\\Program.cs",
+              "ToolTip": "E:\\Wed\\KTralan2\\TestKT2\\TestKT2\\Program.cs",
+              "RelativeToolTip": "TestKT2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:50:17.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Footer.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTralan2\\TestKT2\\TestKT2\\Views\\Shared\\Footer.cshtml",
+              "RelativeDocumentMoniker": "TestKT2\\Views\\Shared\\Footer.cshtml",
+              "ToolTip": "E:\\Wed\\KTralan2\\TestKT2\\TestKT2\\Views\\Shared\\Footer.cshtml",
+              "RelativeToolTip": "TestKT2\\Views\\Shared\\Footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T02:57:05.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Header.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTralan2\\TestKT2\\TestKT2\\Views\\Shared\\Header.cshtml",
+              "RelativeDocumentMoniker": "TestKT2\\Views\\Shared\\Header.cshtml",
+              "ToolTip": "E:\\Wed\\KTralan2\\TestKT2\\TestKT2\\Views\\Shared\\Header.cshtml",
+              "RelativeToolTip": "TestKT2\\Views\\Shared\\Header.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T02:56:54.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Wed\\KTralan2\\TestKT2\\TestKT2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TestKT2\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Wed\\KTralan2\\TestKT2\\TestKT2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TestKT2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAiwAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T03:43:48.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTralan2\\TestKT2\\TestKT2\\Views\\Shared\\Components\\TenSach\\Default.cshtml",
+              "RelativeDocumentMoniker": "TestKT2\\Views\\Shared\\Components\\TenSach\\Default.cshtml",
+              "ToolTip": "E:\\Wed\\KTralan2\\TestKT2\\TestKT2\\Views\\Shared\\Components\\TenSach\\Default.cshtml",
+              "RelativeToolTip": "TestKT2\\Views\\Shared\\Components\\TenSach\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T03:15:40.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_LayoutIndex.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTralan2\\TestKT2\\TestKT2\\Views\\Shared\\_LayoutIndex.cshtml",
+              "RelativeDocumentMoniker": "TestKT2\\Views\\Shared\\_LayoutIndex.cshtml",
+              "ToolTip": "E:\\Wed\\KTralan2\\TestKT2\\TestKT2\\Views\\Shared\\_LayoutIndex.cshtml",
+              "RelativeToolTip": "TestKT2\\Views\\Shared\\_LayoutIndex.cshtml",
+              "ViewState": "AgIAAGoAAAAAAAAAAADgv4EAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T02:48:55.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TenSachViewComponent.cs",
+              "DocumentMoniker": "E:\\Wed\\KTralan2\\TestKT2\\TestKT2\\ViewComponents\\TenSachViewComponent.cs",
+              "RelativeDocumentMoniker": "TestKT2\\ViewComponents\\TenSachViewComponent.cs",
+              "ToolTip": "E:\\Wed\\KTralan2\\TestKT2\\TestKT2\\ViewComponents\\TenSachViewComponent.cs",
+              "RelativeToolTip": "TestKT2\\ViewComponents\\TenSachViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T03:12:59.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTralan2\\TestKT2\\TestKT2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TestKT2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Wed\\KTralan2\\TestKT2\\TestKT2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TestKT2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T03:08:58.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TestKT2.csproj",
+              "DocumentMoniker": "E:\\Wed\\KTralan2\\TestKT2\\TestKT2\\TestKT2.csproj",
+              "RelativeDocumentMoniker": "TestKT2\\TestKT2.csproj",
+              "ToolTip": "E:\\Wed\\KTralan2\\TestKT2\\TestKT2\\TestKT2.csproj",
+              "RelativeToolTip": "TestKT2\\TestKT2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-20T03:12:23.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SuaThongTin.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTralan2\\TestKT2\\TestKT2\\Views\\Home\\SuaThongTin.cshtml",
+              "RelativeDocumentMoniker": "TestKT2\\Views\\Home\\SuaThongTin.cshtml",
+              "ToolTip": "E:\\Wed\\KTralan2\\TestKT2\\TestKT2\\Views\\Home\\SuaThongTin.cshtml",
+              "RelativeToolTip": "TestKT2\\Views\\Home\\SuaThongTin.cshtml",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAE4AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T05:54:30.661Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

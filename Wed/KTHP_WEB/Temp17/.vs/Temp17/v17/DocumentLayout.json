@@ -1,0 +1,438 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Wed\\KTHP_WEB\\Temp17\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7CA807-BAB3-4626-B4CB-27C2FD012A51}|Temp17\\Temp17.csproj|e:\\wed\\kthp_web\\temp17\\temp17\\views\\home\\themhlv.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC7CA807-BAB3-4626-B4CB-27C2FD012A51}|Temp17\\Temp17.csproj|solutionrelative:temp17\\views\\home\\themhlv.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7CA807-BAB3-4626-B4CB-27C2FD012A51}|Temp17\\Temp17.csproj|e:\\wed\\kthp_web\\temp17\\temp17\\views\\home\\chitiet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC7CA807-BAB3-4626-B4CB-27C2FD012A51}|Temp17\\Temp17.csproj|solutionrelative:temp17\\views\\home\\chitiet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7CA807-BAB3-4626-B4CB-27C2FD012A51}|Temp17\\Temp17.csproj|e:\\wed\\kthp_web\\temp17\\temp17\\views\\shared\\components\\caulacbo\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC7CA807-BAB3-4626-B4CB-27C2FD012A51}|Temp17\\Temp17.csproj|solutionrelative:temp17\\views\\shared\\components\\caulacbo\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7CA807-BAB3-4626-B4CB-27C2FD012A51}|Temp17\\Temp17.csproj|e:\\wed\\kthp_web\\temp17\\temp17\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7CA807-BAB3-4626-B4CB-27C2FD012A51}|Temp17\\Temp17.csproj|solutionrelative:temp17\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7CA807-BAB3-4626-B4CB-27C2FD012A51}|Temp17\\Temp17.csproj|e:\\wed\\kthp_web\\temp17\\temp17\\viewcomponents\\caulacboviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7CA807-BAB3-4626-B4CB-27C2FD012A51}|Temp17\\Temp17.csproj|solutionrelative:temp17\\viewcomponents\\caulacboviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7CA807-BAB3-4626-B4CB-27C2FD012A51}|Temp17\\Temp17.csproj|e:\\wed\\kthp_web\\temp17\\temp17\\wwwroot\\temp17\\js\\jquery-3.3.1.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FC7CA807-BAB3-4626-B4CB-27C2FD012A51}|Temp17\\Temp17.csproj|solutionrelative:temp17\\wwwroot\\temp17\\js\\jquery-3.3.1.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7CA807-BAB3-4626-B4CB-27C2FD012A51}|Temp17\\Temp17.csproj|e:\\wed\\kthp_web\\temp17\\temp17\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC7CA807-BAB3-4626-B4CB-27C2FD012A51}|Temp17\\Temp17.csproj|solutionrelative:temp17\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7CA807-BAB3-4626-B4CB-27C2FD012A51}|Temp17\\Temp17.csproj|e:\\wed\\kthp_web\\temp17\\temp17\\views\\shared\\_layoutindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC7CA807-BAB3-4626-B4CB-27C2FD012A51}|Temp17\\Temp17.csproj|solutionrelative:temp17\\views\\shared\\_layoutindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7CA807-BAB3-4626-B4CB-27C2FD012A51}|Temp17\\Temp17.csproj|e:\\wed\\kthp_web\\temp17\\temp17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7CA807-BAB3-4626-B4CB-27C2FD012A51}|Temp17\\Temp17.csproj|solutionrelative:temp17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7CA807-BAB3-4626-B4CB-27C2FD012A51}|Temp17\\Temp17.csproj|e:\\wed\\kthp_web\\temp17\\temp17\\views\\shared\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC7CA807-BAB3-4626-B4CB-27C2FD012A51}|Temp17\\Temp17.csproj|solutionrelative:temp17\\views\\shared\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7CA807-BAB3-4626-B4CB-27C2FD012A51}|Temp17\\Temp17.csproj|e:\\wed\\kthp_web\\temp17\\temp17\\models\\huanluyenvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7CA807-BAB3-4626-B4CB-27C2FD012A51}|Temp17\\Temp17.csproj|solutionrelative:temp17\\models\\huanluyenvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Wed\\template\\17. shoppers-gh-pages\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7CA807-BAB3-4626-B4CB-27C2FD012A51}|Temp17\\Temp17.csproj|e:\\wed\\kthp_web\\temp17\\temp17\\views\\shared\\_layoutchitiet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC7CA807-BAB3-4626-B4CB-27C2FD012A51}|Temp17\\Temp17.csproj|solutionrelative:temp17\\views\\shared\\_layoutchitiet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7CA807-BAB3-4626-B4CB-27C2FD012A51}|Temp17\\Temp17.csproj|e:\\wed\\kthp_web\\temp17\\temp17\\models\\trandau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7CA807-BAB3-4626-B4CB-27C2FD012A51}|Temp17\\Temp17.csproj|solutionrelative:temp17\\models\\trandau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7CA807-BAB3-4626-B4CB-27C2FD012A51}|Temp17\\Temp17.csproj|e:\\wed\\kthp_web\\temp17\\temp17\\views\\home\\suahlv.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC7CA807-BAB3-4626-B4CB-27C2FD012A51}|Temp17\\Temp17.csproj|solutionrelative:temp17\\views\\home\\suahlv.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7CA807-BAB3-4626-B4CB-27C2FD012A51}|Temp17\\Temp17.csproj|e:\\wed\\kthp_web\\temp17\\temp17\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC7CA807-BAB3-4626-B4CB-27C2FD012A51}|Temp17\\Temp17.csproj|solutionrelative:temp17\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7CA807-BAB3-4626-B4CB-27C2FD012A51}|Temp17\\Temp17.csproj|e:\\wed\\kthp_web\\temp17\\temp17\\models\\caulacbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7CA807-BAB3-4626-B4CB-27C2FD012A51}|Temp17\\Temp17.csproj|solutionrelative:temp17\\models\\caulacbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7CA807-BAB3-4626-B4CB-27C2FD012A51}|Temp17\\Temp17.csproj|e:\\wed\\kthp_web\\temp17\\temp17\\wwwroot\\temp17\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FC7CA807-BAB3-4626-B4CB-27C2FD012A51}|Temp17\\Temp17.csproj|solutionrelative:temp17\\wwwroot\\temp17\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7CA807-BAB3-4626-B4CB-27C2FD012A51}|Temp17\\Temp17.csproj|e:\\wed\\kthp_web\\temp17\\temp17\\wwwroot\\temp17\\js\\aos.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FC7CA807-BAB3-4626-B4CB-27C2FD012A51}|Temp17\\Temp17.csproj|solutionrelative:temp17\\wwwroot\\temp17\\js\\aos.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7CA807-BAB3-4626-B4CB-27C2FD012A51}|Temp17\\Temp17.csproj|e:\\wed\\kthp_web\\temp17\\temp17\\wwwroot\\temp17\\js\\bootstrap.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FC7CA807-BAB3-4626-B4CB-27C2FD012A51}|Temp17\\Temp17.csproj|solutionrelative:temp17\\wwwroot\\temp17\\js\\bootstrap.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7CA807-BAB3-4626-B4CB-27C2FD012A51}|Temp17\\Temp17.csproj|e:\\wed\\kthp_web\\temp17\\temp17\\wwwroot\\temp17\\js\\jquery.magnific-popup.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FC7CA807-BAB3-4626-B4CB-27C2FD012A51}|Temp17\\Temp17.csproj|solutionrelative:temp17\\wwwroot\\temp17\\js\\jquery.magnific-popup.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7CA807-BAB3-4626-B4CB-27C2FD012A51}|Temp17\\Temp17.csproj|e:\\wed\\kthp_web\\temp17\\temp17\\wwwroot\\temp17\\js\\slick.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FC7CA807-BAB3-4626-B4CB-27C2FD012A51}|Temp17\\Temp17.csproj|solutionrelative:temp17\\wwwroot\\temp17\\js\\slick.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7CA807-BAB3-4626-B4CB-27C2FD012A51}|Temp17\\Temp17.csproj|e:\\wed\\kthp_web\\temp17\\temp17\\wwwroot\\temp17\\js\\popper.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FC7CA807-BAB3-4626-B4CB-27C2FD012A51}|Temp17\\Temp17.csproj|solutionrelative:temp17\\wwwroot\\temp17\\js\\popper.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7CA807-BAB3-4626-B4CB-27C2FD012A51}|Temp17\\Temp17.csproj|e:\\wed\\kthp_web\\temp17\\temp17\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC7CA807-BAB3-4626-B4CB-27C2FD012A51}|Temp17\\Temp17.csproj|solutionrelative:temp17\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7CA807-BAB3-4626-B4CB-27C2FD012A51}|Temp17\\Temp17.csproj|e:\\wed\\kthp_web\\temp17\\temp17\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC7CA807-BAB3-4626-B4CB-27C2FD012A51}|Temp17\\Temp17.csproj|solutionrelative:temp17\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7CA807-BAB3-4626-B4CB-27C2FD012A51}|Temp17\\Temp17.csproj|e:\\wed\\kthp_web\\temp17\\temp17\\models\\qlgiaibongdacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7CA807-BAB3-4626-B4CB-27C2FD012A51}|Temp17\\Temp17.csproj|solutionrelative:temp17\\models\\qlgiaibongdacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\Temp17\\Temp17\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Temp17\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\Temp17\\Temp17\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Temp17\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T16:38:18.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_LayoutIndex.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\Temp17\\Temp17\\Views\\Shared\\_LayoutIndex.cshtml",
+              "RelativeDocumentMoniker": "Temp17\\Views\\Shared\\_LayoutIndex.cshtml",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\Temp17\\Temp17\\Views\\Shared\\_LayoutIndex.cshtml",
+              "RelativeToolTip": "Temp17\\Views\\Shared\\_LayoutIndex.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T15:48:07.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\Temp17\\Temp17\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Temp17\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\Temp17\\Temp17\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Temp17\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACMAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T11:33:08.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThemHLV.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\Temp17\\Temp17\\Views\\Home\\ThemHLV.cshtml",
+              "RelativeDocumentMoniker": "Temp17\\Views\\Home\\ThemHLV.cshtml",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\Temp17\\Temp17\\Views\\Home\\ThemHLV.cshtml",
+              "RelativeToolTip": "Temp17\\Views\\Home\\ThemHLV.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T12:21:11.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChiTiet.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\Temp17\\Temp17\\Views\\Home\\ChiTiet.cshtml",
+              "RelativeDocumentMoniker": "Temp17\\Views\\Home\\ChiTiet.cshtml",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\Temp17\\Temp17\\Views\\Home\\ChiTiet.cshtml",
+              "RelativeToolTip": "Temp17\\Views\\Home\\ChiTiet.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T11:49:02.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "jquery-3.3.1.min.js",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\Temp17\\Temp17\\wwwroot\\Temp17\\js\\jquery-3.3.1.min.js",
+              "RelativeDocumentMoniker": "Temp17\\wwwroot\\Temp17\\js\\jquery-3.3.1.min.js",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\Temp17\\Temp17\\wwwroot\\Temp17\\js\\jquery-3.3.1.min.js",
+              "RelativeToolTip": "Temp17\\wwwroot\\Temp17\\js\\jquery-3.3.1.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-26T17:34:26.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\Temp17\\Temp17\\Views\\Shared\\Components\\CauLacBo\\Default.cshtml",
+              "RelativeDocumentMoniker": "Temp17\\Views\\Shared\\Components\\CauLacBo\\Default.cshtml",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\Temp17\\Temp17\\Views\\Shared\\Components\\CauLacBo\\Default.cshtml",
+              "RelativeToolTip": "Temp17\\Views\\Shared\\Components\\CauLacBo\\Default.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T18:09:35.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CauLacBoViewComponent.cs",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\Temp17\\Temp17\\ViewComponents\\CauLacBoViewComponent.cs",
+              "RelativeDocumentMoniker": "Temp17\\ViewComponents\\CauLacBoViewComponent.cs",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\Temp17\\Temp17\\ViewComponents\\CauLacBoViewComponent.cs",
+              "RelativeToolTip": "Temp17\\ViewComponents\\CauLacBoViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T18:10:25.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\Temp17\\Temp17\\Program.cs",
+              "RelativeDocumentMoniker": "Temp17\\Program.cs",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\Temp17\\Temp17\\Program.cs",
+              "RelativeToolTip": "Temp17\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T11:37:13.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Header.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\Temp17\\Temp17\\Views\\Shared\\Header.cshtml",
+              "RelativeDocumentMoniker": "Temp17\\Views\\Shared\\Header.cshtml",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\Temp17\\Temp17\\Views\\Shared\\Header.cshtml",
+              "RelativeToolTip": "Temp17\\Views\\Shared\\Header.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAiwCgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T15:48:23.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Huanluyenvien.cs",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\Temp17\\Temp17\\Models\\Huanluyenvien.cs",
+              "RelativeDocumentMoniker": "Temp17\\Models\\Huanluyenvien.cs",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\Temp17\\Temp17\\Models\\Huanluyenvien.cs",
+              "RelativeToolTip": "Temp17\\Models\\Huanluyenvien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T11:50:52.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "index.html",
+              "DocumentMoniker": "E:\\Wed\\template\\17. shoppers-gh-pages\\index.html",
+              "RelativeDocumentMoniker": "..\\..\\template\\17. shoppers-gh-pages\\index.html",
+              "ToolTip": "E:\\Wed\\template\\17. shoppers-gh-pages\\index.html",
+              "RelativeToolTip": "..\\..\\template\\17. shoppers-gh-pages\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-27T19:35:20.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_LayoutChiTiet.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\Temp17\\Temp17\\Views\\Shared\\_LayoutChiTiet.cshtml",
+              "RelativeDocumentMoniker": "Temp17\\Views\\Shared\\_LayoutChiTiet.cshtml",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\Temp17\\Temp17\\Views\\Shared\\_LayoutChiTiet.cshtml",
+              "RelativeToolTip": "Temp17\\Views\\Shared\\_LayoutChiTiet.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAIBJwDQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T10:18:40.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SuaHLV.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\Temp17\\Temp17\\Views\\Home\\SuaHLV.cshtml",
+              "RelativeDocumentMoniker": "Temp17\\Views\\Home\\SuaHLV.cshtml",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\Temp17\\Temp17\\Views\\Home\\SuaHLV.cshtml",
+              "RelativeToolTip": "Temp17\\Views\\Home\\SuaHLV.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T18:13:30.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Trandau.cs",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\Temp17\\Temp17\\Models\\Trandau.cs",
+              "RelativeDocumentMoniker": "Temp17\\Models\\Trandau.cs",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\Temp17\\Temp17\\Models\\Trandau.cs",
+              "RelativeToolTip": "Temp17\\Models\\Trandau.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T18:39:09.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\Temp17\\Temp17\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Temp17\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\Temp17\\Temp17\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Temp17\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-27T10:41:38.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Caulacbo.cs",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\Temp17\\Temp17\\Models\\Caulacbo.cs",
+              "RelativeDocumentMoniker": "Temp17\\Models\\Caulacbo.cs",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\Temp17\\Temp17\\Models\\Caulacbo.cs",
+              "RelativeToolTip": "Temp17\\Models\\Caulacbo.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBsAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T18:14:28.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "popper.min.js",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\Temp17\\Temp17\\wwwroot\\Temp17\\js\\popper.min.js",
+              "RelativeDocumentMoniker": "Temp17\\wwwroot\\Temp17\\js\\popper.min.js",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\Temp17\\Temp17\\wwwroot\\Temp17\\js\\popper.min.js",
+              "RelativeToolTip": "Temp17\\wwwroot\\Temp17\\js\\popper.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-26T17:34:20.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "slick.min.js",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\Temp17\\Temp17\\wwwroot\\Temp17\\js\\slick.min.js",
+              "RelativeDocumentMoniker": "Temp17\\wwwroot\\Temp17\\js\\slick.min.js",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\Temp17\\Temp17\\wwwroot\\Temp17\\js\\slick.min.js",
+              "RelativeToolTip": "Temp17\\wwwroot\\Temp17\\js\\slick.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-26T17:34:24.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "main.js",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\Temp17\\Temp17\\wwwroot\\Temp17\\js\\main.js",
+              "RelativeDocumentMoniker": "Temp17\\wwwroot\\Temp17\\js\\main.js",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\Temp17\\Temp17\\wwwroot\\Temp17\\js\\main.js",
+              "RelativeToolTip": "Temp17\\wwwroot\\Temp17\\js\\main.js",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvwsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-26T17:38:40.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "bootstrap.min.js",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\Temp17\\Temp17\\wwwroot\\Temp17\\js\\bootstrap.min.js",
+              "RelativeDocumentMoniker": "Temp17\\wwwroot\\Temp17\\js\\bootstrap.min.js",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\Temp17\\Temp17\\wwwroot\\Temp17\\js\\bootstrap.min.js",
+              "RelativeToolTip": "Temp17\\wwwroot\\Temp17\\js\\bootstrap.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-26T17:34:31.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "aos.js",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\Temp17\\Temp17\\wwwroot\\Temp17\\js\\aos.js",
+              "RelativeDocumentMoniker": "Temp17\\wwwroot\\Temp17\\js\\aos.js",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\Temp17\\Temp17\\wwwroot\\Temp17\\js\\aos.js",
+              "RelativeToolTip": "Temp17\\wwwroot\\Temp17\\js\\aos.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-26T17:34:33.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "jquery.magnific-popup.min.js",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\Temp17\\Temp17\\wwwroot\\Temp17\\js\\jquery.magnific-popup.min.js",
+              "RelativeDocumentMoniker": "Temp17\\wwwroot\\Temp17\\js\\jquery.magnific-popup.min.js",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\Temp17\\Temp17\\wwwroot\\Temp17\\js\\jquery.magnific-popup.min.js",
+              "RelativeToolTip": "Temp17\\wwwroot\\Temp17\\js\\jquery.magnific-popup.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-26T17:27:42.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\Temp17\\Temp17\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Temp17\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\Temp17\\Temp17\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Temp17\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T11:35:57.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Footer.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\Temp17\\Temp17\\Views\\Shared\\Footer.cshtml",
+              "RelativeDocumentMoniker": "Temp17\\Views\\Shared\\Footer.cshtml",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\Temp17\\Temp17\\Views\\Shared\\Footer.cshtml",
+              "RelativeToolTip": "Temp17\\Views\\Shared\\Footer.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAowEgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T15:48:34.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "QlgiaiBongDaContext.cs",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\Temp17\\Temp17\\Models\\QlgiaiBongDaContext.cs",
+              "RelativeDocumentMoniker": "Temp17\\Models\\QlgiaiBongDaContext.cs",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\Temp17\\Temp17\\Models\\QlgiaiBongDaContext.cs",
+              "RelativeToolTip": "Temp17\\Models\\QlgiaiBongDaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T17:10:08.371Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

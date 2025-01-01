@@ -1,0 +1,8 @@
+﻿@model List<TNhaXb>
+
+@foreach(var item in Model)
+{
+    <li class="active"><a href ="javascript:void(0)" onclick="loadData('@item.TenNxb')">@item.TenNxb</a>
+
+    </li>
+}

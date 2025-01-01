@@ -1,0 +1,66 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/_LayoutIndex.cshtml";
+}
+
+@model List<TSach>
+
+<div id="result">
+@foreach(var item in Model)
+{
+	<div class="grid_1_of_4 images_1_of_4">
+		<h4><a href="preview.html">@item.MaSach</a></h4>
+		<a href="preview.html"><img src="@Url.Content("../Layout/images/" + item.FileAnh)" alt="" style="width: 120px; height: 120px;" /></a>
+		<div class="price-details">
+			<div class="price-number">
+				<p><span class="rupees">@item.TenSach</span></p>
+			</div>
+			<div class="add-cart">
+                    <h4><a asp-action="SuaThongTin" asp-route-masach="@item.MaSach">Sửa Thông Tin</a></h4>
+			</div>
+			<div class="clear"></div>
+		</div>
+	</div>
+}
+</div>
+
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script type="text/javascript">
+    function loadData(tenloaisach) {
+        $.ajax({
+            url: '@Url.Action("GetData", "Home")',
+            type: 'GET',
+            data: { tenloaisach: tenloaisach }, 
+            success: function (response) {
+                console.log(response);
+                if (Array.isArray(response) && response.length > 0) {
+                    let html = '';
+                    response.forEach(function (item) {
+                        html += `
+                                <div class="grid_1_of_4 images_1_of_4">
+                                    <h4><a href="preview.html">${item.maSach}</a></h4>
+                                    <a href="preview.html"><img src="../Layout/images/${item.fileAnh}" alt="" style="width: 120px; height: 120px;" /></a>
+                                    <div class="price-details">
+                                        <div class="price-number">
+                                            <p><span class="rupees">${item.tenSach}</span></p>
+                                        </div>
+                                        <div class="add-cart">
+                                            <h4><a href="preview.html">Sửa Thông Tin</a></h4>
+                                        </div>
+                                        <div class="clear"></div>
+                                    </div>
+                                </div>`;
+                    });
+                    $('#result').html(html);
+                } else {
+                    $('#result').html('Không có sách nào với loại này.');
+                }
+            },
+            error: function () {
+                $('#result').html('Có lỗi xảy ra.');
+            }
+        });
+    }
+</script>
+

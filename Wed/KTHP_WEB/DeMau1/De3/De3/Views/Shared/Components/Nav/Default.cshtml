@@ -1,0 +1,74 @@
+﻿@model IEnumerable<Category>
+@foreach(var item in Model)
+{
+    <li><a href="javascript:void(0)" onclick="loadData('@item.Id')"><i class="fa fa-arrow-right" aria-hidden="true"></i>@item.Name</a></li>
+}
+<script src="../De3/js/jquery-1.11.1.min.js"></script>
+<script type="text/javascript">
+    function loadData(Id) {
+        $.ajax({
+            url: '@Url.Action("GetData", "Home")',
+            type: 'GET',
+            data: { Id: Id },
+            success: function (response) {
+                console.log(response); // Log the response to see its structure
+
+                if (response.length > 0) {
+                    let tableHtml = `
+                                              
+                                            `;
+                    response.forEach(match => {
+                        tableHtml += `
+						<div class="col-md-4 top_brand_left">
+							<div class="hover14 column">
+							<div class="agile_top_brand_left_grid">
+							<div class="agile_top_brand_left_grid_pos">
+								<img src="../De3/images/offer.png" alt=" " class="img-responsive">
+							</div>
+							<div class="agile_top_brand_left_grid1">
+							<figure>
+							<div class="snipcart-item block">
+								<div class="snipcart-thumb">
+											<a href="single.html"><img title=" " alt=" " src="../De3/images/${match.image}"></a>
+											<p>${match.name}</p>
+											<h4>${match.unitPrice} <span>$55.00</span></h4>
+								</div>
+								<div class="snipcart-details top_brand_home_details">
+									<form action="#" method="post">
+										<fieldset>
+											<input type="hidden" name="cmd" value="_cart">
+											<input type="hidden" name="add" value="1">
+											<input type="hidden" name="business" value=" ">
+											<input type="hidden" name="item_name" value="Fortune Sunflower Oil">
+											<input type="hidden" name="amount" value="35.99">
+											<input type="hidden" name="discount_amount" value="1.00">
+											<input type="hidden" name="currency_code" value="USD">
+											<input type="hidden" name="return" value=" ">
+											<input type="hidden" name="cancel_return" value=" ">
+											<input type="submit" name="submit" value="Add to cart" class="button">
+										</fieldset>
+									</form>
+								</div>
+							</div>
+						</figure>
+					</div>
+				</div>
+			</div>
+		</div>
+                                            `;
+                    });
+
+                    tableHtml += `
+                                   
+                                        `;
+                    $('.agile_top_brands_grids').html(tableHtml);
+                } else {
+                    $('.agile_top_brands_grids').html('Không có sách nào.');
+                }
+            },
+            error: function () {
+                $('#result').html('Có lỗi xảy ra.');
+            }
+        });
+    }
+</script>

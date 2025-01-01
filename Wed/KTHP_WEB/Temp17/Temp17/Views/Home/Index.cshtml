@@ -1,0 +1,74 @@
+﻿@model IEnumerable<Huanluyenvien>
+@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/_LayoutIndex.cshtml";
+}
+<div id="result"></div>
+<div class="site-section block-3 site-blocks-2 bg-light">
+    <div class="site-section block-3 site-blocks-2 bg-light">
+        <div class="container">
+    <p>
+        <a asp-action="ThemHLV" class="btn btn-primary" style="color: #ffffff;">Thêm mới</a>
+    </p>
+
+    <div class="row justify-content-center">
+        <div class="col-md-7 site-section-heading text-center pt-4">
+            <h2>DANH SÁCH HUẤN LUYỆN VIÊN</h2>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+        <div class="nonloop-block-3 owl-carousel">
+                @foreach (var item in Model)
+                {
+                    <div class="item">
+                        <div class="block-4 text-center">
+                            <figure class="block-4-image">
+                                <img src="@Url.Content("../images/" + @item.Anh)"
+                                     alt="Image placeholder"
+                                     class="img-fluid"
+                                     style="width: 100%; height: 210px;">
+                            </figure>
+                            <div class="block-4-text p-4">
+                                <h3><a href="#">Tên HLV: @item.TenHlv</a></h3>
+                                <p class="mb-0">Năm sinh: @item.NamSinh</p>
+                                <p class="text-primary font-weight-bold">Quốc tịch: @item.QuocTich</p>
+                                <a asp-action="ChiTiet" asp-route-HuanLuyenVienId="@item.HuanLuyenVienId" class="btn btn-primary" style="color: #ffffff;">Chi tiết</a>
+                                <a asp-action="SuaHLV" asp-route-HuanLuyenVienId="@item.HuanLuyenVienId"
+                                   class="btn btn-primary" style="color: #ffffff;">Sửa</a>
+                                <a onclick="return confirmDelete('@item.TenHlv', '@item.HuanLuyenVienId')"
+                                   asp-action="XoaHLV" asp-route-HuanLuyenVienId="@item.HuanLuyenVienId"
+                                   class="btn btn-primary" style="color: #ffffff;">Xóa</a>
+
+
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+        </div>
+    </div>
+</div>
+
+
+
+@if (TempData["Message"] != null)
+{
+    <script>
+        alert('@TempData["Message"]');
+    </script>
+}
+<script>
+    function confirmDelete(TenHlv, HuanLuyenVienId) {
+        // Hiển thị hộp thoại xác nhận
+        var result = confirm("Bạn có chắc chắn muốn xóa HLV \"" + TenHlv + "\" không?");
+        if (result) {
+            // Nếu người dùng xác nhận, chuyển hướng đến phương thức XoaSach trong controller
+            window.location.href = '/XoaHLV?HuanLuyenVienId=' + HuanLuyenVienId;
+        }
+        return false; // Ngăn không cho sự kiện click tiếp tục
+    }
+</script>
+

@@ -1,0 +1,93 @@
+﻿@{
+	ViewData["Title"] = "Home Page";
+	Layout = "~/Views/Shared/_LayoutIndex.cshtml";
+}
+
+@model List<TDocGium>
+
+
+<div class="row">
+	<div class="col-sm-8 offset-sm-2 text-center colorlib-heading">
+		<h2>Danh Sách Độc Giả</h2>
+	</div>
+</div>
+
+<p>
+    <a asp-action="ThemSach" class="btn btn-primary">Thêm mới</a>
+</p>
+
+<div id="result">
+<div class="row row-pb-md">
+    @foreach (var item in Model)
+    {
+        <div class="col-lg-3 mb-4 text-center">
+            <div class="product-entry border">
+                <a href="#" class="prod-img">
+                    <img src=" @Url.Content("../Layout/images/" + item.Anh)" style="width: 208.4px; height: 208.4px;" class="img-fluid" alt="Free html5 bootstrap 4 template">
+                </a>
+                <div class="desc">
+                    <h2><a href="#">@item.TenDg</a></h2>
+                    <span class="price">@item.MaDg</span>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+</div>
+
+
+<script type="text/javascript">
+    function loadData(tennxb) {
+        $.ajax({
+            url: '@Url.Action("GetData", "Home")',
+            type: 'GET',
+            data: { tennxb: tennxb },
+            success: function (response) {
+                console.log(response);
+                if (Array.isArray(response) && response.length > 0) {
+                    let html = '<div class="row row-pb-md">';
+                    response.forEach(function (item, index) {
+                        html += `
+                                    <div class="col-lg-3 mb-4 text-center">
+                                        <div class="product-entry border">
+                                            <a href="#" class="prod-img">
+                                                <img src="../Layout/images/${item.fileAnh}" style="width: 208.4px; height: 208.4px;" class="img-fluid" alt="Free html5 bootstrap 4 template">
+                                            </a>
+                                            <div class="desc">
+                                                <h2><a href="#">${item.tenSach}</a></h2>
+                                                <span class="price">${item.maSach}</span>
+                                                <p>
+                                                    <a href="/SuaThongTin?masach=${item.maSach}" class="btn btn-primary sua-thong-tin">Sửa Thông Tin</a>
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>`;
+
+                        // Đóng thẻ div.row sau mỗi 4 sản phẩm (1 hàng)
+                        if ((index + 1) % 4 === 0) {
+                            html += '</div><div class="row row-pb-md">';
+                        }
+                    });
+                    html += '</div>'; // Đóng thẻ cuối cùng
+
+                    $('#result').html(html);
+
+                    // Gắn lại sự kiện click cho liên kết Sửa Thông Tin sau khi nội dung mới được thêm vào
+                    $('.sua-thong-tin').on('click', function (e) {
+                        e.preventDefault();
+                        const url = $(this).attr('href');
+                        window.location.href = url;
+                    });
+                } else {
+                    $('#result').html('Không có sách nào với loại này.');
+                }
+            },
+            error: function () {
+                $('#result').html('Có lỗi xảy ra.');
+            }
+        });
+    }
+</script>
+
+
+

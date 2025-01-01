@@ -1,0 +1,37 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/_LayoutIndex.cshtml";
+}
+@model IEnumerable<TDocGium>
+<div id="result">
+	<div class="row">
+		<div class="col">
+			<div class="product-grid" data-isotope='{ "itemSelector": ".product-item", "layoutMode": "fitRows" }'>
+
+				@foreach (var item in Model)
+				{
+					<!-- Product 1 -->
+
+					<div class="product-item men">
+						<div class="product discount product_filter">
+							<div class="product_image">
+								<img src="@Url.Content("../Images/" + @item.Anh)" alt="">
+							</div>
+							<div class="favorite favorite_left"></div>
+							<div class="product_bubble product_bubble_right product_bubble_red d-flex flex-column align-items-center"><span>-$20</span></div>
+							<div class="product_info">
+								<h6 class="product_name"><a href="single.html">@item.HoDem @item.TenDg</a></h6>
+								<div class="product_price">CMND: @item.SoCmnd</div>
+							</div>
+						</div>
+						<div class="red_button add_to_cart_button"><a href="#">add to cart</a></div>
+					</div>
+
+
+				}
+			</div>
+		</div>
+	</div>
+    </div>
+
+

@@ -1,0 +1,36 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.10" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.10" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.10">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.6" />
+    <PackageReference Include="X.PagedList" Version="10.5.3" />
+    <PackageReference Include="X.PagedList.Mvc.Core" Version="10.5.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\template15\css\.DS_Store" />
+    <None Include="wwwroot\template15\css\css\.DS_Store" />
+    <None Include="wwwroot\template15\css\css\mixins\.DS_Store" />
+    <None Include="wwwroot\template15\fonts\.DS_Store" />
+    <None Include="wwwroot\template15\fonts\bootstrap\.DS_Store" />
+    <None Include="wwwroot\template15\fonts\flaticon\.DS_Store" />
+    <None Include="wwwroot\template15\fonts\icomoon\.DS_Store" />
+    <None Include="wwwroot\template15\fonts\ionicons\fonts\.DS_Store" />
+    <None Include="wwwroot\template15\images\.DS_Store" />
+    <None Include="wwwroot\template15\js\.DS_Store" />
+    <None Include="wwwroot\template15\sass\.DS_Store" />
+    <None Include="wwwroot\template15\sass\bootstrap\.DS_Store" />
+  </ItemGroup>
+
+</Project>

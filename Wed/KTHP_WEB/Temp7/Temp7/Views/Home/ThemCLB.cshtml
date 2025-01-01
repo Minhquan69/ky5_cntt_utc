@@ -1,0 +1,55 @@
+﻿@model Temp7.Models.Caulacbo
+
+@{
+    ViewData["Title"] = "ThemCLB";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div style="margin-left:10%">
+    <h1>ThemCLB</h1>
+
+    <h4>Caulacbo</h4>
+    <hr />
+    <div class="row">
+        <div class="col-md-4">
+            <form asp-action="ThemCLB">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="CauLacBoId" class="control-label"></label>
+                    <input asp-for="CauLacBoId" class="form-control" />
+                    <span asp-validation-for="CauLacBoId" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="TenClb" class="control-label"></label>
+                    <input asp-for="TenClb" class="form-control" />
+                    <span asp-validation-for="TenClb" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="TenGoi" class="control-label"></label>
+                    <input asp-for="TenGoi" class="form-control" />
+                    <span asp-validation-for="TenGoi" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="SanVanDongId" class="control-label"></label>
+                    <select asp-for="SanVanDongId" class ="form-control" asp-items="ViewBag.SanVanDongId"></select>
+                </div>
+                <div class="form-group">
+                    <label asp-for="HuanLuyenVienId" class="control-label"></label>
+                    <select asp-for="HuanLuyenVienId" class ="form-control" asp-items="ViewBag.HuanLuyenVienId"></select>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Anh" class="control-label"></label>
+                    <input asp-for="Anh" class="form-control" />
+                    <span asp-validation-for="Anh" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Create" class="btn btn-primary" />
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div>
+        <a asp-action="Index">Back to List</a>
+    </div>
+</div>
+

@@ -1,0 +1,60 @@
+﻿@model De2.Models.Customer
+@{
+    ViewData["Title"] = "Privacy Policy";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div style="margin-left:13%">
+    <h2>Sign Up</h2>
+    <hr />
+    <div class="row">
+        <div class="col-md-6">
+            <form asp-action="SignUp">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                <!-- Full Name -->
+                <div class="form-group row">
+                    <label asp-for="Fullname" class="control-label col-md-3 text-right" style="margin-top:6px"></label>
+                    <div class="col-md-9">
+                        <input asp-for="Fullname" class="form-control" />
+                        <span asp-validation-for="Fullname" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <!-- Email -->
+                <div class="form-group row">
+                    <label asp-for="Email" class="control-label col-md-3 text-right" style="margin-top:6px"></label>
+                    <div class="col-md-9">
+                        <input asp-for="Email" class="form-control" />
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <!-- Password -->
+                <div class="form-group row">
+                    <label asp-for="Password" class="control-label col-md-3 text-right" style="margin-top:6px"></label>
+                    <div class="col-md-9">
+                        <input asp-for="Password" type="password" class="form-control" />
+                        <span asp-validation-for="Password" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <!-- RePassword -->
+                <div class="form-group row">
+                    <label asp-for="RePassword" class="control-label col-md-3 text-right" style="margin-top:6px"></label>
+                    <div class="col-md-9">
+                        <input asp-for="RePassword" type="password" class="form-control" />
+                        <span asp-validation-for="RePassword" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <!-- Submit Button -->
+                <div class="form-group">
+                    <input type="submit" value="Sign Up" class="btn btn-primary" />
+                </div>
+            </form>
+        </div>
+    </div>
+     
+</div>
+
+

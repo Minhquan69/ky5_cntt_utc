@@ -1,0 +1,32 @@
+﻿<header class="header">
+    <nav class="navbar">
+        <div class="grid wide">
+            <nav class="nav row">
+                <div class="col l-2 m-6 c-6">
+                    <div class="header__logo">
+                        <a href="">
+                            <img src="../Temp7/assets/img/logo.png" alt="" class="header__logo-img">
+                        </a>
+                    </div>
+                </div>
+                <div class="col l-8 m-0 c-0">
+                    <ul class="nav__list">
+                        @await Component.InvokeAsync("CauLacBo")
+                    </ul>
+                    <div class="search-text">
+                        <input type="search" name="Tìm kiếm" placeholder="Tìm kiếm của bạn..">
+                        <a href="" class="search-btn"><i class="fa-solid fa-magnifying-glass"></i></a>
+                    </div>
+                </div>
+                <div class="GioHang" style="color: white; font-size: 30px; padding-left: 30px;">
+                    <a href="" class="nav__item-link"><i class="fa-brands fa-opencart"></i></a>
+
+                </div>
+                <div class="login" style="color: white; font-size: 30px; padding-left: 30px;">
+                    <a href="" class="nav__item-link"><i class='fas fa-user-circle'></i></a>
+
+                </div>
+            </nav>
+        </div>
+    </nav>
+</header>

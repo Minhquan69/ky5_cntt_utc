@@ -1,0 +1,26 @@
+﻿<!DOCTYPE HTML>
+<html lang="en">
+<head>
+	<title>Free Home Shoppe Website Template | Home :: w3layouts</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<link href="../DeMau/css/style.css" rel="stylesheet" type="text/css" media="all" />
+</head>
+<body>
+	<!-- Begin Wrap -->
+	<div class="wrap">
+		@await Html.PartialAsync("MinhQuan_Header")
+		<!-- Begin Main -->
+		<div class="main">
+			<div class="content">
+				<!-- Begin New Product -->
+				@RenderBody()
+			</div>
+		</div>
+		<!-- End Main -->
+	</div>
+	<!-- End Wrap -->
+	@await Html.PartialAsync("MinhQuan_Footer")
+</body>
+</html>
+

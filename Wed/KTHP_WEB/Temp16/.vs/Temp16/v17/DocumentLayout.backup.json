@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Wed\\KTHP_WEB\\Temp16\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70AE8B9E-17A5-489F-AD77-3C48421BFA0B}|Temp16\\Temp16.csproj|e:\\wed\\kthp_web\\temp16\\temp16\\models\\sanvandong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70AE8B9E-17A5-489F-AD77-3C48421BFA0B}|Temp16\\Temp16.csproj|solutionrelative:temp16\\models\\sanvandong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70AE8B9E-17A5-489F-AD77-3C48421BFA0B}|Temp16\\Temp16.csproj|e:\\wed\\kthp_web\\temp16\\temp16\\views\\home\\chitiet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70AE8B9E-17A5-489F-AD77-3C48421BFA0B}|Temp16\\Temp16.csproj|solutionrelative:temp16\\views\\home\\chitiet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70AE8B9E-17A5-489F-AD77-3C48421BFA0B}|Temp16\\Temp16.csproj|e:\\wed\\kthp_web\\temp16\\temp16\\views\\home\\themsvd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70AE8B9E-17A5-489F-AD77-3C48421BFA0B}|Temp16\\Temp16.csproj|solutionrelative:temp16\\views\\home\\themsvd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70AE8B9E-17A5-489F-AD77-3C48421BFA0B}|Temp16\\Temp16.csproj|e:\\wed\\kthp_web\\temp16\\temp16\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70AE8B9E-17A5-489F-AD77-3C48421BFA0B}|Temp16\\Temp16.csproj|solutionrelative:temp16\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70AE8B9E-17A5-489F-AD77-3C48421BFA0B}|Temp16\\Temp16.csproj|e:\\wed\\kthp_web\\temp16\\temp16\\views\\shared\\components\\trandau\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70AE8B9E-17A5-489F-AD77-3C48421BFA0B}|Temp16\\Temp16.csproj|solutionrelative:temp16\\views\\shared\\components\\trandau\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70AE8B9E-17A5-489F-AD77-3C48421BFA0B}|Temp16\\Temp16.csproj|e:\\wed\\kthp_web\\temp16\\temp16\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70AE8B9E-17A5-489F-AD77-3C48421BFA0B}|Temp16\\Temp16.csproj|solutionrelative:temp16\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70AE8B9E-17A5-489F-AD77-3C48421BFA0B}|Temp16\\Temp16.csproj|e:\\wed\\kthp_web\\temp16\\temp16\\viewcomponents\\trandauviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70AE8B9E-17A5-489F-AD77-3C48421BFA0B}|Temp16\\Temp16.csproj|solutionrelative:temp16\\viewcomponents\\trandauviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70AE8B9E-17A5-489F-AD77-3C48421BFA0B}|Temp16\\Temp16.csproj|e:\\wed\\kthp_web\\temp16\\temp16\\views\\shared\\_layoutindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70AE8B9E-17A5-489F-AD77-3C48421BFA0B}|Temp16\\Temp16.csproj|solutionrelative:temp16\\views\\shared\\_layoutindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70AE8B9E-17A5-489F-AD77-3C48421BFA0B}|Temp16\\Temp16.csproj|e:\\wed\\kthp_web\\temp16\\temp16\\views\\shared\\_layoutchitiet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70AE8B9E-17A5-489F-AD77-3C48421BFA0B}|Temp16\\Temp16.csproj|solutionrelative:temp16\\views\\shared\\_layoutchitiet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70AE8B9E-17A5-489F-AD77-3C48421BFA0B}|Temp16\\Temp16.csproj|e:\\wed\\kthp_web\\temp16\\temp16\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70AE8B9E-17A5-489F-AD77-3C48421BFA0B}|Temp16\\Temp16.csproj|solutionrelative:temp16\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70AE8B9E-17A5-489F-AD77-3C48421BFA0B}|Temp16\\Temp16.csproj|e:\\wed\\kthp_web\\temp16\\temp16\\views\\home\\suasvd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70AE8B9E-17A5-489F-AD77-3C48421BFA0B}|Temp16\\Temp16.csproj|solutionrelative:temp16\\views\\home\\suasvd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70AE8B9E-17A5-489F-AD77-3C48421BFA0B}|Temp16\\Temp16.csproj|e:\\wed\\kthp_web\\temp16\\temp16\\wwwroot\\temp16\\iepngfix.htc||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}",
+      "RelativeMoniker": "D:0:0:{70AE8B9E-17A5-489F-AD77-3C48421BFA0B}|Temp16\\Temp16.csproj|solutionrelative:temp16\\wwwroot\\temp16\\iepngfix.htc||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70AE8B9E-17A5-489F-AD77-3C48421BFA0B}|Temp16\\Temp16.csproj|e:\\wed\\kthp_web\\temp16\\temp16\\wwwroot\\temp16\\js\\boxover.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{70AE8B9E-17A5-489F-AD77-3C48421BFA0B}|Temp16\\Temp16.csproj|solutionrelative:temp16\\wwwroot\\temp16\\js\\boxover.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70AE8B9E-17A5-489F-AD77-3C48421BFA0B}|Temp16\\Temp16.csproj|e:\\wed\\kthp_web\\temp16\\temp16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70AE8B9E-17A5-489F-AD77-3C48421BFA0B}|Temp16\\Temp16.csproj|solutionrelative:temp16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70AE8B9E-17A5-489F-AD77-3C48421BFA0B}|Temp16\\Temp16.csproj|e:\\wed\\kthp_web\\temp16\\temp16\\views\\shared\\menu_tab.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70AE8B9E-17A5-489F-AD77-3C48421BFA0B}|Temp16\\Temp16.csproj|solutionrelative:temp16\\views\\shared\\menu_tab.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70AE8B9E-17A5-489F-AD77-3C48421BFA0B}|Temp16\\Temp16.csproj|e:\\wed\\kthp_web\\temp16\\temp16\\views\\shared\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70AE8B9E-17A5-489F-AD77-3C48421BFA0B}|Temp16\\Temp16.csproj|solutionrelative:temp16\\views\\shared\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70AE8B9E-17A5-489F-AD77-3C48421BFA0B}|Temp16\\Temp16.csproj|e:\\wed\\kthp_web\\temp16\\temp16\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70AE8B9E-17A5-489F-AD77-3C48421BFA0B}|Temp16\\Temp16.csproj|solutionrelative:temp16\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\Temp16\\Temp16\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Temp16\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\Temp16\\Temp16\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Temp16\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAACYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T05:54:44.809Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sanvandong.cs",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\Temp16\\Temp16\\Models\\Sanvandong.cs",
+              "RelativeDocumentMoniker": "Temp16\\Models\\Sanvandong.cs",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\Temp16\\Temp16\\Models\\Sanvandong.cs",
+              "RelativeToolTip": "Temp16\\Models\\Sanvandong.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T16:10:43.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\Temp16\\Temp16\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Temp16\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\Temp16\\Temp16\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Temp16\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T05:31:00.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_LayoutChiTiet.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\Temp16\\Temp16\\Views\\Shared\\_LayoutChiTiet.cshtml",
+              "RelativeDocumentMoniker": "Temp16\\Views\\Shared\\_LayoutChiTiet.cshtml",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\Temp16\\Temp16\\Views\\Shared\\_LayoutChiTiet.cshtml",
+              "RelativeToolTip": "Temp16\\Views\\Shared\\_LayoutChiTiet.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T05:27:59.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_LayoutIndex.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\Temp16\\Temp16\\Views\\Shared\\_LayoutIndex.cshtml",
+              "RelativeDocumentMoniker": "Temp16\\Views\\Shared\\_LayoutIndex.cshtml",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\Temp16\\Temp16\\Views\\Shared\\_LayoutIndex.cshtml",
+              "RelativeToolTip": "Temp16\\Views\\Shared\\_LayoutIndex.cshtml",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAEIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T05:27:46.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\Temp16\\Temp16\\Views\\Shared\\Components\\TranDau\\Default.cshtml",
+              "RelativeDocumentMoniker": "Temp16\\Views\\Shared\\Components\\TranDau\\Default.cshtml",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\Temp16\\Temp16\\Views\\Shared\\Components\\TranDau\\Default.cshtml",
+              "RelativeToolTip": "Temp16\\Views\\Shared\\Components\\TranDau\\Default.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T05:43:46.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThemSVD.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\Temp16\\Temp16\\Views\\Home\\ThemSVD.cshtml",
+              "RelativeDocumentMoniker": "Temp16\\Views\\Home\\ThemSVD.cshtml",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\Temp16\\Temp16\\Views\\Home\\ThemSVD.cshtml",
+              "RelativeToolTip": "Temp16\\Views\\Home\\ThemSVD.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T21:32:53.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChiTiet.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\Temp16\\Temp16\\Views\\Home\\ChiTiet.cshtml",
+              "RelativeDocumentMoniker": "Temp16\\Views\\Home\\ChiTiet.cshtml",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\Temp16\\Temp16\\Views\\Home\\ChiTiet.cshtml",
+              "RelativeToolTip": "Temp16\\Views\\Home\\ChiTiet.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T06:18:27.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Header.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\Temp16\\Temp16\\Views\\Shared\\Header.cshtml",
+              "RelativeDocumentMoniker": "Temp16\\Views\\Shared\\Header.cshtml",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\Temp16\\Temp16\\Views\\Shared\\Header.cshtml",
+              "RelativeToolTip": "Temp16\\Views\\Shared\\Header.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T05:34:06.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TranDauViewComponent.cs",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\Temp16\\Temp16\\ViewComponents\\TranDauViewComponent.cs",
+              "RelativeDocumentMoniker": "Temp16\\ViewComponents\\TranDauViewComponent.cs",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\Temp16\\Temp16\\ViewComponents\\TranDauViewComponent.cs",
+              "RelativeToolTip": "Temp16\\ViewComponents\\TranDauViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T05:42:00.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SuaSVD.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\Temp16\\Temp16\\Views\\Home\\SuaSVD.cshtml",
+              "RelativeDocumentMoniker": "Temp16\\Views\\Home\\SuaSVD.cshtml",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\Temp16\\Temp16\\Views\\Home\\SuaSVD.cshtml",
+              "RelativeToolTip": "Temp16\\Views\\Home\\SuaSVD.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBAAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T20:58:11.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\Temp16\\Temp16\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Temp16\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\Temp16\\Temp16\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Temp16\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T21:56:33.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Footer.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\Temp16\\Temp16\\Views\\Shared\\Footer.cshtml",
+              "RelativeDocumentMoniker": "Temp16\\Views\\Shared\\Footer.cshtml",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\Temp16\\Temp16\\Views\\Shared\\Footer.cshtml",
+              "RelativeToolTip": "Temp16\\Views\\Shared\\Footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T05:34:14.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "boxOver.js",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\Temp16\\Temp16\\wwwroot\\Temp16\\js\\boxOver.js",
+              "RelativeDocumentMoniker": "Temp16\\wwwroot\\Temp16\\js\\boxOver.js",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\Temp16\\Temp16\\wwwroot\\Temp16\\js\\boxOver.js",
+              "RelativeToolTip": "Temp16\\wwwroot\\Temp16\\js\\boxOver.js",
+              "ViewState": "AgIAAD4BAAAAAAAAAAAuwEoBAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-28T06:41:25.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "iepngfix.htc",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\Temp16\\Temp16\\wwwroot\\Temp16\\iepngfix.htc",
+              "RelativeDocumentMoniker": "Temp16\\wwwroot\\Temp16\\iepngfix.htc",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\Temp16\\Temp16\\wwwroot\\Temp16\\iepngfix.htc",
+              "RelativeToolTip": "Temp16\\wwwroot\\Temp16\\iepngfix.htc",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-28T06:42:54.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\Temp16\\Temp16\\Program.cs",
+              "RelativeDocumentMoniker": "Temp16\\Program.cs",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\Temp16\\Temp16\\Program.cs",
+              "RelativeToolTip": "Temp16\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T05:50:26.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Menu_tab.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\Temp16\\Temp16\\Views\\Shared\\Menu_tab.cshtml",
+              "RelativeDocumentMoniker": "Temp16\\Views\\Shared\\Menu_tab.cshtml",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\Temp16\\Temp16\\Views\\Shared\\Menu_tab.cshtml",
+              "RelativeToolTip": "Temp16\\Views\\Shared\\Menu_tab.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T05:38:00.545Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

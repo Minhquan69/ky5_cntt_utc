@@ -1,0 +1,845 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Temp12.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Temp12.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\css\\animate.css",
+      "PackagePath": "staticwebassets\\Temp\\css\\animate.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Temp\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Temp\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\css\\fontawesome-stars.css",
+      "PackagePath": "staticwebassets\\Temp\\css\\fontawesome-stars.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\css\\helper.css",
+      "PackagePath": "staticwebassets\\Temp\\css\\helper.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\css\\images\\ui-bg_glass_75_d0e5f5_1x400.png",
+      "PackagePath": "staticwebassets\\Temp\\css\\images\\ui-bg_glass_75_d0e5f5_1x400.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\css\\images\\ui-bg_glass_85_dfeffc_1x400.png",
+      "PackagePath": "staticwebassets\\Temp\\css\\images\\ui-bg_glass_85_dfeffc_1x400.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\css\\images\\ui-bg_glass_95_fef1ec_1x400.png",
+      "PackagePath": "staticwebassets\\Temp\\css\\images\\ui-bg_glass_95_fef1ec_1x400.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\css\\images\\ui-bg_gloss-wave_55_5c9ccc_500x100.png",
+      "PackagePath": "staticwebassets\\Temp\\css\\images\\ui-bg_gloss-wave_55_5c9ccc_500x100.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\css\\images\\ui-bg_inset-hard_100_f5f8f9_1x100.png",
+      "PackagePath": "staticwebassets\\Temp\\css\\images\\ui-bg_inset-hard_100_f5f8f9_1x100.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\css\\images\\ui-bg_inset-hard_100_fcfdfd_1x100.png",
+      "PackagePath": "staticwebassets\\Temp\\css\\images\\ui-bg_inset-hard_100_fcfdfd_1x100.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\css\\images\\ui-icons_217bc0_256x240.png",
+      "PackagePath": "staticwebassets\\Temp\\css\\images\\ui-icons_217bc0_256x240.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\css\\images\\ui-icons_2e83ff_256x240.png",
+      "PackagePath": "staticwebassets\\Temp\\css\\images\\ui-icons_2e83ff_256x240.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\css\\images\\ui-icons_469bdd_256x240.png",
+      "PackagePath": "staticwebassets\\Temp\\css\\images\\ui-icons_469bdd_256x240.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\css\\images\\ui-icons_6da8d5_256x240.png",
+      "PackagePath": "staticwebassets\\Temp\\css\\images\\ui-icons_6da8d5_256x240.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\css\\images\\ui-icons_cd0a0a_256x240.png",
+      "PackagePath": "staticwebassets\\Temp\\css\\images\\ui-icons_cd0a0a_256x240.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\css\\images\\ui-icons_d8e7f3_256x240.png",
+      "PackagePath": "staticwebassets\\Temp\\css\\images\\ui-icons_d8e7f3_256x240.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\css\\images\\ui-icons_f9bd01_256x240.png",
+      "PackagePath": "staticwebassets\\Temp\\css\\images\\ui-icons_f9bd01_256x240.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\css\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\Temp\\css\\jquery-ui.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\Temp\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\Temp\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\css\\meanmenu.css",
+      "PackagePath": "staticwebassets\\Temp\\css\\meanmenu.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\Temp\\css\\nice-select.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Temp\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\css\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\Temp\\css\\owl.video.play.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\Temp\\css\\responsive.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\css\\slick.css",
+      "PackagePath": "staticwebassets\\Temp\\css\\slick.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\css\\venobox.css",
+      "PackagePath": "staticwebassets\\Temp\\css\\venobox.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\fonts\\Material-Design-Iconic-Fontd1f1.ttf",
+      "PackagePath": "staticwebassets\\Temp\\fonts\\Material-Design-Iconic-Fontd1f1.ttf"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\fonts\\Material-Design-Iconic-Fontd1f1.woff",
+      "PackagePath": "staticwebassets\\Temp\\fonts\\Material-Design-Iconic-Fontd1f1.woff"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\fonts\\Material-Design-Iconic-Fontd1f1.woff2",
+      "PackagePath": "staticwebassets\\Temp\\fonts\\Material-Design-Iconic-Fontd1f1.woff2"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\fonts\\fontawesome-webfont3e6e.eot",
+      "PackagePath": "staticwebassets\\Temp\\fonts\\fontawesome-webfont3e6e.eot"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\fonts\\fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets\\Temp\\fonts\\fontawesome-webfont3e6e.svg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\fonts\\fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets\\Temp\\fonts\\fontawesome-webfont3e6e.ttf"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\fonts\\fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets\\Temp\\fonts\\fontawesome-webfont3e6e.woff"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\fonts\\fontawesome-webfont3e6e.woff2",
+      "PackagePath": "staticwebassets\\Temp\\fonts\\fontawesome-webfont3e6e.woff2"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\Temp\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\about-us\\icon\\1.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\about-us\\icon\\1.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\about-us\\icon\\2.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\about-us\\icon\\2.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\about-us\\icon\\3.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\about-us\\icon\\3.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\about-us\\icon\\4.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\about-us\\icon\\4.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\banner\\1_1.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\banner\\1_1.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\banner\\1_2.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\banner\\1_2.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\banner\\1_3.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\banner\\1_3.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\banner\\1_4.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\banner\\1_4.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\banner\\1_5.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\banner\\1_5.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\banner\\2_1.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\banner\\2_1.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\banner\\2_2.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\banner\\2_2.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\banner\\2_3.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\banner\\2_3.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\banner\\2_4.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\banner\\2_4.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\banner\\2_5.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\banner\\2_5.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\banner\\2_6.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\banner\\2_6.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\banner\\3_1.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\banner\\3_1.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\banner\\3_2.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\banner\\3_2.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\banner\\featured-banner.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\banner\\featured-banner.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\bg-banner\\1.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\bg-banner\\1.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\bg-banner\\2.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\bg-banner\\2.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\blog-banner\\1.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\blog-banner\\1.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\blog-banner\\2.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\blog-banner\\2.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\blog-banner\\3.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\blog-banner\\3.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\blog-banner\\5.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\blog-banner\\5.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\blog-banner\\6.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\blog-banner\\6.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\blog-banner\\bg-banner.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\blog-banner\\bg-banner.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\blog-banner\\large-size\\1.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\blog-banner\\large-size\\1.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\blog-banner\\large-size\\2.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\blog-banner\\large-size\\2.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\blog-banner\\large-size\\3.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\blog-banner\\large-size\\3.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\favicon.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\featured-product\\1.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\featured-product\\1.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\featured-product\\2.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\featured-product\\2.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\featured-product\\3.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\featured-product\\3.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\featured-product\\4.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\featured-product\\4.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\featured-product\\5.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\featured-product\\5.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\featured-product\\6.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\featured-product\\6.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\menu\\flag-icon\\1.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\menu\\flag-icon\\1.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\menu\\flag-icon\\2.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\menu\\flag-icon\\2.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\menu\\li-bg-menu.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\menu\\li-bg-menu.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\menu\\logo\\1.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\menu\\logo\\1.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\menu\\logo\\2.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\menu\\logo\\2.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\payment\\1.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\payment\\1.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\product-details\\1.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\product-details\\1.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\product-details\\admin.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\product-details\\admin.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\product-details\\user.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\product-details\\user.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\product\\large-size\\1.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\product\\large-size\\1.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\product\\large-size\\10.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\product\\large-size\\10.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\product\\large-size\\11.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\product\\large-size\\11.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\product\\large-size\\12.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\product\\large-size\\12.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\product\\large-size\\13.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\product\\large-size\\13.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\product\\large-size\\2.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\product\\large-size\\2.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\product\\large-size\\3.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\product\\large-size\\3.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\product\\large-size\\4.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\product\\large-size\\4.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\product\\large-size\\5.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\product\\large-size\\5.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\product\\large-size\\6.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\product\\large-size\\6.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\product\\large-size\\7.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\product\\large-size\\7.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\product\\large-size\\8.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\product\\large-size\\8.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\product\\large-size\\9.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\product\\large-size\\9.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\product\\small-size\\1.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\product\\small-size\\1.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\product\\small-size\\2.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\product\\small-size\\2.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\product\\small-size\\3.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\product\\small-size\\3.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\product\\small-size\\4.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\product\\small-size\\4.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\product\\small-size\\5.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\product\\small-size\\5.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\product\\small-size\\6.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\product\\small-size\\6.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\shipping-icon\\1.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\shipping-icon\\1.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\shipping-icon\\2.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\shipping-icon\\2.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\shipping-icon\\3.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\shipping-icon\\3.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\shipping-icon\\4.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\shipping-icon\\4.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\slider\\1.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\slider\\1.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\slider\\10.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\slider\\10.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\slider\\11.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\slider\\11.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\slider\\12.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\slider\\12.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\slider\\2.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\slider\\2.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\slider\\3.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\slider\\3.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\slider\\4.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\slider\\4.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\slider\\5.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\slider\\5.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\slider\\6.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\slider\\6.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\slider\\7.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\slider\\7.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\slider\\8.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\slider\\8.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\slider\\9.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\slider\\9.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\static-top\\1.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\static-top\\1.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\team\\1.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\team\\1.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\team\\2.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\team\\2.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\team\\3.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\team\\3.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\images\\team\\4.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\team\\4.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\js\\ajax-mail.js",
+      "PackagePath": "staticwebassets\\Temp\\js\\ajax-mail.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Temp\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\js\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\Temp\\js\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\js\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\Temp\\js\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\Temp\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\js\\jquery.barrating.min.js",
+      "PackagePath": "staticwebassets\\Temp\\js\\jquery.barrating.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\js\\jquery.countdown.min.js",
+      "PackagePath": "staticwebassets\\Temp\\js\\jquery.countdown.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\Temp\\js\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\Temp\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\js\\jquery.meanmenu.min.js",
+      "PackagePath": "staticwebassets\\Temp\\js\\jquery.meanmenu.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\js\\jquery.mixitup.min.js",
+      "PackagePath": "staticwebassets\\Temp\\js\\jquery.mixitup.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\Temp\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\js\\main.js",
+      "PackagePath": "staticwebassets\\Temp\\js\\main.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Temp\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\js\\scrollUp.min.js",
+      "PackagePath": "staticwebassets\\Temp\\js\\scrollUp.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\Temp\\js\\slick.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\js\\vendor\\jquery-1.12.4.min.js",
+      "PackagePath": "staticwebassets\\Temp\\js\\vendor\\jquery-1.12.4.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\js\\vendor\\modernizr-2.8.3.min.js",
+      "PackagePath": "staticwebassets\\Temp\\js\\vendor\\modernizr-2.8.3.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\js\\vendor\\popper.min.js",
+      "PackagePath": "staticwebassets\\Temp\\js\\vendor\\popper.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\js\\venobox.min.js",
+      "PackagePath": "staticwebassets\\Temp\\js\\venobox.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\Temp\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\Temp\\js\\wow.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\Temp\\style.css",
+      "PackagePath": "staticwebassets\\Temp\\style.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\12\\Temp12\\Temp12\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Temp12.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Temp12.props",
+      "PackagePath": "build\\Temp12.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Temp12.props",
+      "PackagePath": "buildMultiTargeting\\Temp12.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Temp12.props",
+      "PackagePath": "buildTransitive\\Temp12.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

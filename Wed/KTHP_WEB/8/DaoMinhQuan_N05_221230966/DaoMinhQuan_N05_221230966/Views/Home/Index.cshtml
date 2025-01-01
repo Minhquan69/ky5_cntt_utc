@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/DaoMinhQuan_Layout.cshtml";
+}
+@using X.PagedList.Mvc.Core;
+@model X.PagedList.IPagedList<dynamic>
+
+<div class="center_content">
+    <div class="center_title_bar">Latest Products</div>
+    @foreach (var i in Model)
+    {
+        <div class="prod_box">
+            <div class="top_prod_box"></div>
+        <div class="center_prod_box">
+            <div class="product_title"><a href="details.html">@i.Name</a></div>
+            <div class="product_img"><a href="details.html"><img src="../Temp/images/laptop.gif" alt="" border="0" /></a></div>
+            <div class="prod_price"><span class="reduce">350$</span> <span class="price">270$</span></div>
+        </div>
+        <div class="bottom_prod_box"></div>
+        <div class="prod_details_tab"> <a href="#" title="header=[Add to cart] body=[&nbsp;] fade=[on]"><img src="../Temp/images/cart.gif" alt="" border="0" class="left_bt" /></a> <a href="#" title="header=[Specials] body=[&nbsp;] fade=[on]"><img src="../Temp/images/favs.gif" alt="" border="0" class="left_bt" /></a> <a href="#" title="header=[Gifts] body=[&nbsp;] fade=[on]"><img src="../Temp/images/favorites.gif" alt="" border="0" class="left_bt" /></a> <a href="details.html" class="prod_details">details</a> </div>
+    </div>
+    }
+    <div class="product__pagination">
+        @*hien thi phan` phan trang tu 1 - 10 ... *@
+        @Html.PagedListPager(Model, page => Url.Action("Index", new { page = page }))
+    </div>
+</div>

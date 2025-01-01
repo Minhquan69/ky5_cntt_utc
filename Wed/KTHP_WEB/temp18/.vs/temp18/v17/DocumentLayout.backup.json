@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Wed\\KTHP_WEB\\temp18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28AF9749-7444-447E-9329-C2D3111CD158}|temp18\\temp18.csproj|e:\\wed\\kthp_web\\temp18\\temp18\\views\\shared\\components\\trandau\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28AF9749-7444-447E-9329-C2D3111CD158}|temp18\\temp18.csproj|solutionrelative:temp18\\views\\shared\\components\\trandau\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AF9749-7444-447E-9329-C2D3111CD158}|temp18\\temp18.csproj|e:\\wed\\kthp_web\\temp18\\temp18\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28AF9749-7444-447E-9329-C2D3111CD158}|temp18\\temp18.csproj|solutionrelative:temp18\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AF9749-7444-447E-9329-C2D3111CD158}|temp18\\temp18.csproj|e:\\wed\\kthp_web\\temp18\\temp18\\models\\trongtai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28AF9749-7444-447E-9329-C2D3111CD158}|temp18\\temp18.csproj|solutionrelative:temp18\\models\\trongtai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AF9749-7444-447E-9329-C2D3111CD158}|temp18\\temp18.csproj|e:\\wed\\kthp_web\\temp18\\temp18\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28AF9749-7444-447E-9329-C2D3111CD158}|temp18\\temp18.csproj|solutionrelative:temp18\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AF9749-7444-447E-9329-C2D3111CD158}|temp18\\temp18.csproj|e:\\wed\\kthp_web\\temp18\\temp18\\views\\home\\chitiet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28AF9749-7444-447E-9329-C2D3111CD158}|temp18\\temp18.csproj|solutionrelative:temp18\\views\\home\\chitiet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AF9749-7444-447E-9329-C2D3111CD158}|temp18\\temp18.csproj|e:\\wed\\kthp_web\\temp18\\temp18\\views\\shared\\_layoutchitiet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28AF9749-7444-447E-9329-C2D3111CD158}|temp18\\temp18.csproj|solutionrelative:temp18\\views\\shared\\_layoutchitiet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AF9749-7444-447E-9329-C2D3111CD158}|temp18\\temp18.csproj|e:\\wed\\kthp_web\\temp18\\temp18\\viewcomponents\\trandauviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28AF9749-7444-447E-9329-C2D3111CD158}|temp18\\temp18.csproj|solutionrelative:temp18\\viewcomponents\\trandauviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AF9749-7444-447E-9329-C2D3111CD158}|temp18\\temp18.csproj|e:\\wed\\kthp_web\\temp18\\temp18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28AF9749-7444-447E-9329-C2D3111CD158}|temp18\\temp18.csproj|solutionrelative:temp18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AF9749-7444-447E-9329-C2D3111CD158}|temp18\\temp18.csproj|e:\\wed\\kthp_web\\temp18\\temp18\\views\\shared\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28AF9749-7444-447E-9329-C2D3111CD158}|temp18\\temp18.csproj|solutionrelative:temp18\\views\\shared\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AF9749-7444-447E-9329-C2D3111CD158}|temp18\\temp18.csproj|e:\\wed\\kthp_web\\temp18\\temp18\\views\\shared\\_layoutindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28AF9749-7444-447E-9329-C2D3111CD158}|temp18\\temp18.csproj|solutionrelative:temp18\\views\\shared\\_layoutindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AF9749-7444-447E-9329-C2D3111CD158}|temp18\\temp18.csproj|e:\\wed\\kthp_web\\temp18\\temp18\\views\\shared\\featuresareachitiet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28AF9749-7444-447E-9329-C2D3111CD158}|temp18\\temp18.csproj|solutionrelative:temp18\\views\\shared\\featuresareachitiet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AF9749-7444-447E-9329-C2D3111CD158}|temp18\\temp18.csproj|e:\\wed\\kthp_web\\temp18\\temp18\\views\\home\\suatrongtai.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28AF9749-7444-447E-9329-C2D3111CD158}|temp18\\temp18.csproj|solutionrelative:temp18\\views\\home\\suatrongtai.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AF9749-7444-447E-9329-C2D3111CD158}|temp18\\temp18.csproj|e:\\wed\\kthp_web\\temp18\\temp18\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28AF9749-7444-447E-9329-C2D3111CD158}|temp18\\temp18.csproj|solutionrelative:temp18\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AF9749-7444-447E-9329-C2D3111CD158}|temp18\\temp18.csproj|e:\\wed\\kthp_web\\temp18\\temp18\\views\\shared\\featuresarea.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28AF9749-7444-447E-9329-C2D3111CD158}|temp18\\temp18.csproj|solutionrelative:temp18\\views\\shared\\featuresarea.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AF9749-7444-447E-9329-C2D3111CD158}|temp18\\temp18.csproj|e:\\wed\\kthp_web\\temp18\\temp18\\wwwroot\\temp18\\js\\owl.carousel.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{28AF9749-7444-447E-9329-C2D3111CD158}|temp18\\temp18.csproj|solutionrelative:temp18\\wwwroot\\temp18\\js\\owl.carousel.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AF9749-7444-447E-9329-C2D3111CD158}|temp18\\temp18.csproj|e:\\wed\\kthp_web\\temp18\\temp18\\models\\qligiaibongdacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28AF9749-7444-447E-9329-C2D3111CD158}|temp18\\temp18.csproj|solutionrelative:temp18\\models\\qligiaibongdacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28AF9749-7444-447E-9329-C2D3111CD158}|temp18\\temp18.csproj|e:\\wed\\kthp_web\\temp18\\temp18\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28AF9749-7444-447E-9329-C2D3111CD158}|temp18\\temp18.csproj|solutionrelative:temp18\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Trongtai.cs",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\temp18\\temp18\\Models\\Trongtai.cs",
+              "RelativeDocumentMoniker": "temp18\\Models\\Trongtai.cs",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\temp18\\temp18\\Models\\Trongtai.cs",
+              "RelativeToolTip": "temp18\\Models\\Trongtai.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T11:51:03.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\temp18\\temp18\\Views\\Shared\\Components\\TranDau\\Default.cshtml",
+              "RelativeDocumentMoniker": "temp18\\Views\\Shared\\Components\\TranDau\\Default.cshtml",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\temp18\\temp18\\Views\\Shared\\Components\\TranDau\\Default.cshtml",
+              "RelativeToolTip": "temp18\\Views\\Shared\\Components\\TranDau\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T18:23:01.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChiTiet.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\temp18\\temp18\\Views\\Home\\ChiTiet.cshtml",
+              "RelativeDocumentMoniker": "temp18\\Views\\Home\\ChiTiet.cshtml",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\temp18\\temp18\\Views\\Home\\ChiTiet.cshtml",
+              "RelativeToolTip": "temp18\\Views\\Home\\ChiTiet.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T15:58:50.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SuaTrongTai.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\temp18\\temp18\\Views\\Home\\SuaTrongTai.cshtml",
+              "RelativeDocumentMoniker": "temp18\\Views\\Home\\SuaTrongTai.cshtml",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\temp18\\temp18\\Views\\Home\\SuaTrongTai.cshtml",
+              "RelativeToolTip": "temp18\\Views\\Home\\SuaTrongTai.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T18:35:45.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\temp18\\temp18\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "temp18\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\temp18\\temp18\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "temp18\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAswEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T17:57:05.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_LayoutChiTiet.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\temp18\\temp18\\Views\\Shared\\_LayoutChiTiet.cshtml",
+              "RelativeDocumentMoniker": "temp18\\Views\\Shared\\_LayoutChiTiet.cshtml",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\temp18\\temp18\\Views\\Shared\\_LayoutChiTiet.cshtml",
+              "RelativeToolTip": "temp18\\Views\\Shared\\_LayoutChiTiet.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T15:57:14.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Header.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\temp18\\temp18\\Views\\Shared\\Header.cshtml",
+              "RelativeDocumentMoniker": "temp18\\Views\\Shared\\Header.cshtml",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\temp18\\temp18\\Views\\Shared\\Header.cshtml",
+              "RelativeToolTip": "temp18\\Views\\Shared\\Header.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T17:21:14.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\temp18\\temp18\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "temp18\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\temp18\\temp18\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "temp18\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T17:30:25.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TranDauViewComponent.cs",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\temp18\\temp18\\ViewComponents\\TranDauViewComponent.cs",
+              "RelativeDocumentMoniker": "temp18\\ViewComponents\\TranDauViewComponent.cs",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\temp18\\temp18\\ViewComponents\\TranDauViewComponent.cs",
+              "RelativeToolTip": "temp18\\ViewComponents\\TranDauViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T18:21:30.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\temp18\\temp18\\Program.cs",
+              "RelativeDocumentMoniker": "temp18\\Program.cs",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\temp18\\temp18\\Program.cs",
+              "RelativeToolTip": "temp18\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T18:25:18.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_LayoutIndex.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\temp18\\temp18\\Views\\Shared\\_LayoutIndex.cshtml",
+              "RelativeDocumentMoniker": "temp18\\Views\\Shared\\_LayoutIndex.cshtml",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\temp18\\temp18\\Views\\Shared\\_LayoutIndex.cshtml",
+              "RelativeToolTip": "temp18\\Views\\Shared\\_LayoutIndex.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAGEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T17:20:56.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FeaturesAreaChiTiet.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\temp18\\temp18\\Views\\Shared\\FeaturesAreaChiTiet.cshtml",
+              "RelativeDocumentMoniker": "temp18\\Views\\Shared\\FeaturesAreaChiTiet.cshtml",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\temp18\\temp18\\Views\\Shared\\FeaturesAreaChiTiet.cshtml",
+              "RelativeToolTip": "temp18\\Views\\Shared\\FeaturesAreaChiTiet.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T16:05:03.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\temp18\\temp18\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "temp18\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\temp18\\temp18\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "temp18\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T15:59:53.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FeaturesArea.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\temp18\\temp18\\Views\\Shared\\FeaturesArea.cshtml",
+              "RelativeDocumentMoniker": "temp18\\Views\\Shared\\FeaturesArea.cshtml",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\temp18\\temp18\\Views\\Shared\\FeaturesArea.cshtml",
+              "RelativeToolTip": "temp18\\Views\\Shared\\FeaturesArea.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T17:23:08.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "owl.carousel.min.js",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\temp18\\temp18\\wwwroot\\temp18\\js\\owl.carousel.min.js",
+              "RelativeDocumentMoniker": "temp18\\wwwroot\\temp18\\js\\owl.carousel.min.js",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\temp18\\temp18\\wwwroot\\temp18\\js\\owl.carousel.min.js",
+              "RelativeToolTip": "temp18\\wwwroot\\temp18\\js\\owl.carousel.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-16T14:49:35.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "QliGiaiBongDaContext.cs",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\temp18\\temp18\\Models\\QliGiaiBongDaContext.cs",
+              "RelativeDocumentMoniker": "temp18\\Models\\QliGiaiBongDaContext.cs",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\temp18\\temp18\\Models\\QliGiaiBongDaContext.cs",
+              "RelativeToolTip": "temp18\\Models\\QliGiaiBongDaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T17:56:18.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Footer.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\temp18\\temp18\\Views\\Shared\\Footer.cshtml",
+              "RelativeDocumentMoniker": "temp18\\Views\\Shared\\Footer.cshtml",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\temp18\\temp18\\Views\\Shared\\Footer.cshtml",
+              "RelativeToolTip": "temp18\\Views\\Shared\\Footer.cshtml",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwE8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-15T17:21:24.254Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

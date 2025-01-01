@@ -1,0 +1,52 @@
+﻿@model IEnumerable<TLoaiSp>
+<div class="col-lg-3">
+    <div class="hero__categories">
+        <div class="hero__categories__all">
+            <i class="fa fa-bars"></i>
+            <span>All departments</span>
+        </div>
+        <ul>
+            @foreach (var item in Model)
+            {
+                var getUrl = "https://localhost:7095/api/Products/" + item.MaLoai;
+                <li><a style="cursor:pointer" onclick="showProductByCategory('@getUrl')">@item.Loai</a></li>
+                @*<li><a asp-controller="Home" asp-action="SanPhamTheoLoai" asp-route-maloai="@item.MaLoai">@item.Loai</a></li>*@
+            }
+        </ul>
+    </div>
+</div>
+<script>
+    function showProductByCategory(getUrl) {
+        var str = '';
+        $.ajax({
+            type: 'GET',
+            url: getUrl,
+            dataType: 'json',
+            success: function (data) {
+                $.each(data, function (key, val) {
+                    str = `<div class="col-lg-3 col-md-4 col-sm-6 mix oranges fresh-meat">
+                <div class="featured__item">
+                            <div class="featured__item__pic set-bg" data-setbg="../ProductsImages/Images/" ${val.anhDaiDien} style="background-image: url(&quot;img/featured/feature-1.jpg&quot;);">
+                        <ul class="featured__item__pic__hover">
+                            <li><a href="#"><i class="fa fa-heart"></i></a></li>
+                            <li><a href="#"><i class="fa fa-retweet"></i></a></li>
+                            <li><a href="#"><i class="fa fa-shopping-cart"></i></a></li>
+                        </ul>
+                    </div>
+                    <div class="featured__item__text">
+                                <h6><a href="/Home/ChiTietSanPham?maSp=${val.maSp}">${val.tenSp}</a></h6>
+                            <h5>${val.giaLonNhat}</h5>
+                    </div>
+                </div>
+            </div>`;
+
+                    //str+='<p>'+val.tenSp+'</p>'
+                });
+                $('#displayProducts').html(str);
+            },
+            Error: function (xhr) {
+                alert(xhr.responseText)
+            }
+        });
+    }
+</script>

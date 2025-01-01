@@ -1,0 +1,87 @@
+﻿@model IEnumerable<template15_1.Models.Trandau>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_LayoutIndex.cshtml";
+}
+
+<div id="result">
+    <p>
+        <a class="btn btn-primary" asp-action="ThemTranDau">Create New</a>
+    </p>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.NgayThiDau)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Vong)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.HiepPhu)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.KetQua)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.TrangThai)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Anh)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.ClbkhachNavigation)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.ClbnhaNavigation)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.SanVanDong)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.NgayThiDau)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Vong)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.HiepPhu)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.KetQua)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TrangThai)
+                    </td>
+                    <td>
+                        <img src="@Url.Content("../images/" + @item.Anh)" style="width:70px;height:70px;">
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ClbkhachNavigation.CauLacBoId)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ClbnhaNavigation.CauLacBoId)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.SanVanDong.SanVanDongId)
+                    </td>
+                    <td>
+                        <a asp-action="SuaTranDau" asp-route-TranDauId="@item.TranDauId">Edit</a> |
+                        <a asp-action="ChiTietTranDaU" asp-route-TranDauId="@item.TranDauId">Details</a> |
+                        <a asp-action="XoaSanPham" asp-route-TranDauId="@item.TranDauId">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+

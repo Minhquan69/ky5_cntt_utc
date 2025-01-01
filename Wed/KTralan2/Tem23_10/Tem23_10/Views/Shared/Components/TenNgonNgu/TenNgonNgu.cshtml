@@ -1,0 +1,152 @@
+﻿@model List<TNgonNgu>
+
+@foreach (var item in Model)
+{
+
+    var getUrl = "https://localhost:7155/api/sachapi/" + @item.TenNgonNgu;
+
+
+    <li>
+
+        <a class="btn" onclick="showSachTheoTenLoai('@getUrl')">@item.TenNgonNgu</a>
+
+
+
+    </li>
+
+
+}
+
+
+
+
+
+<script>
+    function showSachTheoTenLoai(getUrl) {
+        console.log('Fetching from URL:', getUrl); // Kiểm tra URL
+
+        document.querySelector('#renderbody').innerHTML = '';
+
+        $.ajax({
+            url: getUrl,
+            method: 'GET',
+            success: function (data) {
+                console.log('Data received:', data); // Kiểm tra dữ liệu
+                if (!data) {
+                    throw new Error('Data is null or undefined');
+                }
+
+                let str = '';
+
+                if (Array.isArray(data) && data.length > 0) {
+                    str += `
+
+
+                        <h1 style="text-align: center; margin-top: 20px; font-size: 28px; font-weight: bold;">Danh sách sách</h1>
+
+    <br />
+    <br />
+                     <table style="margin:auto" class="table">
+        <thead>
+            <tr>
+                <th>
+                    Tên sách 
+                </th>
+                <th>
+                    Tên tác giả
+                </th>
+                <th>
+                    Năm xuất bản
+                </th>
+                    
+               
+                <th>
+                    Ảnh
+                </th>
+             
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+
+
+                                `;
+
+                    data.forEach(item => {
+                        console.log('Processing item:', item); 
+                        str += `
+
+                              <tr>
+                <td>
+                ${item.tenSach}
+
+                </td>
+                <td>
+                    ${item.tacGia}
+
+                </td>
+                <td>
+                    ${item.namXb}
+
+                </td>
+                
+            
+                <td>
+                    <img src="/images/${item.fileAnh}"  style="width:150px; height:auto;">
+
+                </td>
+                
+                <td>
+                        <td>
+                                             
+                                     <a href="javascript:void(0);" onclick="confirmDelete('${item.tenSach}', '${item.maSach}')">Xóa</a>
+
+                            </td>
+                </td>
+            </tr>
+
+                                    `;
+                    });
+
+                    str += `</tbody>
+                                                </table>`;
+                } else {
+                    document.getElementById('renderbody').innerHTML = '<p>No data available.</p>';
+                }
+
+                document.getElementById('renderbody').innerHTML = str;
+            },
+            error: function (jqXHR, textStatus, errorThrown) {
+                alert(`Error: ${textStatus} - ${errorThrown}`);
+            }
+        });
+    }
+</script>
+
+
+
+<script>
+    function confirmDelete(tenSach, maSach) {
+        // Hiển thị hộp thoại xác nhận
+        var result = confirm("Ban co chac muon xoa sach  \"" + tenSach + "\" khong?");
+        if (result) {
+            // Nếu người dùng xác nhận, thực hiện yêu cầu AJAX để xóa sách
+            $.ajax({
+                url: '/Home/XoaSach', // Đường dẫn đến phương thức XoaSach trong controller
+                type: 'GET',
+                data: { MaSach: maSach },
+                success: function (response) {
+                    // Xử lý thành công, có thể thêm thông báo thành công
+                    alert('Sach da duoc xoa thanh cong.');
+                    // Cập nhật lại dữ liệu trong bảng (nếu cần)
+                   // Gọi lại hàm loadData để làm mới danh sách
+                },
+                error: function () {
+                    // Xử lý lỗi
+                    alert('Có lỗi xảy ra khi xóa sách.');
+                }
+            });
+        }
+        return false; // Ngăn không cho sự kiện click tiếp tục
+    }
+</script>

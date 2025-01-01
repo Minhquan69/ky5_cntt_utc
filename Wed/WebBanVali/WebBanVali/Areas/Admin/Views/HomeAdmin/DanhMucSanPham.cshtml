@@ -1,0 +1,50 @@
+﻿@model IEnumerable<WebBanVali.Models.TDanhMucSp>
+
+@{
+    ViewData["Title"] = "DanhMucSanPham";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1>DanhMucSanPham</h1>
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+<p>
+    <a asp-action="Create1">Create New</a>
+     <p> @TempData["Message"]</p>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.TenSp)
+            </th>
+            
+            <th>
+                @Html.DisplayNameFor(model => model.GiaNhoNhat)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.GiaLonNhat)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenSp)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.GiaNhoNhat)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.GiaLonNhat)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.MaSp">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.MaSp">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.MaSp">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

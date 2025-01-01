@@ -1,0 +1,55 @@
+﻿@model IEnumerable<Trandau>
+@foreach(var item in Model)
+{
+    <li><a href="javascript:void(0)" onclick="loadData('@item.TranDauId')" class="active">@item.TranDauId</a></li>
+}
+<script src="" .. /template9/js/jquery-3.6.0.min.js"></script>
+<script type="text/javascript">
+    function loadData(tranDauId) {
+        $.ajax({
+            url: '@Url.Action("GetData", "Home")',
+            type: 'GET',
+            data: { TranDauId: tranDauId },
+            success: function (response) {
+                console.log(response); // Log the response to see its structure
+                if (response.length > 0) {
+                    let tableHtml = `
+                                    <table class="table table-bordered">
+                                        <thead class="thead-dark">
+                                            <tr>
+                                                <th>Trọng Tài ID</th>
+                                                <th>Ho va Ten</th>
+                                                <th>Ngày Sinh</th>
+                                                <th>Quốc Tịch</th>
+                                                <th>Ảnh</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                `;
+                    response.forEach(match => {
+                        tableHtml += `
+                                        <tr>
+                                            <td>${match.trongTaiId}</td>
+                                            <td>${match.hoVaTen}</td>
+                                            <td>${match.ngaySinh}</td>
+                                            <td>${match.queHuong}</td>
+                                            <td><img src="../images/${match.anh}" style="width:70px;height:70px"/></td>
+                                        </tr>
+                                    `;
+                    });
+
+                    tableHtml += `
+                                        </tbody>
+                                    </table>
+                                `;
+                    $('#result').html(tableHtml);
+                } else {
+                    $('#result').html('Không có trận đấu nào.');
+                }
+            },
+            error: function () {
+                $('#result').html('Có lỗi xảy ra.');
+            }
+        });
+    }
+</script>

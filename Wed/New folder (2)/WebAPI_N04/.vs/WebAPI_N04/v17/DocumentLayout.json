@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Wed\\New folder (2)\\WebAPI_N04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0211C85A-4DEB-4D89-9596-3D2720321C66}|WebAPI_N04\\WebAPI_N04.csproj|e:\\wed\\new folder (2)\\webapi_n04\\webapi_n04\\models\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0211C85A-4DEB-4D89-9596-3D2720321C66}|WebAPI_N04\\WebAPI_N04.csproj|solutionrelative:webapi_n04\\models\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0211C85A-4DEB-4D89-9596-3D2720321C66}|WebAPI_N04\\WebAPI_N04.csproj|e:\\wed\\new folder (2)\\webapi_n04\\webapi_n04\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0211C85A-4DEB-4D89-9596-3D2720321C66}|WebAPI_N04\\WebAPI_N04.csproj|solutionrelative:webapi_n04\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0211C85A-4DEB-4D89-9596-3D2720321C66}|WebAPI_N04\\WebAPI_N04.csproj|e:\\wed\\new folder (2)\\webapi_n04\\webapi_n04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0211C85A-4DEB-4D89-9596-3D2720321C66}|WebAPI_N04\\WebAPI_N04.csproj|solutionrelative:webapi_n04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0211C85A-4DEB-4D89-9596-3D2720321C66}|WebAPI_N04\\WebAPI_N04.csproj|e:\\wed\\new folder (2)\\webapi_n04\\webapi_n04\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0211C85A-4DEB-4D89-9596-3D2720321C66}|WebAPI_N04\\WebAPI_N04.csproj|solutionrelative:webapi_n04\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0211C85A-4DEB-4D89-9596-3D2720321C66}|WebAPI_N04\\WebAPI_N04.csproj|e:\\wed\\new folder (2)\\webapi_n04\\webapi_n04\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0211C85A-4DEB-4D89-9596-3D2720321C66}|WebAPI_N04\\WebAPI_N04.csproj|solutionrelative:webapi_n04\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0211C85A-4DEB-4D89-9596-3D2720321C66}|WebAPI_N04\\WebAPI_N04.csproj|e:\\wed\\new folder (2)\\webapi_n04\\webapi_n04\\models\\qlbanvalicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0211C85A-4DEB-4D89-9596-3D2720321C66}|WebAPI_N04\\WebAPI_N04.csproj|solutionrelative:webapi_n04\\models\\qlbanvalicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Wed\\New folder (2)\\WebAPI_N04\\WebAPI_N04\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WebAPI_N04\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Wed\\New folder (2)\\WebAPI_N04\\WebAPI_N04\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WebAPI_N04\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-16T18:36:05.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "E:\\Wed\\New folder (2)\\WebAPI_N04\\WebAPI_N04\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebAPI_N04\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "E:\\Wed\\New folder (2)\\WebAPI_N04\\WebAPI_N04\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebAPI_N04\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T16:37:52.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Wed\\New folder (2)\\WebAPI_N04\\WebAPI_N04\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI_N04\\Program.cs",
+              "ToolTip": "E:\\Wed\\New folder (2)\\WebAPI_N04\\WebAPI_N04\\Program.cs",
+              "RelativeToolTip": "WebAPI_N04\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:27:34.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\Wed\\New folder (2)\\WebAPI_N04\\WebAPI_N04\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebAPI_N04\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\Wed\\New folder (2)\\WebAPI_N04\\WebAPI_N04\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebAPI_N04\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowFYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T07:47:13.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\Wed\\New folder (2)\\WebAPI_N04\\WebAPI_N04\\Models\\Products\\Product.cs",
+              "RelativeDocumentMoniker": "WebAPI_N04\\Models\\Products\\Product.cs",
+              "ToolTip": "E:\\Wed\\New folder (2)\\WebAPI_N04\\WebAPI_N04\\Models\\Products\\Product.cs",
+              "RelativeToolTip": "WebAPI_N04\\Models\\Products\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T07:43:32.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QlbanVaLiContext.cs",
+              "DocumentMoniker": "E:\\Wed\\New folder (2)\\WebAPI_N04\\WebAPI_N04\\Models\\QlbanVaLiContext.cs",
+              "RelativeDocumentMoniker": "WebAPI_N04\\Models\\QlbanVaLiContext.cs",
+              "ToolTip": "E:\\Wed\\New folder (2)\\WebAPI_N04\\WebAPI_N04\\Models\\QlbanVaLiContext.cs",
+              "RelativeToolTip": "WebAPI_N04\\Models\\QlbanVaLiContext.cs",
+              "ViewState": "AgIAAIsBAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T07:41:40.692Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

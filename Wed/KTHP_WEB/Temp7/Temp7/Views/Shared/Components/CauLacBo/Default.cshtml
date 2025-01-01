@@ -1,0 +1,78 @@
+﻿@model IEnumerable<Caulacbo>
+@foreach(var item in Model)
+{
+    <li class="nav__item">
+        <a href="javascript:void(0)" onclick="loadData('@item.CauLacBoId', '@item.TenClb')" class="nav__item-link">@item.TenClb</a>
+    </li>
+}
+<script src="../Temp7/assets/js/jquery-3.3.1.min.js"></script>
+<script type="text/javascript">
+    function loadData(CauLacBoId, tenCLB) {
+        $.ajax({
+            url: '@Url.Action("GetData", "Home")',
+            type: 'GET',
+            data: { CauLacBoId: CauLacBoId },
+            success: function (response) {
+                console.log(response); // Log the response to see its structure
+
+                if (response.length > 0) {
+                    let tableHtml = `
+                         <div style="text-align: center;">
+                            <h2 class="place__btn bg__color--hongkong">
+                                    Danh sách Cầu thủ của CLB '${tenCLB}'
+                            </h2>
+                        </div>
+                        <div class="container">
+                            <div class="package-menu m-b-60">
+                                <div class="row">
+                        `;
+                    response.forEach(match => {
+                        tableHtml += `
+                                    <div class="col l-3 m-m-b-20 c-12" style="margin-bottom: 20px">
+            <div class="place__item">
+                <div class="place__bg" style="display: flex; justify-content: center; align-items: center;">
+                        <img src="../images/${match.anh}" alt="" class="place__img" style="width: 90%; height: 194px;">
+                </div>
+
+                <div class="place__info" style="padding: 0; text-align:center ">
+                    <header class="place__header">
+                            <h3 class="place__heading">${match.hoVaTen}</h3>
+                        <p class="place__location">
+                                <i class="ri-map-pin-line"></i> Ngày sinh: ${match.ngaySinh}
+                        </p>
+                        <p class="place__location">
+                                <i class="ri-map-pin-line"></i> Quốc tịch: ${match.quocTich}
+                        </p>
+
+                    </header>
+                    <div class="place__price" style="padding: 20px;">
+                        <div class="place__price-right">
+                            <span class="" style="color: red; font-size: 18px; padding: 20px;">Số áo:</span>
+                                <span class="place__price-current" style="font-size: 18px">${match.soAo}</span>
+                        </div>
+                    </div>
+                    <footer class="place__footer">
+                        <a class="place__btn bg__color--berlin">Chi tiết</a>
+                    </footer>
+                </div>
+            </div>
+        </div>
+                            `;
+                    });
+
+                    tableHtml += `
+                                </div>
+                            </div>
+                        </div>
+                        `;
+                    $('#result').html(tableHtml);
+                } else {
+                    $('#result').html('Không có trận đấu nào.');
+                }
+            },
+            error: function () {
+                $('#result').html('Có lỗi xảy ra.');
+            }
+        });
+    }
+</script>

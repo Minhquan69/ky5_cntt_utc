@@ -1,0 +1,1249 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WebApplication18.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebApplication18.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\css\\availability-calendar.css",
+      "PackagePath": "staticwebassets\\template18\\css\\availability-calendar.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\template18\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\css\\bootstrap.map",
+      "PackagePath": "staticwebassets\\template18\\css\\bootstrap.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\template18\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\css\\ion.rangeSlider.css",
+      "PackagePath": "staticwebassets\\template18\\css\\ion.rangeSlider.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\css\\ion.rangeSlider.skinFlat.css",
+      "PackagePath": "staticwebassets\\template18\\css\\ion.rangeSlider.skinFlat.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\css\\jquerysctipttop.css",
+      "PackagePath": "staticwebassets\\template18\\css\\jquerysctipttop.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\css\\linearicons.css",
+      "PackagePath": "staticwebassets\\template18\\css\\linearicons.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\template18\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\css\\main.css",
+      "PackagePath": "staticwebassets\\template18\\css\\main.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\css\\main.css.map",
+      "PackagePath": "staticwebassets\\template18\\css\\main.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\css\\main.map",
+      "PackagePath": "staticwebassets\\template18\\css\\main.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\template18\\css\\nice-select.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\css\\nouislider.min.css",
+      "PackagePath": "staticwebassets\\template18\\css\\nouislider.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\template18\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\template18\\css\\themify-icons.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\template18\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\fonts\\Linearicons-Free.eot",
+      "PackagePath": "staticwebassets\\template18\\fonts\\Linearicons-Free.eot"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\fonts\\Linearicons-Free.svg",
+      "PackagePath": "staticwebassets\\template18\\fonts\\Linearicons-Free.svg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\fonts\\Linearicons-Free.ttf",
+      "PackagePath": "staticwebassets\\template18\\fonts\\Linearicons-Free.ttf"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\fonts\\Linearicons-Free.woff",
+      "PackagePath": "staticwebassets\\template18\\fonts\\Linearicons-Free.woff"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\fonts\\Linearicons-Free.woff2",
+      "PackagePath": "staticwebassets\\template18\\fonts\\Linearicons-Free.woff2"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\template18\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\template18\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\template18\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\template18\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\template18\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\template18\\fonts\\themify.eot"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\template18\\fonts\\themify.svg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\template18\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\template18\\fonts\\themify.woff"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\banner\\banner-bg.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\banner\\banner-bg.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\banner\\banner-img.png",
+      "PackagePath": "staticwebassets\\template18\\img\\banner\\banner-img.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\banner\\common-banner.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\banner\\common-banner.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\banner\\next.png",
+      "PackagePath": "staticwebassets\\template18\\img\\banner\\next.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\banner\\prev.png",
+      "PackagePath": "staticwebassets\\template18\\img\\banner\\prev.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\blog\\add.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\blog\\add.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\blog\\author.png",
+      "PackagePath": "staticwebassets\\template18\\img\\blog\\author.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\blog\\c1.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\blog\\c1.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\blog\\c2.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\blog\\c2.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\blog\\c3.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\blog\\c3.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\blog\\c4.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\blog\\c4.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\blog\\c5.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\blog\\c5.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\blog\\c6.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\blog\\c6.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\blog\\cat-post\\cat-post-1.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\blog\\cat-post\\cat-post-1.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\blog\\cat-post\\cat-post-2.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\blog\\cat-post\\cat-post-2.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\blog\\cat-post\\cat-post-3.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\blog\\cat-post\\cat-post-3.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\blog\\causes\\causes-1.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\blog\\causes\\causes-1.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\blog\\causes\\causes-2.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\blog\\causes\\causes-2.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\blog\\causes\\causes-3.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\blog\\causes\\causes-3.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\blog\\feature-img1.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\blog\\feature-img1.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\blog\\latest-post\\l-post-1.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\blog\\latest-post\\l-post-1.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\blog\\latest-post\\l-post-2.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\blog\\latest-post\\l-post-2.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\blog\\latest-post\\l-post-3.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\blog\\latest-post\\l-post-3.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\blog\\latest-post\\l-post-4.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\blog\\latest-post\\l-post-4.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\blog\\main-blog\\m-blog-1.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\blog\\main-blog\\m-blog-1.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\blog\\main-blog\\m-blog-2.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\blog\\main-blog\\m-blog-2.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\blog\\main-blog\\m-blog-3.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\blog\\main-blog\\m-blog-3.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\blog\\main-blog\\m-blog-4.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\blog\\main-blog\\m-blog-4.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\blog\\main-blog\\m-blog-5.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\blog\\main-blog\\m-blog-5.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\blog\\next.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\blog\\next.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\blog\\popular-post\\post1.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\blog\\popular-post\\post1.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\blog\\popular-post\\post2.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\blog\\popular-post\\post2.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\blog\\popular-post\\post3.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\blog\\popular-post\\post3.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\blog\\popular-post\\post4.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\blog\\popular-post\\post4.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\blog\\post-img1.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\blog\\post-img1.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\blog\\post-img2.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\blog\\post-img2.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\blog\\prev.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\blog\\prev.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\brand\\1.png",
+      "PackagePath": "staticwebassets\\template18\\img\\brand\\1.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\brand\\2.png",
+      "PackagePath": "staticwebassets\\template18\\img\\brand\\2.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\brand\\3.png",
+      "PackagePath": "staticwebassets\\template18\\img\\brand\\3.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\brand\\4.png",
+      "PackagePath": "staticwebassets\\template18\\img\\brand\\4.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\brand\\5.png",
+      "PackagePath": "staticwebassets\\template18\\img\\brand\\5.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\cart.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\cart.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\category\\c1.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\category\\c1.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\category\\c2.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\category\\c2.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\category\\c3.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\category\\c3.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\category\\c4.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\category\\c4.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\category\\c5.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\category\\c5.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\category\\s-p1.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\category\\s-p1.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\elements\\d.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\elements\\d.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\elements\\disabled-check.png",
+      "PackagePath": "staticwebassets\\template18\\img\\elements\\disabled-check.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\elements\\disabled-radio.png",
+      "PackagePath": "staticwebassets\\template18\\img\\elements\\disabled-radio.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\elements\\f1.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\elements\\f1.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\elements\\f2.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\elements\\f2.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\elements\\f3.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\elements\\f3.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\elements\\f4.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\elements\\f4.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\elements\\f5.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\elements\\f5.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\elements\\f6.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\elements\\f6.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\elements\\f7.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\elements\\f7.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\elements\\f8.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\elements\\f8.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\elements\\g1.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\elements\\g1.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\elements\\g2.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\elements\\g2.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\elements\\g3.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\elements\\g3.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\elements\\g4.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\elements\\g4.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\elements\\g5.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\elements\\g5.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\elements\\g6.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\elements\\g6.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\elements\\g7.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\elements\\g7.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\elements\\g8.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\elements\\g8.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\elements\\primary-check.png",
+      "PackagePath": "staticwebassets\\template18\\img\\elements\\primary-check.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\elements\\primary-radio.png",
+      "PackagePath": "staticwebassets\\template18\\img\\elements\\primary-radio.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\elements\\success-check.png",
+      "PackagePath": "staticwebassets\\template18\\img\\elements\\success-check.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\elements\\success-radio.png",
+      "PackagePath": "staticwebassets\\template18\\img\\elements\\success-radio.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\exclusive.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\exclusive.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\fav.png",
+      "PackagePath": "staticwebassets\\template18\\img\\fav.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\features\\f-icon1.png",
+      "PackagePath": "staticwebassets\\template18\\img\\features\\f-icon1.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\features\\f-icon2.png",
+      "PackagePath": "staticwebassets\\template18\\img\\features\\f-icon2.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\features\\f-icon3.png",
+      "PackagePath": "staticwebassets\\template18\\img\\features\\f-icon3.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\features\\f-icon4.png",
+      "PackagePath": "staticwebassets\\template18\\img\\features\\f-icon4.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\i1.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\i1.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\i2.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\i2.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\i3.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\i3.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\i4.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\i4.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\i5.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\i5.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\i6.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\i6.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\i7.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\i7.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\i8.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\i8.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\l1.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\l1.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\l2.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\l2.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\l3.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\l3.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\l4.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\l4.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\l5.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\l5.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\l6.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\l6.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\l7.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\l7.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\l8.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\l8.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\login.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\login.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\logo.png",
+      "PackagePath": "staticwebassets\\template18\\img\\logo.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\men-bg.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\men-bg.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\ob1.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\ob1.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\ob2.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\ob2.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\ob3.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\ob3.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\organic-food\\b1.png",
+      "PackagePath": "staticwebassets\\template18\\img\\organic-food\\b1.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\organic-food\\b2.png",
+      "PackagePath": "staticwebassets\\template18\\img\\organic-food\\b2.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\organic-food\\b3.png",
+      "PackagePath": "staticwebassets\\template18\\img\\organic-food\\b3.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\organic-food\\b4.png",
+      "PackagePath": "staticwebassets\\template18\\img\\organic-food\\b4.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\organic-food\\c1.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\organic-food\\c1.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\organic-food\\c2.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\organic-food\\c2.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\organic-food\\c3.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\organic-food\\c3.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\organic-food\\c4.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\organic-food\\c4.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\organic-food\\cd-bg.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\organic-food\\cd-bg.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\organic-food\\cd.png",
+      "PackagePath": "staticwebassets\\template18\\img\\organic-food\\cd.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\organic-food\\ci1.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\organic-food\\ci1.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\organic-food\\ci2.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\organic-food\\ci2.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\organic-food\\ci3.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\organic-food\\ci3.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\organic-food\\f1.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\organic-food\\f1.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\organic-food\\f2.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\organic-food\\f2.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\organic-food\\f3.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\organic-food\\f3.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\organic-food\\f4.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\organic-food\\f4.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\organic-food\\m1.png",
+      "PackagePath": "staticwebassets\\template18\\img\\organic-food\\m1.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\organic-food\\mp1.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\organic-food\\mp1.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\organic-food\\mp10.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\organic-food\\mp10.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\organic-food\\mp11.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\organic-food\\mp11.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\organic-food\\mp12.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\organic-food\\mp12.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\organic-food\\mp2.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\organic-food\\mp2.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\organic-food\\mp3.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\organic-food\\mp3.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\organic-food\\mp4.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\organic-food\\mp4.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\organic-food\\mp5.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\organic-food\\mp5.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\organic-food\\mp6.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\organic-food\\mp6.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\organic-food\\mp7.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\organic-food\\mp7.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\organic-food\\mp8.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\organic-food\\mp8.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\organic-food\\mp9.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\organic-food\\mp9.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\organic-food\\ob1.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\organic-food\\ob1.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\organic-food\\ob2.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\organic-food\\ob2.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\organic-food\\ob3.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\organic-food\\ob3.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\organic-food\\p1.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\organic-food\\p1.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\organic-food\\p2.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\organic-food\\p2.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\organic-food\\p3.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\organic-food\\p3.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\organic-food\\p4.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\organic-food\\p4.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\organic-food\\p5.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\organic-food\\p5.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\organic-food\\p6.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\organic-food\\p6.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\organic-food\\p7.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\organic-food\\p7.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\organic-food\\p8.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\organic-food\\p8.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\organic-food\\pl1.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\organic-food\\pl1.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\organic-food\\pl2.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\organic-food\\pl2.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\organic-food\\pl3.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\organic-food\\pl3.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\organic-food\\pl4.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\organic-food\\pl4.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\organic-food\\pl5.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\organic-food\\pl5.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\organic-food\\pl6.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\organic-food\\pl6.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\organic-food\\pl7.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\organic-food\\pl7.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\organic-food\\pl8.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\organic-food\\pl8.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\organic-food\\pm.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\organic-food\\pm.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\organic-food\\q1.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\organic-food\\q1.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\organic-food\\u1.png",
+      "PackagePath": "staticwebassets\\template18\\img\\organic-food\\u1.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\organic-food\\u2.png",
+      "PackagePath": "staticwebassets\\template18\\img\\organic-food\\u2.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\organic-food\\u3.png",
+      "PackagePath": "staticwebassets\\template18\\img\\organic-food\\u3.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\product\\card.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\product\\card.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\product\\e-p1.png",
+      "PackagePath": "staticwebassets\\template18\\img\\product\\e-p1.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\product\\next.png",
+      "PackagePath": "staticwebassets\\template18\\img\\product\\next.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\product\\p1.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\product\\p1.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\product\\p2.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\product\\p2.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\product\\p3.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\product\\p3.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\product\\p4.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\product\\p4.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\product\\p5.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\product\\p5.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\product\\p6.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\product\\p6.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\product\\p7.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\product\\p7.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\product\\p8.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\product\\p8.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\product\\prev.png",
+      "PackagePath": "staticwebassets\\template18\\img\\product\\prev.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\product\\review-1.png",
+      "PackagePath": "staticwebassets\\template18\\img\\product\\review-1.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\product\\review-2.png",
+      "PackagePath": "staticwebassets\\template18\\img\\product\\review-2.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\product\\review-3.png",
+      "PackagePath": "staticwebassets\\template18\\img\\product\\review-3.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\q1.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\q1.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\r1.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\r1.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\r10.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\r10.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\r11.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\r11.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\r12.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\r12.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\r2.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\r2.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\r3.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\r3.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\r4.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\r4.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\r5.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\r5.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\r6.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\r6.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\r7.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\r7.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\r8.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\r8.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\r9.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\r9.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\sd\\c1.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\sd\\c1.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\sd\\c2.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\sd\\c2.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\sd\\c3.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\sd\\c3.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\sd\\c4.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\sd\\c4.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\img\\sd\\c5.jpg",
+      "PackagePath": "staticwebassets\\template18\\img\\sd\\c5.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\js\\countdown.js",
+      "PackagePath": "staticwebassets\\template18\\js\\countdown.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\js\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\template18\\js\\gmaps.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\js\\ion.rangeSlider.js",
+      "PackagePath": "staticwebassets\\template18\\js\\ion.rangeSlider.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\js\\jquery.ajaxchimp.min.js",
+      "PackagePath": "staticwebassets\\template18\\js\\jquery.ajaxchimp.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\template18\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\template18\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\js\\jquery.sticky.js",
+      "PackagePath": "staticwebassets\\template18\\js\\jquery.sticky.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\js\\main.js",
+      "PackagePath": "staticwebassets\\template18\\js\\main.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\js\\nouislider.min.js",
+      "PackagePath": "staticwebassets\\template18\\js\\nouislider.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\template18\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\js\\parallax.min.js",
+      "PackagePath": "staticwebassets\\template18\\js\\parallax.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\js\\vendor\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\template18\\js\\vendor\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\js\\vendor\\jquery-2.2.4.min.js",
+      "PackagePath": "staticwebassets\\template18\\js\\vendor\\jquery-2.2.4.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\js\\vendor\\popper.js",
+      "PackagePath": "staticwebassets\\template18\\js\\vendor\\popper.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\scss\\main.scss",
+      "PackagePath": "staticwebassets\\template18\\scss\\main.scss"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\scss\\theme\\_banner.scss",
+      "PackagePath": "staticwebassets\\template18\\scss\\theme\\_banner.scss"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\scss\\theme\\_blog.scss",
+      "PackagePath": "staticwebassets\\template18\\scss\\theme\\_blog.scss"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\scss\\theme\\_common.scss",
+      "PackagePath": "staticwebassets\\template18\\scss\\theme\\_common.scss"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\scss\\theme\\_contact.scss",
+      "PackagePath": "staticwebassets\\template18\\scss\\theme\\_contact.scss"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\scss\\theme\\_elements.scss",
+      "PackagePath": "staticwebassets\\template18\\scss\\theme\\_elements.scss"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\scss\\theme\\_footer.scss",
+      "PackagePath": "staticwebassets\\template18\\scss\\theme\\_footer.scss"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\scss\\theme\\_header.scss",
+      "PackagePath": "staticwebassets\\template18\\scss\\theme\\_header.scss"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\scss\\theme\\_home.scss",
+      "PackagePath": "staticwebassets\\template18\\scss\\theme\\_home.scss"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\scss\\theme\\_mixins.scss",
+      "PackagePath": "staticwebassets\\template18\\scss\\theme\\_mixins.scss"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\scss\\theme\\_predefine.scss",
+      "PackagePath": "staticwebassets\\template18\\scss\\theme\\_predefine.scss"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\scss\\theme\\_product.scss",
+      "PackagePath": "staticwebassets\\template18\\scss\\theme\\_product.scss"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\scss\\theme\\_reset.scss",
+      "PackagePath": "staticwebassets\\template18\\scss\\theme\\_reset.scss"
+    },
+    {
+      "Id": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\scss\\theme\\_variables.scss",
+      "PackagePath": "staticwebassets\\template18\\scss\\theme\\_variables.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebApplication18.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebApplication18.props",
+      "PackagePath": "build\\WebApplication18.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication18.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication18.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebApplication18.props",
+      "PackagePath": "buildTransitive\\WebApplication18.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

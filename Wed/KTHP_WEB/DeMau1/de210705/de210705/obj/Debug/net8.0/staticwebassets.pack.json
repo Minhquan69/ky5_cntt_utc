@@ -1,0 +1,689 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\de210705.bundle.scp.css",
+      "PackagePath": "staticwebassets\\de210705.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\tem\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\tem\\css\\font-awesome.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\css\\skdslider.css",
+      "PackagePath": "staticwebassets\\tem\\css\\skdslider.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\css\\style.css",
+      "PackagePath": "staticwebassets\\tem\\css\\style.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\tem\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\tem\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\tem\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\tem\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\tem\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\tem\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\tem\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\tem\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\tem\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\1.png",
+      "PackagePath": "staticwebassets\\tem\\images\\1.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\10.png",
+      "PackagePath": "staticwebassets\\tem\\images\\10.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\11.jpg",
+      "PackagePath": "staticwebassets\\tem\\images\\11.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\111.jpg",
+      "PackagePath": "staticwebassets\\tem\\images\\111.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\12.png",
+      "PackagePath": "staticwebassets\\tem\\images\\12.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\13.png",
+      "PackagePath": "staticwebassets\\tem\\images\\13.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\14.png",
+      "PackagePath": "staticwebassets\\tem\\images\\14.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\15.png",
+      "PackagePath": "staticwebassets\\tem\\images\\15.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\16.png",
+      "PackagePath": "staticwebassets\\tem\\images\\16.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\17.png",
+      "PackagePath": "staticwebassets\\tem\\images\\17.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\2.png",
+      "PackagePath": "staticwebassets\\tem\\images\\2.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\22.jpg",
+      "PackagePath": "staticwebassets\\tem\\images\\22.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\3.png",
+      "PackagePath": "staticwebassets\\tem\\images\\3.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\4.png",
+      "PackagePath": "staticwebassets\\tem\\images\\4.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\44.jpg",
+      "PackagePath": "staticwebassets\\tem\\images\\44.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\5.png",
+      "PackagePath": "staticwebassets\\tem\\images\\5.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\6.png",
+      "PackagePath": "staticwebassets\\tem\\images\\6.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\7.png",
+      "PackagePath": "staticwebassets\\tem\\images\\7.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\8.png",
+      "PackagePath": "staticwebassets\\tem\\images\\8.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\9.png",
+      "PackagePath": "staticwebassets\\tem\\images\\9.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\arrow.png",
+      "PackagePath": "staticwebassets\\tem\\images\\arrow.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\b1.jpg",
+      "PackagePath": "staticwebassets\\tem\\images\\b1.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\b3.jpg",
+      "PackagePath": "staticwebassets\\tem\\images\\b3.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\bv1.png",
+      "PackagePath": "staticwebassets\\tem\\images\\bv1.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\bv2.png",
+      "PackagePath": "staticwebassets\\tem\\images\\bv2.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\bv3.png",
+      "PackagePath": "staticwebassets\\tem\\images\\bv3.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\bv4.png",
+      "PackagePath": "staticwebassets\\tem\\images\\bv4.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\bv5.png",
+      "PackagePath": "staticwebassets\\tem\\images\\bv5.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\bv6.png",
+      "PackagePath": "staticwebassets\\tem\\images\\bv6.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\bv7.png",
+      "PackagePath": "staticwebassets\\tem\\images\\bv7.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\bv8.jpg",
+      "PackagePath": "staticwebassets\\tem\\images\\bv8.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\bv8.png",
+      "PackagePath": "staticwebassets\\tem\\images\\bv8.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\bv9.png",
+      "PackagePath": "staticwebassets\\tem\\images\\bv9.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\card.png",
+      "PackagePath": "staticwebassets\\tem\\images\\card.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\check.png",
+      "PackagePath": "staticwebassets\\tem\\images\\check.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\close_1.png",
+      "PackagePath": "staticwebassets\\tem\\images\\close_1.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\gu1.png",
+      "PackagePath": "staticwebassets\\tem\\images\\gu1.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\gu2.png",
+      "PackagePath": "staticwebassets\\tem\\images\\gu2.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\gu3.png",
+      "PackagePath": "staticwebassets\\tem\\images\\gu3.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\gu4.png",
+      "PackagePath": "staticwebassets\\tem\\images\\gu4.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\gu5.png",
+      "PackagePath": "staticwebassets\\tem\\images\\gu5.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\gu6.png",
+      "PackagePath": "staticwebassets\\tem\\images\\gu6.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\gu7.png",
+      "PackagePath": "staticwebassets\\tem\\images\\gu7.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\gu8.png",
+      "PackagePath": "staticwebassets\\tem\\images\\gu8.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\gu9.png",
+      "PackagePath": "staticwebassets\\tem\\images\\gu9.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\hh1.png",
+      "PackagePath": "staticwebassets\\tem\\images\\hh1.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\hh2.png",
+      "PackagePath": "staticwebassets\\tem\\images\\hh2.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\hh3.png",
+      "PackagePath": "staticwebassets\\tem\\images\\hh3.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\hh4.png",
+      "PackagePath": "staticwebassets\\tem\\images\\hh4.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\hh5.png",
+      "PackagePath": "staticwebassets\\tem\\images\\hh5.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\hh6.png",
+      "PackagePath": "staticwebassets\\tem\\images\\hh6.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\hh7.png",
+      "PackagePath": "staticwebassets\\tem\\images\\hh7.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\hh8.png",
+      "PackagePath": "staticwebassets\\tem\\images\\hh8.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\hh9.png",
+      "PackagePath": "staticwebassets\\tem\\images\\hh9.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\icon1.png",
+      "PackagePath": "staticwebassets\\tem\\images\\icon1.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\icon2.png",
+      "PackagePath": "staticwebassets\\tem\\images\\icon2.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\offer.png",
+      "PackagePath": "staticwebassets\\tem\\images\\offer.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\p2.jpg",
+      "PackagePath": "staticwebassets\\tem\\images\\p2.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\p3.jpg",
+      "PackagePath": "staticwebassets\\tem\\images\\p3.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\p4.jpg",
+      "PackagePath": "staticwebassets\\tem\\images\\p4.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\pc1.png",
+      "PackagePath": "staticwebassets\\tem\\images\\pc1.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\pc2.png",
+      "PackagePath": "staticwebassets\\tem\\images\\pc2.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\pc3.png",
+      "PackagePath": "staticwebassets\\tem\\images\\pc3.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\pc4.png",
+      "PackagePath": "staticwebassets\\tem\\images\\pc4.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\pc5.png",
+      "PackagePath": "staticwebassets\\tem\\images\\pc5.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\pc6.png",
+      "PackagePath": "staticwebassets\\tem\\images\\pc6.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\pc7.png",
+      "PackagePath": "staticwebassets\\tem\\images\\pc7.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\pc8.png",
+      "PackagePath": "staticwebassets\\tem\\images\\pc8.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\pc9.jpg",
+      "PackagePath": "staticwebassets\\tem\\images\\pc9.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\pf1.png",
+      "PackagePath": "staticwebassets\\tem\\images\\pf1.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\pf2.png",
+      "PackagePath": "staticwebassets\\tem\\images\\pf2.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\pf3.png",
+      "PackagePath": "staticwebassets\\tem\\images\\pf3.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\pf4.png",
+      "PackagePath": "staticwebassets\\tem\\images\\pf4.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\pf5.png",
+      "PackagePath": "staticwebassets\\tem\\images\\pf5.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\pf6.png",
+      "PackagePath": "staticwebassets\\tem\\images\\pf6.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\pf7.png",
+      "PackagePath": "staticwebassets\\tem\\images\\pf7.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\pf8.png",
+      "PackagePath": "staticwebassets\\tem\\images\\pf8.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\pf9.png",
+      "PackagePath": "staticwebassets\\tem\\images\\pf9.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\si1.jpg",
+      "PackagePath": "staticwebassets\\tem\\images\\si1.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\star.png",
+      "PackagePath": "staticwebassets\\tem\\images\\star.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\star1.png",
+      "PackagePath": "staticwebassets\\tem\\images\\star1.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\t1.jpg",
+      "PackagePath": "staticwebassets\\tem\\images\\t1.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\t2.jpg",
+      "PackagePath": "staticwebassets\\tem\\images\\t2.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\t3.jpg",
+      "PackagePath": "staticwebassets\\tem\\images\\t3.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\t4.jpg",
+      "PackagePath": "staticwebassets\\tem\\images\\t4.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\images\\tick.png",
+      "PackagePath": "staticwebassets\\tem\\images\\tick.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\tem\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\js\\easing.js",
+      "PackagePath": "staticwebassets\\tem\\js\\easing.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\js\\jquery-1.11.1.min.js",
+      "PackagePath": "staticwebassets\\tem\\js\\jquery-1.11.1.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\js\\minicart.min.js",
+      "PackagePath": "staticwebassets\\tem\\js\\minicart.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\js\\move-top.js",
+      "PackagePath": "staticwebassets\\tem\\js\\move-top.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\js\\responsiveslides.min.js",
+      "PackagePath": "staticwebassets\\tem\\js\\responsiveslides.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\wwwroot\\tem\\js\\skdslider.min.js",
+      "PackagePath": "staticwebassets\\tem\\js\\skdslider.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.de210705.props",
+      "PackagePath": "build\\de210705.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.de210705.props",
+      "PackagePath": "buildMultiTargeting\\de210705.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.de210705.props",
+      "PackagePath": "buildTransitive\\de210705.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.de210705.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

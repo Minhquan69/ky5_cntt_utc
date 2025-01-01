@@ -1,0 +1,100 @@
+﻿@model IEnumerable<Tem23_10.Models.TSach>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_LayoutKiemTra.cshtml";
+
+}
+
+
+<h1 style="text-align: center; margin-top: 20px; font-size: 28px; font-weight: bold;">Danh sách sách</h1>
+
+<br />
+<br />
+
+
+<table class="table" style="margin-left: -100px; width: calc(100% - 100px);">
+    <thead>
+        <tr>
+            <th>
+               Tên sách
+            </th>
+            <th>
+                Tác giả
+            </th>
+            <th>
+                Năm xuất bản
+            </th>
+            <th>
+                Giá trị sách
+            </th>
+           
+            <th>
+                Ảnh sách
+            </th>
+            
+           
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                    &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+                    @item.TenSach
+            </td>
+            <td>
+                    &emsp;&emsp;&emsp;&emsp;@item.TacGia
+            </td>
+            <td>
+                    &emsp;@item.NamXb
+            </td>
+             <td>
+                    @item.GiaTriSach
+             </td>
+            
+            <td>
+                    <img style="width:100px; height:auto;" src="@Url.Content("~/Images/" + item.FileAnh)" />
+
+            </td>
+
+        
+            <td>
+
+
+
+                    <a onclick="return confirmDelete('@item.TenSach', '@item.MaSach')" asp-action="XoaSach" asp-route-MaSach="@item.MaSach">Xóa</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+
+@if (TempData["Message"] != null)
+{
+    <script>
+        alert('@TempData["Message"]');
+    </script>
+}
+
+<script>
+    function confirmDelete(tenSach, maSach) {
+        // Hiển thị hộp thoại xác nhận
+        var result = confirm("Bạn có chắc chắn muốn xóa sách \"" + tenSach + "\" không?");
+        if (result) {
+            // Nếu người dùng xác nhận, chuyển hướng đến phương thức XoaSach trong controller
+            window.location.href = '/XoaSach?MaSach=' + maSach;
+        }
+        return false; // Ngăn không cho sự kiện click tiếp tục
+    }
+
+</script>
+
+
+
+
+
+
+
+

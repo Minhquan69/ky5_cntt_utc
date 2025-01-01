@@ -1,0 +1,76 @@
+﻿@model IEnumerable<Trandau>
+@foreach (var item in Model)
+{
+    <li class="nav-item active"><a class="nav-link" href="javascript:void(0)" onclick="loadData('@item.TranDauId')">@item.TranDauId</a></li>
+}
+<script src="../temp18/js/vendor/jquery-2.2.4.min.js"></script>
+<script type="text/javascript">
+    function loadData(TranDauId) {
+        $.ajax({
+            url: '@Url.Action("GetData", "Home")',
+            type: 'GET',
+            data: { TranDauId: TranDauId },
+            success: function (response) {
+                console.log(response); // Log the response to see its structure
+
+                if (response.length > 0) {
+                    let tableHtml = `
+                        <h1>Trọng tài theo trận đấu</h1>
+                        <section class="owl-carousel active-product-area section_gap">
+                        <div class="single-product-slider">
+                <div class="container">
+                    <div class="row">
+                                                `;
+                    response.forEach(match => {
+                        tableHtml += `
+                                    <div class="col-lg-3 col-md-6">
+                                        <div class="single-product">
+                                                <img class="img-fluid" src="../images/${match.anh}" alt="">
+                                            <div class="product-details">
+                                                <h6>
+                                                        Tên: ${match.hoVaTen}
+                                                </h6>
+                                                <div class="price">
+                                                        <h6>Quốc tịch:${match.queHuong}</h6>
+                                                        <h6>Ngày sinh: ${match.ngaySinh}</h6>
+                                                </div>
+                                                <div class="prd-bottom">
+
+                                                        <a class="social-info" href="/SuaTrongTai?TrongTaiId=${match.trongTaiId}">
+                                                        <span class="ti-bag"></span>
+                                                        <p class="hover-text">Sửa</p>
+                                                    </a>
+                                                    <a href="" class="social-info">
+                                                        <span class="lnr lnr-heart"></span>
+                                                        <p class="hover-text">Xóa</p>
+                                                    </a>
+                                                    <a href="" class="social-info">
+                                                        <span class="lnr lnr-sync"></span>
+                                                        <p class="hover-text">Chi tiết</p>
+                                                    </a>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                                `;
+                    });
+
+                    tableHtml += `
+                                    </div>
+                                        </div>
+                                            </div>
+                                            </section>
+                                            `;
+                    $('#result').html(tableHtml);
+                } else {
+                    $('#result').html('Không có sách nào.');
+                }
+            },
+            error: function () {
+                $('#result').html('Có lỗi xảy ra.');
+            }
+        });
+    }
+</script>

@@ -1,0 +1,61 @@
+﻿@model IEnumerable<Trandau>
+@foreach (var item in Model)
+{
+    <li class="divider"></li>
+    <li><a href="javascript:void(0)" onclick="loadData('@item.TranDauId')" class="nav">@item.TranDauId</a></li>
+}
+<script src="../Temp16/js/jquery-3.3.1.min.js"></script>
+<script type="text/javascript">
+    function loadData(TranDauId) {
+        $.ajax({
+            url: '@Url.Action("GetData", "Home")',
+            type: 'GET',
+            data: { TranDauId: TranDauId },
+            success: function (response) {
+                console.log(response); // Log the response to see its structure
+
+                if (response.length > 0) {
+                    let tableHtml = `
+                          
+                        `;
+                    response.forEach(match => {
+                        tableHtml += `
+                                <div class="prod_box">
+                                    <div class="center_prod_box">
+                                        <div class="product_title">
+                                                <a >Họ và tên: ${match.hoVaTen}}</a>
+                                        </div>
+                                        <div class="product_img">
+                                            <a >
+                                                <img src="../images/${match.anh}" style="width: 90%; height: 71px; margin: auto" />
+                                            </a>
+                                        </div>
+                                        <div class="prod_price">
+                                                <span class="price">Ngày sinh: ${match.ngaysinh}</span>
+                                        </div>
+                                        <div class="prod_price">
+                                                <span class="price">Quốc tịch: ${match.quocTich}</span>
+                                        </div>
+                                    </div>
+                                    <div class="prod_details_tab">
+                                        <a href="/SuaSVD?SanVanDongID=${match.tranDauId}" class="prod_buy">Sửa</a>
+                                            <a href="/ChiTiet?SanVanDongID=${match.tranDauId}" class="prod_details">Chi tiết</a>
+                                    </div>
+                                </div>
+                            `;
+                    });
+
+                    tableHtml += `
+                            
+                        `;
+                    $('#result').html(tableHtml);
+                } else {
+                    $('#result').html('Không có sân vận động nào.');
+                }
+            },
+            error: function () {
+                $('#result').html('Có lỗi xảy ra.');
+            }
+        });
+    }
+</script>

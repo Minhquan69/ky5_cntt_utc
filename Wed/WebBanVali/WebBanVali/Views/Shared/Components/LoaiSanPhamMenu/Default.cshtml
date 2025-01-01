@@ -1,0 +1,69 @@
+﻿@model IEnumerable<TLoaiSp>
+<div class="col-lg-3">
+    <div class="hero__categories">
+        <div class="hero__categories__all">
+            <i class="fa fa-bars"></i>
+            <span>All departments</span>
+        </div>
+        <ul>
+            @foreach (var item in Model)
+            {
+                var getUrl = "http://localhost:5042/api/Product/" + item.MaLoai;
+                <li>
+                    <a style="cursor:pointer" onclick="showProductByCategory('@getUrl')">
+                        @item.Loai
+                    </a>
+                </li>
+            }
+        </ul>
+    </div>
+</div>
+
+<!-- Thêm các link CSS cần thiết -->
+<link rel="stylesheet" href="../LayoutOgani/css/bootstrap.min.css" type="text/css">
+<link rel="stylesheet" href="../LayoutOgani/css/font-awesome.min.css" type="text/css">
+<link rel="stylesheet" href="../LayoutOgani/css/elegant-icons.css" type="text/css">
+<link rel="stylesheet" href="../LayoutOgani/css/nice-select.css" type="text/css">
+<link rel="stylesheet" href="../LayoutOgani/css/jquery-ui.min.css" type="text/css">
+<link rel="stylesheet" href="../LayoutOgani/css/owl.carousel.min.css" type="text/css">
+<link rel="stylesheet" href="../LayoutOgani/css/slicknav.min.css" type="text/css">
+<link rel="stylesheet" href="../LayoutOgani/css/style.css" type="text/css">
+
+<!-- Thêm div này để chứa sản phẩm hiển thị -->
+
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    function showProductByCategory(getUrl) {
+        var str = '';
+        $.ajax({
+            type: 'GET',
+            url: getUrl,
+            dataType: 'json',
+            success: function (data) {
+                $.each(data, function (key, val) {
+                    var linkImage = "../ProductsImages/Images/" + $.trim(val.anhDaiDien);
+                    str += '<div class="col-lg-3 col-md-4 col-sm-6 mix oranges fresh-meat">';
+                    str += '<div class="featured__item">';
+                    str += '<div class="featured__item__pic set-bg" style="background-image: url(\'' + linkImage + '\');">';
+                    str += '<ul class="featured__item__pic__hover">';
+                    str += '<li><a href="#"><i class="fa fa-heart"></i></a></li>';
+                    str += '<li><a href="#"><i class="fa fa-retweet"></i></a></li>';
+                    str += '<li><a href="#"><i class="fa fa-shopping-cart"></i></a></li>';
+                    str += '</ul></div>';
+                    str += '<div class="featured__item__text">';
+                    str += '<h6><a href="/Home/ChiTietSanPham?maSp=' + $.trim(val.maSp) + '">';
+                    str += $.trim(val.tenSp);
+                    str += '</a></h6><h5>';
+                    str += val.giaNhoNhat.toString();
+                    str += '</h5></div></div></div>';
+                });
+
+                // Chèn HTML được tạo vào container sản phẩm
+                $('#displayProducts').html(str);
+            },
+           
+            
+        });
+    }
+</script>

@@ -1,0 +1,69 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/DaoMinhQuan_Layout.cshtml";
+}
+@using X.PagedList.Mvc.Core;
+@model X.PagedList.IPagedList<dynamic>
+<div class="section group">
+	@foreach (var sp in Model)
+    {
+		<div class="grid_1_of_4 images_1_of_4" style="margin-left:0px;margin-right:1%">
+			<h4><a href="preview.html">@sp.Name</a></h4>
+			<a href="preview.html"><img src="@sp.ImageUrl" alt="" /></a>
+			<div class="price-details">
+				<div class="price-number">
+					<p><span class="rupees">@sp.Price </span></p>
+				</div>
+				<div class="add-cart">
+					<h4><a href="preview.html">More Info</a></h4>
+				</div>
+				<div class="clear"></div>
+			</div>
+		</div>
+    }
+
+</div>
+<div>
+    <style>
+        .pagination {
+            display: flex;
+            justify-content: center;
+            margin: 20px 0;
+        }
+
+            .pagination .page-item {
+                margin: 0 5px;
+            }
+
+            .pagination .page-link {
+                padding: 8px 12px;
+                font-size: 14px;
+                color: #007bff;
+                background: #fff;
+                border: 1px solid #ddd;
+                border-radius: 4px;
+                text-decoration: none;
+                transition: 0.3s;
+            }
+
+                .pagination .page-link:hover,
+                .pagination .page-item.active .page-link {
+                    background: #007bff;
+                    color: #fff;
+                }
+
+            .pagination .page-item.disabled .page-link {
+                color: #aaa;
+            }
+    </style>
+
+    <div>
+        @Html.PagedListPager(Model, page => Url.Action("Index", new { page }), new PagedListRenderOptions
+        {
+            UlElementClasses = new List<string> { "pagination" }, /* Lớp của danh sách phân trang */
+            LiElementClasses = new List<string> { "page-item" }, /* Lớp của từng mục */
+            PageClasses = new List<string> { "page-link" }      /* Lớp của liên kết */
+        })
+    </div>
+</div>
+

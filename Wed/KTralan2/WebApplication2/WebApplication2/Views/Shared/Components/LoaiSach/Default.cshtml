@@ -1,0 +1,85 @@
+﻿@model IEnumerable<TLoaiSach>
+@foreach(var item in Model)
+{
+    <li><a href="javascript:void(0)" onclick="loadData('@item.MaLoai')">@item.TenLoai</a></li>
+}
+<script src="../template2/js/jquery-3.3.1.min.js"></script>
+<script type="text/javascript">
+    function loadData(MaLoai) {
+        $.ajax({
+            url: '@Url.Action("GetData", "Home")',
+            type: 'GET',
+            data: { MaLoai: MaLoai },
+            success: function (response) {
+                console.log(response); // Log the response to see its structure
+
+                if (response.length > 0) {
+                    let tableHtml = `
+                                              <div class="row">
+                                            `;
+                    response.forEach(match => {
+                        tableHtml += `
+                    <div class="col-md-6 col-lg-4 mb-5">
+                        <div class="hotel-room text-center">
+                                <a href="#" class="d-block mb-0 thumbnail"><img src="../Images/${match.fileAnh}" class="img-fluid"></a>
+                            <div class="hotel-room-body">
+                                    <h3 class="heading mb-0"><a href="#">${match.tenSach}</a></h3>
+                                    <strong class="price">TG: ${match.tacGia}</strong> <br />
+                                        <strong class="price">GiaTri: ${match.giaTriSach} VND</strong><br />
+                                    <a href="/SuaSach?MaSach=${match.maSach}">Sửa thông tin</a>
+
+                                                <a href="javascript:void(0);" onclick="confirmDelete('${match.tenSach}', '${match.maSach}')">CT</a>
+
+                                            </div>
+                        </div>
+                    </div>
+
+
+    
+       
+                                            `;
+                    });
+
+                    tableHtml += ` 
+                                    </div>
+                                        `;
+                    $('#result').html(tableHtml);
+                } else {
+                    $('#result').html('Không có sách nào.');
+                }
+            },
+            error: function () {
+                $('#result').html('Có lỗi xảy ra.');
+            }
+        });
+    }
+</script>
+
+
+
+<script>
+    function confirmDelete(tenSach, maSach) {
+        // Hiển thị hộp thoại xác nhận
+        var result = confirm("Bạn có chắc chắn muốn xóa sách \"" + tenSach + "\" không?");
+        if (result) {
+            // Nếu người dùng xác nhận, thực hiện yêu cầu AJAX để xóa sách
+            $.ajax({
+                url: '/Home/XoaSach', // Đường dẫn đến phương thức XoaSach trong controller
+                type: 'GET',
+                data: { MaSach: maSach },
+                success: function (response) {
+                    // Xử lý thành công, có thể thêm thông báo thành công
+                    alert('Sách đã được xóa thành công.');
+                    // Cập nhật lại dữ liệu trong bảng (nếu cần)
+                    loadData(); // Gọi lại hàm loadData để làm mới danh sách
+                },
+                error: function () {
+                    // Xử lý lỗi
+                    alert('Có lỗi xảy ra khi xóa sách.');
+                }
+            });
+        }
+        return false; // Ngăn không cho sự kiện click tiếp tục
+    }
+</script>
+

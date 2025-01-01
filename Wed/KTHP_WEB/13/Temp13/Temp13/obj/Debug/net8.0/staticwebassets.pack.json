@@ -1,0 +1,521 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Temp13.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Temp13.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\assets\\css\\flex-slider.css",
+      "PackagePath": "staticwebassets\\Temp\\assets\\css\\flex-slider.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\assets\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\Temp\\assets\\css\\fontawesome.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\assets\\css\\owl.css",
+      "PackagePath": "staticwebassets\\Temp\\assets\\css\\owl.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\assets\\css\\tooplate-main.css",
+      "PackagePath": "staticwebassets\\Temp\\assets\\css\\tooplate-main.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\assets\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\Temp\\assets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Temp\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\assets\\fonts\\flexslider-icon.eot",
+      "PackagePath": "staticwebassets\\Temp\\assets\\fonts\\flexslider-icon.eot"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\assets\\fonts\\flexslider-icon.svg",
+      "PackagePath": "staticwebassets\\Temp\\assets\\fonts\\flexslider-icon.svg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\assets\\fonts\\flexslider-icon.ttf",
+      "PackagePath": "staticwebassets\\Temp\\assets\\fonts\\flexslider-icon.ttf"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\assets\\fonts\\flexslider-icon.woff",
+      "PackagePath": "staticwebassets\\Temp\\assets\\fonts\\flexslider-icon.woff"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Temp\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Temp\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Temp\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Temp\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\Temp\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\assets\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\Temp\\assets\\fonts\\slick.eot"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\assets\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\Temp\\assets\\fonts\\slick.svg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\assets\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\Temp\\assets\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\assets\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\Temp\\assets\\fonts\\slick.woff"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\assets\\images\\about-us.jpg",
+      "PackagePath": "staticwebassets\\Temp\\assets\\images\\about-us.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\assets\\images\\banner-bg.jpg",
+      "PackagePath": "staticwebassets\\Temp\\assets\\images\\banner-bg.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\assets\\images\\big-01.jpg",
+      "PackagePath": "staticwebassets\\Temp\\assets\\images\\big-01.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\assets\\images\\big-02.jpg",
+      "PackagePath": "staticwebassets\\Temp\\assets\\images\\big-02.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\assets\\images\\big-03.jpg",
+      "PackagePath": "staticwebassets\\Temp\\assets\\images\\big-03.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\assets\\images\\big-04.jpg",
+      "PackagePath": "staticwebassets\\Temp\\assets\\images\\big-04.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\assets\\images\\header-logo.png",
+      "PackagePath": "staticwebassets\\Temp\\assets\\images\\header-logo.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\assets\\images\\item-01.jpg",
+      "PackagePath": "staticwebassets\\Temp\\assets\\images\\item-01.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\assets\\images\\item-02.jpg",
+      "PackagePath": "staticwebassets\\Temp\\assets\\images\\item-02.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\assets\\images\\item-03.jpg",
+      "PackagePath": "staticwebassets\\Temp\\assets\\images\\item-03.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\assets\\images\\item-04.jpg",
+      "PackagePath": "staticwebassets\\Temp\\assets\\images\\item-04.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\assets\\images\\item-05.jpg",
+      "PackagePath": "staticwebassets\\Temp\\assets\\images\\item-05.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\assets\\images\\item-06.jpg",
+      "PackagePath": "staticwebassets\\Temp\\assets\\images\\item-06.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\assets\\images\\product-01.jpg",
+      "PackagePath": "staticwebassets\\Temp\\assets\\images\\product-01.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\assets\\images\\product-02.jpg",
+      "PackagePath": "staticwebassets\\Temp\\assets\\images\\product-02.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\assets\\images\\product-03.jpg",
+      "PackagePath": "staticwebassets\\Temp\\assets\\images\\product-03.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\assets\\images\\product-04.jpg",
+      "PackagePath": "staticwebassets\\Temp\\assets\\images\\product-04.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\assets\\images\\product-05.jpg",
+      "PackagePath": "staticwebassets\\Temp\\assets\\images\\product-05.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\assets\\images\\product-06.jpg",
+      "PackagePath": "staticwebassets\\Temp\\assets\\images\\product-06.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\assets\\images\\thumb-01.jpg",
+      "PackagePath": "staticwebassets\\Temp\\assets\\images\\thumb-01.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\assets\\images\\thumb-02.jpg",
+      "PackagePath": "staticwebassets\\Temp\\assets\\images\\thumb-02.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\assets\\images\\thumb-03.jpg",
+      "PackagePath": "staticwebassets\\Temp\\assets\\images\\thumb-03.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\assets\\images\\thumb-04.jpg",
+      "PackagePath": "staticwebassets\\Temp\\assets\\images\\thumb-04.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\Temp\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\assets\\js\\flex-slider.js",
+      "PackagePath": "staticwebassets\\Temp\\assets\\js\\flex-slider.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\assets\\js\\isotope.js",
+      "PackagePath": "staticwebassets\\Temp\\assets\\js\\isotope.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\assets\\js\\owl.js",
+      "PackagePath": "staticwebassets\\Temp\\assets\\js\\owl.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Temp\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\Temp\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Temp\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\Temp\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\Temp\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\Temp\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\Temp\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\Temp\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Temp\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\Temp\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Temp\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\Temp\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\vendor\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\Temp\\vendor\\jquery\\jquery.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\vendor\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Temp\\vendor\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\vendor\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\Temp\\vendor\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\vendor\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\Temp\\vendor\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\vendor\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\Temp\\vendor\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\Temp\\vendor\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\Temp\\vendor\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\13\\Temp13\\Temp13\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Temp13.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Temp13.props",
+      "PackagePath": "build\\Temp13.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Temp13.props",
+      "PackagePath": "buildMultiTargeting\\Temp13.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Temp13.props",
+      "PackagePath": "buildTransitive\\Temp13.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

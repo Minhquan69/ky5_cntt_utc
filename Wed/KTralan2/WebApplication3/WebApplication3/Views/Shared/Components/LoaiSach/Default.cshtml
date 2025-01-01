@@ -1,0 +1,9 @@
+﻿@model IEnumerable<TNgonNgu>
+<ul class="nav">
+    @foreach (var item in Model)
+    {
+        <li>
+            <a href="index.html">@item.TenNgonNgu</a>
+        </li>
+    }
+</ul>

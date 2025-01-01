@@ -1,0 +1,97 @@
+﻿@model WebApplication2.Models.TSach
+
+@{
+    ViewData["Title"] = "ChiTietSach";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>ChiTietSach</h1>
+
+<div>
+    <h4>TSach</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TenSach)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TenSach)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TacGia)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TacGia)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.NamXb)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.NamXb)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.LanXb)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.LanXb)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.GioiThieu)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.GioiThieu)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TongSoTrang)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TongSoTrang)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Tap)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Tap)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TongSoTap)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TongSoTap)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.GiaTriSach)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.GiaTriSach)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.FileAnh)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.FileAnh)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.MaLoaiNavigation)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.MaLoaiNavigation.MaLoai)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.MaNgonNguNavigation)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.MaNgonNguNavigation.MaNgonNgu)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.MaNxbNavigation)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.MaNxbNavigation.MaNxb)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.MaSach">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

@@ -1,0 +1,111 @@
+﻿@model IEnumerable<Product>
+
+
+
+@{
+    ViewData["Title"] = "Home Page";
+	Layout = "~/Views/Shared/_LayoutKiemTra.cshtml";
+
+}
+
+@foreach (var item in Model)
+{
+	<div class="col-md-4 top_brand_left">
+		<div class="hover14 column">
+			<div class="agile_top_brand_left_grid">
+				<div class="agile_top_brand_left_grid_pos">
+					<img src="@Url.Content("../tem/images/" + @item.Image)" alt=" " class="img-responsive">
+				</div>
+				<div class="agile_top_brand_left_grid1">
+					<figure>
+						<div class="snipcart-item block">
+							<div class="snipcart-thumb">
+								<a href="single.html"><img title=" " alt=" " src="@Url.Content("../tem/images/" + @item.Image)"></a>
+								<p>@item.Name</p>
+
+								<h4>@item.UnitPrice <span>$55.00</span></h4>
+
+							</div>
+							<div class="snipcart-details top_brand_home_details">
+								<form action="#" method="post">
+									<fieldset>
+										<input type="hidden" name="cmd" value="_cart">
+										<input type="hidden" name="add" value="1">
+										<input type="hidden" name="business" value=" ">
+										<input type="hidden" name="item_name" value="Fortune Sunflower Oil">
+										<input type="hidden" name="amount" value="35.99">
+										<input type="hidden" name="discount_amount" value="1.00">
+										<input type="hidden" name="currency_code" value="USD">
+										<input type="hidden" name="return" value=" ">
+										<input type="hidden" name="cancel_return" value=" ">
+										<input type="submit" name="submit" value="Add to cart" class="button">
+									</fieldset>
+								</form>
+							</div>
+						</div>
+					</figure>
+				</div>
+			</div>
+		</div>
+	</div>
+}
+@section dropdown {
+    <select id="country1" onchange="loadData()" class="frm-field required sect">
+
+		<option value="null">Tất cả</option>
+		@foreach (var item in ViewData["dropdown"] as List<Category>)
+		{
+			<option value="@item.Id">@item.NameVn</option>
+		}
+    </select>
+
+}
+<script type="text/javascript">
+    function loadData() {
+        const categoryId = $('#country1').val(); // Lấy CategoryId từ dropdown
+
+        $.ajax({
+            url: '@Url.Action("GetData", "Home")',
+            type: 'GET',
+            data: { categoryId: categoryId === "null" ? null : categoryId }, // Gửi CategoryId và keyword
+            success: function (response) {
+                let html = '';
+
+                if (Array.isArray(response) && response.length > 0) {
+                    response.forEach(function (item) {
+                        html += `
+                                <div class="col-md-4 top_brand_left">
+                                    <div class="hover14 column">
+                                        <div class="agile_top_brand_left_grid">
+                                            <div class="agile_top_brand_left_grid_pos">
+                                                <img src="../tem/images/${item.image}" alt="${item.name}" class="img-responsive">
+                                            </div>
+                                            <div class="agile_top_brand_left_grid1">
+                                                <figure>
+                                                    <div class="snipcart-item block">
+                                                        <div class="snipcart-thumb">
+                                                            <a href="single.html">
+                                                                <img src="../tem/images/${item.image}" alt="${item.name}" class="img-responsive">
+                                                            </a>
+                                                            <p>${item.name}</p>
+                                                            <h4>${item.unitPrice} <span>$55.00</span></h4>
+                                                        </div>
+                                                    </div>
+                                                </figure>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>`;
+                    });
+                } else {
+                    html = '<p>Không tìm thấy sản phẩm nào!</p>';
+                }
+
+                $('.agile_top_brands_grids').html(html); // Hiển thị sản phẩm
+            },
+            error: function () {
+                alert('Đã xảy ra lỗi, vui lòng thử lại!');
+            }
+        });
+    }
+</script>

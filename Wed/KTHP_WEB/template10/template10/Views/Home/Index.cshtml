@@ -1,0 +1,34 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/_LayoutIndex.cshtml";
+}
+@model IEnumerable<Trandau>
+<div id="result">
+	
+</div>
+<p>
+	<a class="btn btn-primary" asp-action="ThemTranDau">Create New</a>
+</p>
+<div class="row">
+	<div class="col-sm-8 offset-sm-2 text-center colorlib-heading">
+		<h2>Danh sách trận đấu <br /> CLB mã '101'</h2>
+	</div>
+</div>
+<div class="row row-pb-md">
+	@foreach (var item in Model)
+	{
+		<div class="col-lg-3 mb-4 text-center">
+			<div class="product-entry border">
+				<a href="#" class="prod-img">
+					<img src="@Url.Content("../images/" + @item.Anh)" class="img-fluid" alt="Free html5 bootstrap 4 template10">
+				</a>
+				<div class="desc">
+					<h2><a href="#">@item.NgayThiDau</a></h2>
+					<span class="price" style="font-size: 15px;">CLBNha: @item.Clbnha - CLBKhach: @item.Clbkhach</span>
+					<span class="price">Tỷ số: @item.KetQua</span>
+				</div>
+			</div>
+		</div>
+	}
+</div>
+

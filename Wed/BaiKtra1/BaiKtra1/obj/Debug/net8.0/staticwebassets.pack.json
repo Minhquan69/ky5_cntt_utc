@@ -1,0 +1,545 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BaiKtra1.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BaiKtra1.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\css\\animate.css",
+      "PackagePath": "staticwebassets\\bin\\css\\animate.css"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\css\\aos.css",
+      "PackagePath": "staticwebassets\\bin\\css\\aos.css"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\css\\bootstrap-datepicker.css",
+      "PackagePath": "staticwebassets\\bin\\css\\bootstrap-datepicker.css"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bin\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\css\\bootstrap\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\bin\\css\\bootstrap\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\css\\bootstrap\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\bin\\css\\bootstrap\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\css\\bootstrap\\bootstrap.css",
+      "PackagePath": "staticwebassets\\bin\\css\\bootstrap\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bin\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\bin\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\bin\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\css\\mediaelementplayer.css",
+      "PackagePath": "staticwebassets\\bin\\css\\mediaelementplayer.css"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\bin\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\bin\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\css\\style.css",
+      "PackagePath": "staticwebassets\\bin\\css\\style.css"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\fonts\\flaticon\\backup.txt",
+      "PackagePath": "staticwebassets\\bin\\fonts\\flaticon\\backup.txt"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\fonts\\flaticon\\font\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\bin\\fonts\\flaticon\\font\\Flaticon.eot"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\fonts\\flaticon\\font\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\bin\\fonts\\flaticon\\font\\Flaticon.svg"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\fonts\\flaticon\\font\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\bin\\fonts\\flaticon\\font\\Flaticon.ttf"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\fonts\\flaticon\\font\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\bin\\fonts\\flaticon\\font\\Flaticon.woff"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\fonts\\flaticon\\font\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\bin\\fonts\\flaticon\\font\\_flaticon.scss"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\fonts\\flaticon\\font\\flaticon.css",
+      "PackagePath": "staticwebassets\\bin\\fonts\\flaticon\\font\\flaticon.css"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\fonts\\flaticon\\font\\flaticon.html",
+      "PackagePath": "staticwebassets\\bin\\fonts\\flaticon\\font\\flaticon.html"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\fonts\\flaticon\\license\\license.pdf",
+      "PackagePath": "staticwebassets\\bin\\fonts\\flaticon\\license\\license.pdf"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\fonts\\icomoon\\Read Me.txt",
+      "PackagePath": "staticwebassets\\bin\\fonts\\icomoon\\Read Me.txt"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\fonts\\icomoon\\demo-files\\demo.css",
+      "PackagePath": "staticwebassets\\bin\\fonts\\icomoon\\demo-files\\demo.css"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\fonts\\icomoon\\demo-files\\demo.js",
+      "PackagePath": "staticwebassets\\bin\\fonts\\icomoon\\demo-files\\demo.js"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\fonts\\icomoon\\demo.html",
+      "PackagePath": "staticwebassets\\bin\\fonts\\icomoon\\demo.html"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\fonts\\icomoon\\fonts\\icomoon.eot",
+      "PackagePath": "staticwebassets\\bin\\fonts\\icomoon\\fonts\\icomoon.eot"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\fonts\\icomoon\\fonts\\icomoon.svg",
+      "PackagePath": "staticwebassets\\bin\\fonts\\icomoon\\fonts\\icomoon.svg"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\fonts\\icomoon\\fonts\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\bin\\fonts\\icomoon\\fonts\\icomoon.ttf"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\fonts\\icomoon\\fonts\\icomoon.woff",
+      "PackagePath": "staticwebassets\\bin\\fonts\\icomoon\\fonts\\icomoon.woff"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\fonts\\icomoon\\selection.json",
+      "PackagePath": "staticwebassets\\bin\\fonts\\icomoon\\selection.json"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\fonts\\icomoon\\style.css",
+      "PackagePath": "staticwebassets\\bin\\fonts\\icomoon\\style.css"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\images\\about_2.jpg",
+      "PackagePath": "staticwebassets\\bin\\images\\about_2.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\images\\about_3.jpg",
+      "PackagePath": "staticwebassets\\bin\\images\\about_3.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\images\\bia.png",
+      "PackagePath": "staticwebassets\\bin\\images\\bia.png"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\images\\coca.png",
+      "PackagePath": "staticwebassets\\bin\\images\\coca.png"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\images\\fanta.png",
+      "PackagePath": "staticwebassets\\bin\\images\\fanta.png"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\images\\giala.png",
+      "PackagePath": "staticwebassets\\bin\\images\\giala.png"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\images\\hero_1.jpg",
+      "PackagePath": "staticwebassets\\bin\\images\\hero_1.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\images\\hero_2.jpg",
+      "PackagePath": "staticwebassets\\bin\\images\\hero_2.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\images\\hero_3.jpg",
+      "PackagePath": "staticwebassets\\bin\\images\\hero_3.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\images\\hoaqua.png",
+      "PackagePath": "staticwebassets\\bin\\images\\hoaqua.png"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\images\\img_1.jpg",
+      "PackagePath": "staticwebassets\\bin\\images\\img_1.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\images\\img_2.jpg",
+      "PackagePath": "staticwebassets\\bin\\images\\img_2.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\images\\img_3.jpg",
+      "PackagePath": "staticwebassets\\bin\\images\\img_3.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\images\\img_4.jpg",
+      "PackagePath": "staticwebassets\\bin\\images\\img_4.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\images\\img_5.jpg",
+      "PackagePath": "staticwebassets\\bin\\images\\img_5.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\images\\img_6.jpg",
+      "PackagePath": "staticwebassets\\bin\\images\\img_6.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\images\\img_7.jpg",
+      "PackagePath": "staticwebassets\\bin\\images\\img_7.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\images\\masage.png",
+      "PackagePath": "staticwebassets\\bin\\images\\masage.png"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\images\\pepsi.png",
+      "PackagePath": "staticwebassets\\bin\\images\\pepsi.png"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\images\\person_1.jpg",
+      "PackagePath": "staticwebassets\\bin\\images\\person_1.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\images\\person_2.jpg",
+      "PackagePath": "staticwebassets\\bin\\images\\person_2.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\images\\person_3.jpg",
+      "PackagePath": "staticwebassets\\bin\\images\\person_3.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\images\\person_4.jpg",
+      "PackagePath": "staticwebassets\\bin\\images\\person_4.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\js\\aos.js",
+      "PackagePath": "staticwebassets\\bin\\js\\aos.js"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\js\\bootstrap-datepicker.min.js",
+      "PackagePath": "staticwebassets\\bin\\js\\bootstrap-datepicker.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\bin\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\bin\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\js\\jquery-migrate-3.0.1.min.js",
+      "PackagePath": "staticwebassets\\bin\\js\\jquery-migrate-3.0.1.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\js\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\bin\\js\\jquery-ui.js"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\js\\jquery.countdown.min.js",
+      "PackagePath": "staticwebassets\\bin\\js\\jquery.countdown.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\bin\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\js\\jquery.stellar.min.js",
+      "PackagePath": "staticwebassets\\bin\\js\\jquery.stellar.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\js\\main.js",
+      "PackagePath": "staticwebassets\\bin\\js\\main.js"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\js\\mediaelement-and-player.min.js",
+      "PackagePath": "staticwebassets\\bin\\js\\mediaelement-and-player.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\bin\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\bin\\js\\popper.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\bin\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\bin\\js\\slick.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\BaiKtra1\\BaiKtra1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BaiKtra1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BaiKtra1.props",
+      "PackagePath": "build\\BaiKtra1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BaiKtra1.props",
+      "PackagePath": "buildMultiTargeting\\BaiKtra1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BaiKtra1.props",
+      "PackagePath": "buildTransitive\\BaiKtra1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

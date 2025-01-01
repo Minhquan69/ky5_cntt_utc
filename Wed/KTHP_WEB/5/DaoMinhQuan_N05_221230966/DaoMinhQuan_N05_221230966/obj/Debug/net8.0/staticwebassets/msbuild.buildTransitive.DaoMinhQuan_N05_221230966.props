@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DaoMinhQuan_N05_221230966.props" />
+</Project>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\baithithu2.props" />
+</Project>

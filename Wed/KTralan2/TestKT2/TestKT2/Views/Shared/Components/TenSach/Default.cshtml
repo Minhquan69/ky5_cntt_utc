@@ -1,0 +1,8 @@
+﻿@model List<TLoaiSach>
+
+@foreach(var item in Model)
+{
+	<li>
+		<a href="javascript:void(0)" onclick="loadData('@item.TenLoai')">@item.TenLoai</a>
+	</li>
+}

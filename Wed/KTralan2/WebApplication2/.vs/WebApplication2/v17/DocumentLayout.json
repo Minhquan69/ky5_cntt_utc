@@ -1,0 +1,379 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Wed\\KTralan2\\WebApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91AD7FEE-2CA1-4CFD-B5D1-7AA83B85EBEC}|WebApplication2\\WebApplication2.csproj|e:\\wed\\ktralan2\\webapplication2\\webapplication2\\views\\shared\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91AD7FEE-2CA1-4CFD-B5D1-7AA83B85EBEC}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\shared\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AD7FEE-2CA1-4CFD-B5D1-7AA83B85EBEC}|WebApplication2\\WebApplication2.csproj|e:\\wed\\ktralan2\\webapplication2\\webapplication2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91AD7FEE-2CA1-4CFD-B5D1-7AA83B85EBEC}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AD7FEE-2CA1-4CFD-B5D1-7AA83B85EBEC}|WebApplication2\\WebApplication2.csproj|e:\\wed\\ktralan2\\webapplication2\\webapplication2\\views\\shared\\_layoutindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91AD7FEE-2CA1-4CFD-B5D1-7AA83B85EBEC}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\shared\\_layoutindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AD7FEE-2CA1-4CFD-B5D1-7AA83B85EBEC}|WebApplication2\\WebApplication2.csproj|e:\\wed\\ktralan2\\webapplication2\\webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AD7FEE-2CA1-4CFD-B5D1-7AA83B85EBEC}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AD7FEE-2CA1-4CFD-B5D1-7AA83B85EBEC}|WebApplication2\\WebApplication2.csproj|e:\\wed\\ktralan2\\webapplication2\\webapplication2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91AD7FEE-2CA1-4CFD-B5D1-7AA83B85EBEC}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AD7FEE-2CA1-4CFD-B5D1-7AA83B85EBEC}|WebApplication2\\WebApplication2.csproj|e:\\wed\\ktralan2\\webapplication2\\webapplication2\\views\\shared\\components\\loaisach\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91AD7FEE-2CA1-4CFD-B5D1-7AA83B85EBEC}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\shared\\components\\loaisach\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AD7FEE-2CA1-4CFD-B5D1-7AA83B85EBEC}|WebApplication2\\WebApplication2.csproj|e:\\wed\\ktralan2\\webapplication2\\webapplication2\\viewcomponents\\loaisachviewscomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AD7FEE-2CA1-4CFD-B5D1-7AA83B85EBEC}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\viewcomponents\\loaisachviewscomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AD7FEE-2CA1-4CFD-B5D1-7AA83B85EBEC}|WebApplication2\\WebApplication2.csproj|e:\\wed\\ktralan2\\webapplication2\\webapplication2\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91AD7FEE-2CA1-4CFD-B5D1-7AA83B85EBEC}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AD7FEE-2CA1-4CFD-B5D1-7AA83B85EBEC}|WebApplication2\\WebApplication2.csproj|e:\\wed\\ktralan2\\webapplication2\\webapplication2\\views\\home\\themsach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91AD7FEE-2CA1-4CFD-B5D1-7AA83B85EBEC}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\themsach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AD7FEE-2CA1-4CFD-B5D1-7AA83B85EBEC}|WebApplication2\\WebApplication2.csproj|e:\\wed\\ktralan2\\webapplication2\\webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AD7FEE-2CA1-4CFD-B5D1-7AA83B85EBEC}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AD7FEE-2CA1-4CFD-B5D1-7AA83B85EBEC}|WebApplication2\\WebApplication2.csproj|e:\\wed\\ktralan2\\webapplication2\\webapplication2\\models\\tsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AD7FEE-2CA1-4CFD-B5D1-7AA83B85EBEC}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\tsach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AD7FEE-2CA1-4CFD-B5D1-7AA83B85EBEC}|WebApplication2\\WebApplication2.csproj|e:\\wed\\ktralan2\\webapplication2\\webapplication2\\models\\tloaisach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AD7FEE-2CA1-4CFD-B5D1-7AA83B85EBEC}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\tloaisach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AD7FEE-2CA1-4CFD-B5D1-7AA83B85EBEC}|WebApplication2\\WebApplication2.csproj|e:\\wed\\ktralan2\\webapplication2\\webapplication2\\views\\home\\suasach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91AD7FEE-2CA1-4CFD-B5D1-7AA83B85EBEC}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\suasach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AD7FEE-2CA1-4CFD-B5D1-7AA83B85EBEC}|WebApplication2\\WebApplication2.csproj|e:\\wed\\ktralan2\\webapplication2\\webapplication2\\views\\home\\chitietsach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91AD7FEE-2CA1-4CFD-B5D1-7AA83B85EBEC}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\chitietsach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AD7FEE-2CA1-4CFD-B5D1-7AA83B85EBEC}|WebApplication2\\WebApplication2.csproj|e:\\wed\\ktralan2\\webapplication2\\webapplication2\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91AD7FEE-2CA1-4CFD-B5D1-7AA83B85EBEC}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AD7FEE-2CA1-4CFD-B5D1-7AA83B85EBEC}|WebApplication2\\WebApplication2.csproj|e:\\wed\\ktralan2\\webapplication2\\webapplication2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AD7FEE-2CA1-4CFD-B5D1-7AA83B85EBEC}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AD7FEE-2CA1-4CFD-B5D1-7AA83B85EBEC}|WebApplication2\\WebApplication2.csproj|e:\\wed\\ktralan2\\webapplication2\\webapplication2\\models\\tbansaosach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AD7FEE-2CA1-4CFD-B5D1-7AA83B85EBEC}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\tbansaosach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AD7FEE-2CA1-4CFD-B5D1-7AA83B85EBEC}|WebApplication2\\WebApplication2.csproj|e:\\wed\\ktralan2\\webapplication2\\webapplication2\\views\\home\\xoasach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91AD7FEE-2CA1-4CFD-B5D1-7AA83B85EBEC}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\home\\xoasach.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AD7FEE-2CA1-4CFD-B5D1-7AA83B85EBEC}|WebApplication2\\WebApplication2.csproj|e:\\wed\\ktralan2\\webapplication2\\webapplication2\\models\\tmuontra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AD7FEE-2CA1-4CFD-B5D1-7AA83B85EBEC}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\tmuontra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AD7FEE-2CA1-4CFD-B5D1-7AA83B85EBEC}|WebApplication2\\WebApplication2.csproj|e:\\wed\\ktralan2\\webapplication2\\webapplication2\\models\\qlthuviencontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91AD7FEE-2CA1-4CFD-B5D1-7AA83B85EBEC}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\models\\qlthuviencontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AD7FEE-2CA1-4CFD-B5D1-7AA83B85EBEC}|WebApplication2\\WebApplication2.csproj|e:\\wed\\ktralan2\\webapplication2\\webapplication2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{91AD7FEE-2CA1-4CFD-B5D1-7AA83B85EBEC}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91AD7FEE-2CA1-4CFD-B5D1-7AA83B85EBEC}|WebApplication2\\WebApplication2.csproj|e:\\wed\\ktralan2\\webapplication2\\webapplication2\\webapplication2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{91AD7FEE-2CA1-4CFD-B5D1-7AA83B85EBEC}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\webapplication2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTralan2\\WebApplication2\\WebApplication2\\Views\\Shared\\Components\\LoaiSach\\Default.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Shared\\Components\\LoaiSach\\Default.cshtml",
+              "ToolTip": "E:\\Wed\\KTralan2\\WebApplication2\\WebApplication2\\Views\\Shared\\Components\\LoaiSach\\Default.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Shared\\Components\\LoaiSach\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T07:12:02.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LayoutIndex.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTralan2\\WebApplication2\\WebApplication2\\Views\\Shared\\_LayoutIndex.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Shared\\_LayoutIndex.cshtml",
+              "ToolTip": "E:\\Wed\\KTralan2\\WebApplication2\\WebApplication2\\Views\\Shared\\_LayoutIndex.cshtml*",
+              "RelativeToolTip": "WebApplication2\\Views\\Shared\\_LayoutIndex.cshtml*",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T06:18:37.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Wed\\KTralan2\\WebApplication2\\WebApplication2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Wed\\KTralan2\\WebApplication2\\WebApplication2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAowF4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T07:19:00.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTralan2\\WebApplication2\\WebApplication2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Wed\\KTralan2\\WebApplication2\\WebApplication2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T06:25:32.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Footer.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTralan2\\WebApplication2\\WebApplication2\\Views\\Shared\\Footer.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Shared\\Footer.cshtml",
+              "ToolTip": "E:\\Wed\\KTralan2\\WebApplication2\\WebApplication2\\Views\\Shared\\Footer.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Shared\\Footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T06:19:16.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoaiSachViewsComponent.cs",
+              "DocumentMoniker": "E:\\Wed\\KTralan2\\WebApplication2\\WebApplication2\\ViewComponents\\LoaiSachViewsComponent.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\ViewComponents\\LoaiSachViewsComponent.cs",
+              "ToolTip": "E:\\Wed\\KTralan2\\WebApplication2\\WebApplication2\\ViewComponents\\LoaiSachViewsComponent.cs",
+              "RelativeToolTip": "WebApplication2\\ViewComponents\\LoaiSachViewsComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T06:41:34.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Header.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTralan2\\WebApplication2\\WebApplication2\\Views\\Shared\\Header.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Shared\\Header.cshtml",
+              "ToolTip": "E:\\Wed\\KTralan2\\WebApplication2\\WebApplication2\\Views\\Shared\\Header.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Shared\\Header.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T06:18:55.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTralan2\\WebApplication2\\WebApplication2\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "E:\\Wed\\KTralan2\\WebApplication2\\WebApplication2\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T07:45:19.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ThemSach.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTralan2\\WebApplication2\\WebApplication2\\Views\\Home\\ThemSach.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\ThemSach.cshtml",
+              "ToolTip": "E:\\Wed\\KTralan2\\WebApplication2\\WebApplication2\\Views\\Home\\ThemSach.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\ThemSach.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T08:11:44.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Wed\\KTralan2\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Program.cs",
+              "ToolTip": "E:\\Wed\\KTralan2\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeToolTip": "WebApplication2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T07:18:07.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TSach.cs",
+              "DocumentMoniker": "E:\\Wed\\KTralan2\\WebApplication2\\WebApplication2\\Models\\TSach.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\TSach.cs",
+              "ToolTip": "E:\\Wed\\KTralan2\\WebApplication2\\WebApplication2\\Models\\TSach.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\TSach.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAiwAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:09:06.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SuaSach.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTralan2\\WebApplication2\\WebApplication2\\Views\\Home\\SuaSach.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\SuaSach.cshtml",
+              "ToolTip": "E:\\Wed\\KTralan2\\WebApplication2\\WebApplication2\\Views\\Home\\SuaSach.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\SuaSach.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAIBJwFkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T07:56:42.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TLoaiSach.cs",
+              "DocumentMoniker": "E:\\Wed\\KTralan2\\WebApplication2\\WebApplication2\\Models\\TLoaiSach.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\TLoaiSach.cs",
+              "ToolTip": "E:\\Wed\\KTralan2\\WebApplication2\\WebApplication2\\Models\\TLoaiSach.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\TLoaiSach.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T12:22:23.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ChiTietSach.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTralan2\\WebApplication2\\WebApplication2\\Views\\Home\\ChiTietSach.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\ChiTietSach.cshtml",
+              "ToolTip": "E:\\Wed\\KTralan2\\WebApplication2\\WebApplication2\\Views\\Home\\ChiTietSach.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\ChiTietSach.cshtml",
+              "ViewState": "AgIAAE4AAAAAAAAAAIBJwF8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T09:17:16.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "E:\\Wed\\KTralan2\\WebApplication2\\WebApplication2\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\ErrorViewModel.cs",
+              "ToolTip": "E:\\Wed\\KTralan2\\WebApplication2\\WebApplication2\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T20:25:36.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTralan2\\WebApplication2\\WebApplication2\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "E:\\Wed\\KTralan2\\WebApplication2\\WebApplication2\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T20:23:25.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TBanSaoSach.cs",
+              "DocumentMoniker": "E:\\Wed\\KTralan2\\WebApplication2\\WebApplication2\\Models\\TBanSaoSach.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\TBanSaoSach.cs",
+              "ToolTip": "E:\\Wed\\KTralan2\\WebApplication2\\WebApplication2\\Models\\TBanSaoSach.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\TBanSaoSach.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T06:25:01.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "XoaSach.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTralan2\\WebApplication2\\WebApplication2\\Views\\Home\\XoaSach.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\XoaSach.cshtml",
+              "ToolTip": "E:\\Wed\\KTralan2\\WebApplication2\\WebApplication2\\Views\\Home\\XoaSach.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\XoaSach.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T05:58:52.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TMuonTra.cs",
+              "DocumentMoniker": "E:\\Wed\\KTralan2\\WebApplication2\\WebApplication2\\Models\\TMuonTra.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\TMuonTra.cs",
+              "ToolTip": "E:\\Wed\\KTralan2\\WebApplication2\\WebApplication2\\Models\\TMuonTra.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\TMuonTra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T06:28:46.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "QlthuVienContext.cs",
+              "DocumentMoniker": "E:\\Wed\\KTralan2\\WebApplication2\\WebApplication2\\Models\\QlthuVienContext.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\QlthuVienContext.cs",
+              "ToolTip": "E:\\Wed\\KTralan2\\WebApplication2\\WebApplication2\\Models\\QlthuVienContext.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\QlthuVienContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T07:08:57.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTralan2\\WebApplication2\\WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Wed\\KTralan2\\WebApplication2\\WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBZwCoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T08:44:05.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WebApplication2.csproj",
+              "DocumentMoniker": "E:\\Wed\\KTralan2\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+              "RelativeDocumentMoniker": "WebApplication2\\WebApplication2.csproj",
+              "ToolTip": "E:\\Wed\\KTralan2\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+              "RelativeToolTip": "WebApplication2\\WebApplication2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-22T06:40:58.076Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

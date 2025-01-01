@@ -1,0 +1,49 @@
+﻿@model IEnumerable<Sanvandong>
+@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/_LayoutIndex.cshtml";
+}
+
+
+<div class="center_title_bar">Danh sách sân vận động</div>
+<div id="result">
+    @foreach (var item in Model)
+    {
+        <div class="prod_box">
+            <div class="center_prod_box">
+                <div class="product_title"><a asp-action="ChiTiet" asp-route-SanVanDongId="@item.SanVanDongId">Tên sân: @item.TenSan</a></div>
+                <div class="product_img">
+                    <a asp-action="ChiTiet" asp-route-SanVanDongId="@item.SanVanDongId">
+                        <img src="@Url.Content("../images/" + @item.Anh)"
+                             style=" width: 90%; height: 71px; margin: auto " />
+                    </a>
+                </div>
+                <div class="prod_price"><span class="price">Thành phố: @item.ThanhPho</span></div>
+                <div class="prod_price"><span class="price">Năm bắt đầu: @item.NamBatDau</span></div>
+            </div>
+            <div class="prod_details_tab">
+                <a asp-action="SuaSVD" asp-route-SanVanDongID="@item.SanVanDongId" class="prod_buy">Sửa</a> <a asp-action="ChiTiet" asp-route-SanVanDongId="@item.SanVanDongId" class="prod_details">Chi tiết</a>
+                <a onclick="return confirmDelete('@item.TenSan', '@item.SanVanDongId')" asp-action="XoaSVD" asp-route-SanVanDongId="@item.SanVanDongId" class="prod_details">Xóa</a>
+            </div>
+        </div>
+    }
+</div>
+
+@if (TempData["Message"] != null)
+{
+    <script>
+        alert('@TempData["Message"]');
+    </script>
+}
+<script>
+    function confirmDelete(TenSan, SanVanDongId) {
+        // Hiển thị hộp thoại xác nhận
+        var result = confirm("Bạn có chắc chắn muốn xóa SVD \"" + TenSan + "\" không?");
+        if (result) {
+            // Nếu người dùng xác nhận, chuyển hướng đến phương thức XoaSach trong controller
+            window.location.href = '/XoaSVD?SanVanDongId=' + SanVanDongId;
+        }
+        return false; // Ngăn không cho sự kiện click tiếp tục
+    }
+</script>
+

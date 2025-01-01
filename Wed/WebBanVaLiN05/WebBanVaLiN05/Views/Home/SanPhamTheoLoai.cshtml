@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewData["Title"] = "SanPhamTheoLoai";
+    Layout = "~/Views/Shared/_LayoutOgani.cshtml";
+}
+
+@model X.PagedList.IPagedList<TDanhMucSp>
+@using WebBanVaLiN05.Models
+@using X.Web.PagedList
+
+@foreach(var sp in Model)
+{
+    @await Html.PartialAsync("_PartialSanPham",sp);
+}
+
+<div class=" = product__pagination">
+    @Html.PagedListPager(Model, page => Url.Action("SanPhamTheoLoai", new { page = page, maLoai = ViewBag.maLoai }), new PagedListRenderOptions
+    {
+    LiElementClasses = new List<string> { "page-item" },
+    PageClasses = new List<string> { "page-link" }
+    })
+</div>

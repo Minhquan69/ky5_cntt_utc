@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DaoMinhQuan_N05_221230966/1.0.0": {
+        "runtime": {
+          "DaoMinhQuan_N05_221230966.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DaoMinhQuan_N05_221230966/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

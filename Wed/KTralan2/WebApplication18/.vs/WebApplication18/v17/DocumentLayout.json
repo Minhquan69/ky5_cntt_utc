@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Wed\\KTralan2\\WebApplication18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2906C93A-E264-47B7-8F1A-EA78D92B24AA}|WebApplication18\\WebApplication18.csproj|e:\\wed\\ktralan2\\webapplication18\\webapplication18\\viewcomponents\\loaisachviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2906C93A-E264-47B7-8F1A-EA78D92B24AA}|WebApplication18\\WebApplication18.csproj|solutionrelative:webapplication18\\viewcomponents\\loaisachviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2906C93A-E264-47B7-8F1A-EA78D92B24AA}|WebApplication18\\WebApplication18.csproj|e:\\wed\\ktralan2\\webapplication18\\webapplication18\\views\\shared\\components\\loaisach\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2906C93A-E264-47B7-8F1A-EA78D92B24AA}|WebApplication18\\WebApplication18.csproj|solutionrelative:webapplication18\\views\\shared\\components\\loaisach\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2906C93A-E264-47B7-8F1A-EA78D92B24AA}|WebApplication18\\WebApplication18.csproj|e:\\wed\\ktralan2\\webapplication18\\webapplication18\\views\\shared\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2906C93A-E264-47B7-8F1A-EA78D92B24AA}|WebApplication18\\WebApplication18.csproj|solutionrelative:webapplication18\\views\\shared\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2906C93A-E264-47B7-8F1A-EA78D92B24AA}|WebApplication18\\WebApplication18.csproj|e:\\wed\\ktralan2\\webapplication18\\webapplication18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2906C93A-E264-47B7-8F1A-EA78D92B24AA}|WebApplication18\\WebApplication18.csproj|solutionrelative:webapplication18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2906C93A-E264-47B7-8F1A-EA78D92B24AA}|WebApplication18\\WebApplication18.csproj|e:\\wed\\ktralan2\\webapplication18\\webapplication18\\views\\shared\\_layoutindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2906C93A-E264-47B7-8F1A-EA78D92B24AA}|WebApplication18\\WebApplication18.csproj|solutionrelative:webapplication18\\views\\shared\\_layoutindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2906C93A-E264-47B7-8F1A-EA78D92B24AA}|WebApplication18\\WebApplication18.csproj|e:\\wed\\ktralan2\\webapplication18\\webapplication18\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2906C93A-E264-47B7-8F1A-EA78D92B24AA}|WebApplication18\\WebApplication18.csproj|solutionrelative:webapplication18\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2906C93A-E264-47B7-8F1A-EA78D92B24AA}|WebApplication18\\WebApplication18.csproj|e:\\wed\\ktralan2\\webapplication18\\webapplication18\\wwwroot\\template18\\js\\owl.carousel.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2906C93A-E264-47B7-8F1A-EA78D92B24AA}|WebApplication18\\WebApplication18.csproj|solutionrelative:webapplication18\\wwwroot\\template18\\js\\owl.carousel.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2906C93A-E264-47B7-8F1A-EA78D92B24AA}|WebApplication18\\WebApplication18.csproj|e:\\wed\\ktralan2\\webapplication18\\webapplication18\\wwwroot\\template18\\scss\\theme\\_banner.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}",
+      "RelativeMoniker": "D:0:0:{2906C93A-E264-47B7-8F1A-EA78D92B24AA}|WebApplication18\\WebApplication18.csproj|solutionrelative:webapplication18\\wwwroot\\template18\\scss\\theme\\_banner.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2906C93A-E264-47B7-8F1A-EA78D92B24AA}|WebApplication18\\WebApplication18.csproj|e:\\wed\\ktralan2\\webapplication18\\webapplication18\\wwwroot\\template18\\css\\owl.carousel.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2906C93A-E264-47B7-8F1A-EA78D92B24AA}|WebApplication18\\WebApplication18.csproj|solutionrelative:webapplication18\\wwwroot\\template18\\css\\owl.carousel.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2906C93A-E264-47B7-8F1A-EA78D92B24AA}|WebApplication18\\WebApplication18.csproj|e:\\wed\\ktralan2\\webapplication18\\webapplication18\\wwwroot\\template18\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2906C93A-E264-47B7-8F1A-EA78D92B24AA}|WebApplication18\\WebApplication18.csproj|solutionrelative:webapplication18\\wwwroot\\template18\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2906C93A-E264-47B7-8F1A-EA78D92B24AA}|WebApplication18\\WebApplication18.csproj|e:\\wed\\ktralan2\\webapplication18\\webapplication18\\wwwroot\\template18\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2906C93A-E264-47B7-8F1A-EA78D92B24AA}|WebApplication18\\WebApplication18.csproj|solutionrelative:webapplication18\\wwwroot\\template18\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2906C93A-E264-47B7-8F1A-EA78D92B24AA}|WebApplication18\\WebApplication18.csproj|e:\\wed\\ktralan2\\webapplication18\\webapplication18\\wwwroot\\template18\\js\\jquery.sticky.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2906C93A-E264-47B7-8F1A-EA78D92B24AA}|WebApplication18\\WebApplication18.csproj|solutionrelative:webapplication18\\wwwroot\\template18\\js\\jquery.sticky.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2906C93A-E264-47B7-8F1A-EA78D92B24AA}|WebApplication18\\WebApplication18.csproj|e:\\wed\\ktralan2\\webapplication18\\webapplication18\\wwwroot\\template18\\js\\ion.rangeslider.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2906C93A-E264-47B7-8F1A-EA78D92B24AA}|WebApplication18\\WebApplication18.csproj|solutionrelative:webapplication18\\wwwroot\\template18\\js\\ion.rangeslider.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2906C93A-E264-47B7-8F1A-EA78D92B24AA}|WebApplication18\\WebApplication18.csproj|e:\\wed\\ktralan2\\webapplication18\\webapplication18\\wwwroot\\template18\\js\\gmaps.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2906C93A-E264-47B7-8F1A-EA78D92B24AA}|WebApplication18\\WebApplication18.csproj|solutionrelative:webapplication18\\wwwroot\\template18\\js\\gmaps.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2906C93A-E264-47B7-8F1A-EA78D92B24AA}|WebApplication18\\WebApplication18.csproj|e:\\wed\\ktralan2\\webapplication18\\webapplication18\\wwwroot\\template18\\js\\countdown.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2906C93A-E264-47B7-8F1A-EA78D92B24AA}|WebApplication18\\WebApplication18.csproj|solutionrelative:webapplication18\\wwwroot\\template18\\js\\countdown.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2906C93A-E264-47B7-8F1A-EA78D92B24AA}|WebApplication18\\WebApplication18.csproj|e:\\wed\\ktralan2\\webapplication18\\webapplication18\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2906C93A-E264-47B7-8F1A-EA78D92B24AA}|WebApplication18\\WebApplication18.csproj|solutionrelative:webapplication18\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2906C93A-E264-47B7-8F1A-EA78D92B24AA}|WebApplication18\\WebApplication18.csproj|e:\\wed\\ktralan2\\webapplication18\\webapplication18\\models\\qlthuviencontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2906C93A-E264-47B7-8F1A-EA78D92B24AA}|WebApplication18\\WebApplication18.csproj|solutionrelative:webapplication18\\models\\qlthuviencontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication18\\Program.cs",
+              "ToolTip": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\Program.cs",
+              "RelativeToolTip": "WebApplication18\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:38:10.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\Views\\Shared\\Components\\LoaiSach\\Default.cshtml",
+              "RelativeDocumentMoniker": "WebApplication18\\Views\\Shared\\Components\\LoaiSach\\Default.cshtml",
+              "ToolTip": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\Views\\Shared\\Components\\LoaiSach\\Default.cshtml",
+              "RelativeToolTip": "WebApplication18\\Views\\Shared\\Components\\LoaiSach\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T18:34:43.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "QlthuVienContext.cs",
+              "DocumentMoniker": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\Models\\QlthuVienContext.cs",
+              "RelativeDocumentMoniker": "WebApplication18\\Models\\QlthuVienContext.cs",
+              "ToolTip": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\Models\\QlthuVienContext.cs",
+              "RelativeToolTip": "WebApplication18\\Models\\QlthuVienContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:33:40.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoaiSachViewComponent.cs",
+              "DocumentMoniker": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\ViewComponents\\LoaiSachViewComponent.cs",
+              "RelativeDocumentMoniker": "WebApplication18\\ViewComponents\\LoaiSachViewComponent.cs",
+              "ToolTip": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\ViewComponents\\LoaiSachViewComponent.cs",
+              "RelativeToolTip": "WebApplication18\\ViewComponents\\LoaiSachViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:29:46.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Footer.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\Views\\Shared\\Footer.cshtml",
+              "RelativeDocumentMoniker": "WebApplication18\\Views\\Shared\\Footer.cshtml",
+              "ToolTip": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\Views\\Shared\\Footer.cshtml",
+              "RelativeToolTip": "WebApplication18\\Views\\Shared\\Footer.cshtml",
+              "ViewState": "AgIAADIAAAAAAAAAAAAmwE8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T18:24:53.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Header.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\Views\\Shared\\Header.cshtml",
+              "RelativeDocumentMoniker": "WebApplication18\\Views\\Shared\\Header.cshtml",
+              "ToolTip": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\Views\\Shared\\Header.cshtml",
+              "RelativeToolTip": "WebApplication18\\Views\\Shared\\Header.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T18:24:33.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "main.css",
+              "DocumentMoniker": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\css\\main.css",
+              "RelativeDocumentMoniker": "WebApplication18\\wwwroot\\template18\\css\\main.css",
+              "ToolTip": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\css\\main.css",
+              "RelativeToolTip": "WebApplication18\\wwwroot\\template18\\css\\main.css",
+              "ViewState": "AgIAAMUEAAAAAAAAAAAEwNQEAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-22T18:18:58.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "jquery.sticky.js",
+              "DocumentMoniker": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\js\\jquery.sticky.js",
+              "RelativeDocumentMoniker": "WebApplication18\\wwwroot\\template18\\js\\jquery.sticky.js",
+              "ToolTip": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\js\\jquery.sticky.js",
+              "RelativeToolTip": "WebApplication18\\wwwroot\\template18\\js\\jquery.sticky.js",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-22T18:18:25.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "main.js",
+              "DocumentMoniker": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\js\\main.js",
+              "RelativeDocumentMoniker": "WebApplication18\\wwwroot\\template18\\js\\main.js",
+              "ToolTip": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\js\\main.js",
+              "RelativeToolTip": "WebApplication18\\wwwroot\\template18\\js\\main.js",
+              "ViewState": "AgIAABMAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-22T18:18:25.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ion.rangeSlider.js",
+              "DocumentMoniker": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\js\\ion.rangeSlider.js",
+              "RelativeDocumentMoniker": "WebApplication18\\wwwroot\\template18\\js\\ion.rangeSlider.js",
+              "ToolTip": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\js\\ion.rangeSlider.js",
+              "RelativeToolTip": "WebApplication18\\wwwroot\\template18\\js\\ion.rangeSlider.js",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-22T18:18:14.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "gmaps.min.js",
+              "DocumentMoniker": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\js\\gmaps.min.js",
+              "RelativeDocumentMoniker": "WebApplication18\\wwwroot\\template18\\js\\gmaps.min.js",
+              "ToolTip": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\js\\gmaps.min.js",
+              "RelativeToolTip": "WebApplication18\\wwwroot\\template18\\js\\gmaps.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-22T18:18:14.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_LayoutIndex.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\Views\\Shared\\_LayoutIndex.cshtml",
+              "RelativeDocumentMoniker": "WebApplication18\\Views\\Shared\\_LayoutIndex.cshtml",
+              "ToolTip": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\Views\\Shared\\_LayoutIndex.cshtml",
+              "RelativeToolTip": "WebApplication18\\Views\\Shared\\_LayoutIndex.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T17:43:06.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "owl.carousel.css",
+              "DocumentMoniker": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\css\\owl.carousel.css",
+              "RelativeDocumentMoniker": "WebApplication18\\wwwroot\\template18\\css\\owl.carousel.css",
+              "ToolTip": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\css\\owl.carousel.css",
+              "RelativeToolTip": "WebApplication18\\wwwroot\\template18\\css\\owl.carousel.css",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAACwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-22T18:19:20.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "owl.carousel.min.js",
+              "DocumentMoniker": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\js\\owl.carousel.min.js",
+              "RelativeDocumentMoniker": "WebApplication18\\wwwroot\\template18\\js\\owl.carousel.min.js",
+              "ToolTip": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\js\\owl.carousel.min.js",
+              "RelativeToolTip": "WebApplication18\\wwwroot\\template18\\js\\owl.carousel.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAD+CwAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-22T18:19:28.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_banner.scss",
+              "DocumentMoniker": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\scss\\theme\\_banner.scss",
+              "RelativeDocumentMoniker": "WebApplication18\\wwwroot\\template18\\scss\\theme\\_banner.scss",
+              "ToolTip": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\scss\\theme\\_banner.scss",
+              "RelativeToolTip": "WebApplication18\\wwwroot\\template18\\scss\\theme\\_banner.scss",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
+              "WhenOpened": "2024-10-22T18:19:49.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "countdown.js",
+              "DocumentMoniker": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\js\\countdown.js",
+              "RelativeDocumentMoniker": "WebApplication18\\wwwroot\\template18\\js\\countdown.js",
+              "ToolTip": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\wwwroot\\template18\\js\\countdown.js",
+              "RelativeToolTip": "WebApplication18\\wwwroot\\template18\\js\\countdown.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-22T18:18:06.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication18\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Wed\\KTralan2\\WebApplication18\\WebApplication18\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication18\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T17:48:22.529Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

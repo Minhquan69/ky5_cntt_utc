@@ -1,0 +1,6 @@
+﻿@model IEnumerable<TLoaiSach>
+
+@foreach(var item in Model)
+	{
+		<li class="nav-item active"><a class="nav-link" href="index.html">@item.TenLoai</a></li>
+	}

@@ -1,0 +1,541 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DaoMinhQuan_N05_221230966.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DaoMinhQuan_N05_221230966.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\blank.gif",
+      "PackagePath": "staticwebassets\\Temp\\blank.gif"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\iecss.css",
+      "PackagePath": "staticwebassets\\Temp\\iecss.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\iepngfix.htc",
+      "PackagePath": "staticwebassets\\Temp\\iepngfix.htc"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\addtocart.gif",
+      "PackagePath": "staticwebassets\\Temp\\images\\addtocart.gif"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\bann1.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\bann1.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\bann2.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\bann2.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\bar_bg.gif",
+      "PackagePath": "staticwebassets\\Temp\\images\\bar_bg.gif"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\bg.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\bg.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\big_pic.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\big_pic.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\blue-add.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\blue-add.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\camera.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\camera.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\car.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\car.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\cart.gif",
+      "PackagePath": "staticwebassets\\Temp\\images\\cart.gif"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\cart_bg.gif",
+      "PackagePath": "staticwebassets\\Temp\\images\\cart_bg.gif"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\checked.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\checked.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\compare.gif",
+      "PackagePath": "staticwebassets\\Temp\\images\\compare.gif"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\contact-new.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\contact-new.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\contact_bt.gif",
+      "PackagePath": "staticwebassets\\Temp\\images\\contact_bt.gif"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\csscreme.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\csscreme.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\de.gif",
+      "PackagePath": "staticwebassets\\Temp\\images\\de.gif"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\details_box_bottom.gif",
+      "PackagePath": "staticwebassets\\Temp\\images\\details_box_bottom.gif"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\details_box_center.gif",
+      "PackagePath": "staticwebassets\\Temp\\images\\details_box_center.gif"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\details_box_top.gif",
+      "PackagePath": "staticwebassets\\Temp\\images\\details_box_top.gif"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\details_bt_bg.gif",
+      "PackagePath": "staticwebassets\\Temp\\images\\details_bt_bg.gif"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\details_bt_bg.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\details_bt_bg.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\en.gif",
+      "PackagePath": "staticwebassets\\Temp\\images\\en.gif"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\favorites.gif",
+      "PackagePath": "staticwebassets\\Temp\\images\\favorites.gif"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\favorites.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\favorites.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\favs.gif",
+      "PackagePath": "staticwebassets\\Temp\\images\\favs.gif"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\favs.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\favs.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\footer_bg.gif",
+      "PackagePath": "staticwebassets\\Temp\\images\\footer_bg.gif"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\footer_logo.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\footer_logo.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\header_bg.jpg",
+      "PackagePath": "staticwebassets\\Temp\\images\\header_bg.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\header_divider.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\header_divider.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\home.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\home.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\iphone.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\iphone.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\laptop.gif",
+      "PackagePath": "staticwebassets\\Temp\\images\\laptop.gif"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\laptop.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\laptop.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\logo.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\logo.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\menu_bg.gif",
+      "PackagePath": "staticwebassets\\Temp\\images\\menu_bg.gif"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\menu_divider.gif",
+      "PackagePath": "staticwebassets\\Temp\\images\\menu_divider.gif"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\menu_left.gif",
+      "PackagePath": "staticwebassets\\Temp\\images\\menu_left.gif"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\menu_right.gif",
+      "PackagePath": "staticwebassets\\Temp\\images\\menu_right.gif"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\menu_title_bg.gif",
+      "PackagePath": "staticwebassets\\Temp\\images\\menu_title_bg.gif"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\navbullet.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\navbullet.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\p1.gif",
+      "PackagePath": "staticwebassets\\Temp\\images\\p1.gif"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\p2.gif",
+      "PackagePath": "staticwebassets\\Temp\\images\\p2.gif"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\p4.gif",
+      "PackagePath": "staticwebassets\\Temp\\images\\p4.gif"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\p5.gif",
+      "PackagePath": "staticwebassets\\Temp\\images\\p5.gif"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\pag_bg.gif",
+      "PackagePath": "staticwebassets\\Temp\\images\\pag_bg.gif"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\pag_bg.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\pag_bg.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\pag_bg_a.gif",
+      "PackagePath": "staticwebassets\\Temp\\images\\pag_bg_a.gif"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\pag_bg_a.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\pag_bg_a.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\payment.gif",
+      "PackagePath": "staticwebassets\\Temp\\images\\payment.gif"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\product_box_bottom.gif",
+      "PackagePath": "staticwebassets\\Temp\\images\\product_box_bottom.gif"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\product_box_center.gif",
+      "PackagePath": "staticwebassets\\Temp\\images\\product_box_center.gif"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\product_box_top.gif",
+      "PackagePath": "staticwebassets\\Temp\\images\\product_box_top.gif"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\products_details_bg.gif",
+      "PackagePath": "staticwebassets\\Temp\\images\\products_details_bg.gif"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\search.gif",
+      "PackagePath": "staticwebassets\\Temp\\images\\search.gif"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\services.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\services.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\shoppingcart.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\shoppingcart.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\square-blue-add.gif",
+      "PackagePath": "staticwebassets\\Temp\\images\\square-blue-add.gif"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\thumb1.gif",
+      "PackagePath": "staticwebassets\\Temp\\images\\thumb1.gif"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\thumb2.gif",
+      "PackagePath": "staticwebassets\\Temp\\images\\thumb2.gif"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\top_search_bg.gif",
+      "PackagePath": "staticwebassets\\Temp\\images\\top_search_bg.gif"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\images\\user_add.png",
+      "PackagePath": "staticwebassets\\Temp\\images\\user_add.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\js\\boxOver.js",
+      "PackagePath": "staticwebassets\\Temp\\js\\boxOver.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\js\\windowopen.js",
+      "PackagePath": "staticwebassets\\Temp\\js\\windowopen.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\Temp\\style.css",
+      "PackagePath": "staticwebassets\\Temp\\style.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\8\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DaoMinhQuan_N05_221230966.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DaoMinhQuan_N05_221230966.props",
+      "PackagePath": "build\\DaoMinhQuan_N05_221230966.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DaoMinhQuan_N05_221230966.props",
+      "PackagePath": "buildMultiTargeting\\DaoMinhQuan_N05_221230966.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DaoMinhQuan_N05_221230966.props",
+      "PackagePath": "buildTransitive\\DaoMinhQuan_N05_221230966.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,181 @@
+﻿@model WebBanVali.Models.TDanhMucSp
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    ViewData["Title"] = "Tạo sản phẩm";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1>Tạo sản phẩm mới</h1>
+
+<h4>Thông tin sản phẩm</h4>
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+        <form id="formSanPham">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="MaSp" class="control-label">Mã Sản Phẩm</label>
+                <input asp-for="MaSp" class="form-control" id="MaSp" />
+                <span asp-validation-for="MaSp" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="TenSp" class="control-label">Tên Sản Phẩm</label>
+                <input asp-for="TenSp" class="form-control" id="TenSp" />
+                <span asp-validation-for="TenSp" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="MaChatLieu" class="control-label">Mã Chất Liệu</label>
+                <select asp-for="MaChatLieu" class="form-control" asp-items="ViewBag.MaChatLieu" id="MaChatLieu"></select>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="NganLapTop" class="control-label">Ngăn Laptop</label>
+                <input asp-for="NganLapTop" class="form-control" id="NganLapTop" />
+                <span asp-validation-for="NganLapTop" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Model" class="control-label">Model</label>
+                <input asp-for="Model" class="form-control" id="Model" />
+                <span asp-validation-for="Model" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="CanNang" class="control-label">Cân Nặng</label>
+                <input asp-for="CanNang" class="form-control" id="CanNang" />
+                <span asp-validation-for="CanNang" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="DoNoi" class="control-label">Độ Nổi</label>
+                <input asp-for="DoNoi" class="form-control" id="DoNoi" />
+                <span asp-validation-for="DoNoi" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="MaHangSx" class="control-label">Mã Hãng Sản Xuất</label>
+                <select asp-for="MaHangSx" class="form-control" asp-items="ViewBag.MaHangSx" id="MaHangSx"></select>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="MaNuocSx" class="control-label">Mã Nước Sản Xuất</label>
+                <select asp-for="MaNuocSx" class="form-control" asp-items="ViewBag.MaNuocSx" id="MaNuocSx"></select>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="MaDacTinh" class="control-label">Mã Đặc Tính</label>
+                <input asp-for="MaDacTinh" class="form-control" id="MaDacTinh" />
+                <span asp-validation-for="MaDacTinh" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Website" class="control-label">Website</label>
+                <input asp-for="Website" class="form-control" id="Website" />
+                <span asp-validation-for="Website" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="ThoiGianBaoHanh" class="control-label">Thời Gian Bảo Hành</label>
+                <input asp-for="ThoiGianBaoHanh" class="form-control" id="ThoiGianBaoHanh" />
+                <span asp-validation-for="ThoiGianBaoHanh" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="GioiThieuSp" class="control-label">Giới Thiệu Sản Phẩm</label>
+                <input asp-for="GioiThieuSp" class="form-control" id="GioiThieuSp" />
+                <span asp-validation-for="GioiThieuSp" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="ChietKhau" class="control-label">Chiết Khấu</label>
+                <input asp-for="ChietKhau" class="form-control" id="ChietKhau" />
+                <span asp-validation-for="ChietKhau" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="MaLoai" class="control-label">Mã Loại</label>
+                <select asp-for="MaLoai" class="form-control" asp-items="ViewBag.MaLoai" id="MaLoai"></select>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="MaDt" class="control-label">Mã Đối Tượng</label>
+                <select asp-for="MaDt" class="form-control" asp-items="ViewBag.MaDt" id="MaDt"></select>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="AnhDaiDien" class="control-label">Ảnh Đại Diện</label>
+                <input asp-for="AnhDaiDien" class="form-control" id="AnhDaiDien" />
+                <span asp-validation-for="AnhDaiDien" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="GiaNhoNhat" class="control-label">Giá Nhỏ Nhất</label>
+                <input asp-for="GiaNhoNhat" class="form-control" id="GiaNhoNhat" />
+                <span asp-validation-for="GiaNhoNhat" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="GiaLonNhat" class="control-label">Giá Lớn Nhất</label>
+                <input asp-for="GiaLonNhat" class="form-control" id="GiaLonNhat" />
+                <span asp-validation-for="GiaLonNhat" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Tạo mới" class="btn btn-primary" 
+                onclick="themSanPham('http://localhost:5042/api/Product/themsanpham'); return false;" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Quay lại danh sách</a>
+</div>
+
+<script>
+    function themSanPham(apiUrl) {
+        // Thu thập dữ liệu từ form
+        var duLieuSanPham = {
+            MaSp: $('#MaSp').val(),
+            TenSp: $('#TenSp').val(),
+            MaChatLieu: $('#MaChatLieu').val(),
+            NganLapTop: $('#NganLapTop').val(),
+            Model: $('#Model').val(),
+            CanNang: $('#CanNang').val(),
+            DoNoi: $('#DoNoi').val(),
+            MaHangSx: $('#MaHangSx').val(),
+            MaNuocSx: $('#MaNuocSx').val(),
+            MaDacTinh: $('#MaDacTinh').val(),
+            Website: $('#Website').val(),
+            ThoiGianBaoHanh: $('#ThoiGianBaoHanh').val(),
+            GioiThieuSp: $('#GioiThieuSp').val(),
+            ChietKhau: $('#ChietKhau').val(),
+            MaLoai: $('#MaLoai').val(),
+            MaDt: $('#MaDt').val(),
+            AnhDaiDien: $('#AnhDaiDien').val(),
+            GiaNhoNhat: $('#GiaNhoNhat').val(),
+            GiaLonNhat: $('#GiaLonNhat').val()
+        };
+
+        // Gửi yêu cầu AJAX
+        $.ajax({
+            type: 'POST',
+            url: apiUrl,
+            data: JSON.stringify(duLieuSanPham),
+            contentType: 'application/json',
+            dataType: 'json',
+            success: function (phanHoi) {
+                alert('Thêm sản phẩm thành công!');
+                window.location.href = 'http://localhost:5042/admin/home/danhmucsanpham'; // Chuyển hướng sau khi thêm thành công
+            },
+            error: function (loi) {
+                console.error('Lỗi khi thêm sản phẩm:', loi);
+                alert('Có lỗi xảy ra khi thêm sản phẩm. Vui lòng thử lại.');
+            }
+        });
+    }
+</script>

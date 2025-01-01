@@ -1,0 +1,89 @@
+﻿<!--
+author: W3layouts
+author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Online Shopping</title>
+	<!-- for-mobile-apps -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="Super Market, Online Shopping" />
+
+	<!-- //for-mobile-apps -->
+	<link href="tem/css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="tem/css/style.css" rel="stylesheet" type="text/css" media="all" />
+	<link rel="stylesheet" type="text/css" href="tem/css/jquery-ui-1.css">
+	<!-- font-awesome icons -->
+	<link href="tem/css/font-awesome.css" rel="stylesheet">
+	<!-- //font-awesome icons -->
+	<!-- js -->
+	<script src="tem/js/jquery-1.11.1.min.js"></script>
+	<!-- //js -->
+</head>
+
+<body>
+	<!-- header -->
+	<partial name="Header" />
+
+	<!-- //header -->
+	<!-- main navigation -->
+	<div class="navigation-agileits">
+		<div class="container">
+			<nav class="navbar navbar-default">
+				<!-- Brand and toggle get grouped for better mobile display -->
+				<div class="navbar-header nav_2">
+					<button type="button" class="navbar-toggle collapsed navbar-toggle1" data-toggle="collapse" data-target="#bs-megadropdown-tabs">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+				</div>
+				<div class="collapse navbar-collapse" id="bs-megadropdown-tabs">
+					<ul class="nav navbar-nav">
+						@await Component.InvokeAsync("NavItems")
+
+
+					</ul>
+				</div>
+			</nav>
+		</div>
+	</div>
+	<!-- //main navigation -->
+	<!--- main content --->
+	<div class="products">
+		<div class="container">
+			<!-- left categories -->
+			<div class="col-md-4 products-left">
+				<div class="categories">
+					<h2>Categories</h2>
+					<ul class="cate">
+
+						@RenderSection("categories", required: false) 
+					</ul>
+				</div>
+			</div>
+			<!-- /left categories -->
+			<!-- right products grid -->
+			<div class="col-md-8 products-right">
+				<div class="agile_top_brands_grids">
+
+	@RenderBody()
+					<div class="clearfix"> </div>
+				</div>
+			</div>
+			<div class="clearfix"> </div>
+			<!-- right products grid -->
+		</div>
+	</div>
+	<!--- main content --->
+	<!-- footer -->
+	<partial name="Footer" />
+
+	<!-- //footer -->
+</body>
+</html>

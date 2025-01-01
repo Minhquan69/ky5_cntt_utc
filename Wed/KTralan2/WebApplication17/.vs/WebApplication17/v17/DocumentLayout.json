@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Wed\\KTralan2\\WebApplication17\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{347B754D-739A-48BF-A621-14B8338C7B31}|WebApplication17\\WebApplication17.csproj|e:\\wed\\ktralan2\\webapplication17\\webapplication17\\views\\shared\\_layoutindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{347B754D-739A-48BF-A621-14B8338C7B31}|WebApplication17\\WebApplication17.csproj|solutionrelative:webapplication17\\views\\shared\\_layoutindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347B754D-739A-48BF-A621-14B8338C7B31}|WebApplication17\\WebApplication17.csproj|e:\\wed\\ktralan2\\webapplication17\\webapplication17\\views\\shared\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{347B754D-739A-48BF-A621-14B8338C7B31}|WebApplication17\\WebApplication17.csproj|solutionrelative:webapplication17\\views\\shared\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347B754D-739A-48BF-A621-14B8338C7B31}|WebApplication17\\WebApplication17.csproj|e:\\wed\\ktralan2\\webapplication17\\webapplication17\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{347B754D-739A-48BF-A621-14B8338C7B31}|WebApplication17\\WebApplication17.csproj|solutionrelative:webapplication17\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347B754D-739A-48BF-A621-14B8338C7B31}|WebApplication17\\WebApplication17.csproj|e:\\wed\\ktralan2\\webapplication17\\webapplication17\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{347B754D-739A-48BF-A621-14B8338C7B31}|WebApplication17\\WebApplication17.csproj|solutionrelative:webapplication17\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTralan2\\WebApplication17\\WebApplication17\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication17\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Wed\\KTralan2\\WebApplication17\\WebApplication17\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication17\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T17:52:03.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Footer.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTralan2\\WebApplication17\\WebApplication17\\Views\\Shared\\Footer.cshtml",
+              "RelativeDocumentMoniker": "WebApplication17\\Views\\Shared\\Footer.cshtml",
+              "ToolTip": "E:\\Wed\\KTralan2\\WebApplication17\\WebApplication17\\Views\\Shared\\Footer.cshtml",
+              "RelativeToolTip": "WebApplication17\\Views\\Shared\\Footer.cshtml",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwEgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T17:50:42.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Header.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTralan2\\WebApplication17\\WebApplication17\\Views\\Shared\\Header.cshtml",
+              "RelativeDocumentMoniker": "WebApplication17\\Views\\Shared\\Header.cshtml",
+              "ToolTip": "E:\\Wed\\KTralan2\\WebApplication17\\WebApplication17\\Views\\Shared\\Header.cshtml",
+              "RelativeToolTip": "WebApplication17\\Views\\Shared\\Header.cshtml",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwEcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T17:50:31.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_LayoutIndex.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTralan2\\WebApplication17\\WebApplication17\\Views\\Shared\\_LayoutIndex.cshtml",
+              "RelativeDocumentMoniker": "WebApplication17\\Views\\Shared\\_LayoutIndex.cshtml",
+              "ToolTip": "E:\\Wed\\KTralan2\\WebApplication17\\WebApplication17\\Views\\Shared\\_LayoutIndex.cshtml",
+              "RelativeToolTip": "WebApplication17\\Views\\Shared\\_LayoutIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T17:50:15.59Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

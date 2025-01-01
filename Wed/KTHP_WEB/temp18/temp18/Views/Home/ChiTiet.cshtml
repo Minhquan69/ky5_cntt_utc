@@ -1,0 +1,42 @@
+﻿@model temp18.Models.Trongtai
+@{
+    ViewData["Title"] = "Privacy Policy";
+    Layout = "~/Views/Shared/_LayoutChiTiet.cshtml";
+}
+<div class="product_image_area">
+	<div class="container">
+		<div class="row s_product_inner">
+			<div class="col-lg-6" style="display: flex; justify-content: center; align-items: center; height: 100%;">
+				<div class="s_Product_carousel">
+					<div class="single-prd-item">
+						<img class="img-fluid" src="@Url.Content("../images/" + @Model.Anh)" alt="" style="margin-top: 100px;">
+
+					</div>
+				</div>
+			</div>
+
+			<div class="col-lg-5 offset-lg-1">
+				<div class="s_product_text">
+					
+					<h2>Name: @Model.HoVaTen</h2>
+					<h3>Ngày sinh: @Model.NgaySinh</h3>
+					<ul class="list">
+						<li><a class="active" href="#"><span>Kinh nghiệm</span> : @Model.SoNamKinhNghiem năm</a></li>
+						<li><a href="#"><span>Quốc tịch</span> : @Model.QuocTich</a></li>
+						<li><a href="#"><span>Quê hương</span> : @Model.QueHuong</a></li>
+					</ul>
+					<br />
+					<br	/>	
+					
+					<div class="card_area d-flex align-items-center">
+						<a class="primary-btn" asp-action="SuaTrongTai" asp-route-TrongTaiId="@Model.TrongTaiId">Sửa</a>
+						<br />
+						<a class="primary-btn" asp-action="Index">Back to List</a>
+						<a class="icon_btn" href="#"><i class="lnr lnr lnr-diamond"></i></a>
+						<a class="icon_btn" href="#"><i class="lnr lnr lnr-heart"></i></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

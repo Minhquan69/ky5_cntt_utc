@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Wed\\2\\BaiKtra1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92A8F928-1505-4FE0-B07A-C4FA087ACB54}|BaiKtra1\\BaiKtra1.csproj|e:\\wed\\2\\baiktra1\\baiktra1\\views\\shared\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92A8F928-1505-4FE0-B07A-C4FA087ACB54}|BaiKtra1\\BaiKtra1.csproj|solutionrelative:baiktra1\\views\\shared\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A8F928-1505-4FE0-B07A-C4FA087ACB54}|BaiKtra1\\BaiKtra1.csproj|e:\\wed\\2\\baiktra1\\baiktra1\\viewcomponents\\trandauviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A8F928-1505-4FE0-B07A-C4FA087ACB54}|BaiKtra1\\BaiKtra1.csproj|solutionrelative:baiktra1\\viewcomponents\\trandauviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A8F928-1505-4FE0-B07A-C4FA087ACB54}|BaiKtra1\\BaiKtra1.csproj|e:\\wed\\2\\baiktra1\\baiktra1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A8F928-1505-4FE0-B07A-C4FA087ACB54}|BaiKtra1\\BaiKtra1.csproj|solutionrelative:baiktra1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A8F928-1505-4FE0-B07A-C4FA087ACB54}|BaiKtra1\\BaiKtra1.csproj|e:\\wed\\2\\baiktra1\\baiktra1\\views\\shared\\components\\trandau\\trandau.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92A8F928-1505-4FE0-B07A-C4FA087ACB54}|BaiKtra1\\BaiKtra1.csproj|solutionrelative:baiktra1\\views\\shared\\components\\trandau\\trandau.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A8F928-1505-4FE0-B07A-C4FA087ACB54}|BaiKtra1\\BaiKtra1.csproj|e:\\wed\\2\\baiktra1\\baiktra1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A8F928-1505-4FE0-B07A-C4FA087ACB54}|BaiKtra1\\BaiKtra1.csproj|solutionrelative:baiktra1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A8F928-1505-4FE0-B07A-C4FA087ACB54}|BaiKtra1\\BaiKtra1.csproj|e:\\wed\\2\\baiktra1\\baiktra1\\models\\cauthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A8F928-1505-4FE0-B07A-C4FA087ACB54}|BaiKtra1\\BaiKtra1.csproj|solutionrelative:baiktra1\\models\\cauthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A8F928-1505-4FE0-B07A-C4FA087ACB54}|BaiKtra1\\BaiKtra1.csproj|e:\\wed\\2\\baiktra1\\baiktra1\\models\\qlgiaibongdacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A8F928-1505-4FE0-B07A-C4FA087ACB54}|BaiKtra1\\BaiKtra1.csproj|solutionrelative:baiktra1\\models\\qlgiaibongdacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A8F928-1505-4FE0-B07A-C4FA087ACB54}|BaiKtra1\\BaiKtra1.csproj|e:\\wed\\2\\baiktra1\\baiktra1\\views\\home\\suacauthu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92A8F928-1505-4FE0-B07A-C4FA087ACB54}|BaiKtra1\\BaiKtra1.csproj|solutionrelative:baiktra1\\views\\home\\suacauthu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A8F928-1505-4FE0-B07A-C4FA087ACB54}|BaiKtra1\\BaiKtra1.csproj|e:\\wed\\2\\baiktra1\\baiktra1\\models\\trandau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A8F928-1505-4FE0-B07A-C4FA087ACB54}|BaiKtra1\\BaiKtra1.csproj|solutionrelative:baiktra1\\models\\trandau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A8F928-1505-4FE0-B07A-C4FA087ACB54}|BaiKtra1\\BaiKtra1.csproj|e:\\wed\\2\\baiktra1\\baiktra1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92A8F928-1505-4FE0-B07A-C4FA087ACB54}|BaiKtra1\\BaiKtra1.csproj|solutionrelative:baiktra1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A8F928-1505-4FE0-B07A-C4FA087ACB54}|BaiKtra1\\BaiKtra1.csproj|e:\\wed\\2\\baiktra1\\baiktra1\\models\\caulacbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A8F928-1505-4FE0-B07A-C4FA087ACB54}|BaiKtra1\\BaiKtra1.csproj|solutionrelative:baiktra1\\models\\caulacbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A8F928-1505-4FE0-B07A-C4FA087ACB54}|BaiKtra1\\BaiKtra1.csproj|e:\\wed\\2\\baiktra1\\baiktra1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92A8F928-1505-4FE0-B07A-C4FA087ACB54}|BaiKtra1\\BaiKtra1.csproj|solutionrelative:baiktra1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A8F928-1505-4FE0-B07A-C4FA087ACB54}|BaiKtra1\\BaiKtra1.csproj|e:\\wed\\2\\baiktra1\\baiktra1\\views\\home\\trandaucauthu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92A8F928-1505-4FE0-B07A-C4FA087ACB54}|BaiKtra1\\BaiKtra1.csproj|solutionrelative:baiktra1\\views\\home\\trandaucauthu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A8F928-1505-4FE0-B07A-C4FA087ACB54}|BaiKtra1\\BaiKtra1.csproj|e:\\wed\\2\\baiktra1\\baiktra1\\views\\shared\\_layouthotel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92A8F928-1505-4FE0-B07A-C4FA087ACB54}|BaiKtra1\\BaiKtra1.csproj|solutionrelative:baiktra1\\views\\shared\\_layouthotel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A8F928-1505-4FE0-B07A-C4FA087ACB54}|BaiKtra1\\BaiKtra1.csproj|e:\\wed\\2\\baiktra1\\baiktra1\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92A8F928-1505-4FE0-B07A-C4FA087ACB54}|BaiKtra1\\BaiKtra1.csproj|solutionrelative:baiktra1\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A8F928-1505-4FE0-B07A-C4FA087ACB54}|BaiKtra1\\BaiKtra1.csproj|e:\\wed\\2\\baiktra1\\baiktra1\\repository\\icauthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A8F928-1505-4FE0-B07A-C4FA087ACB54}|BaiKtra1\\BaiKtra1.csproj|solutionrelative:baiktra1\\repository\\icauthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A8F928-1505-4FE0-B07A-C4FA087ACB54}|BaiKtra1\\BaiKtra1.csproj|e:\\wed\\2\\baiktra1\\baiktra1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92A8F928-1505-4FE0-B07A-C4FA087ACB54}|BaiKtra1\\BaiKtra1.csproj|solutionrelative:baiktra1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A8F928-1505-4FE0-B07A-C4FA087ACB54}|BaiKtra1\\BaiKtra1.csproj|e:\\wed\\2\\baiktra1\\baiktra1\\repository\\cauthurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92A8F928-1505-4FE0-B07A-C4FA087ACB54}|BaiKtra1\\BaiKtra1.csproj|solutionrelative:baiktra1\\repository\\cauthurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Wed\\2\\BaiKtra1\\BaiKtra1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BaiKtra1\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Wed\\2\\BaiKtra1\\BaiKtra1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BaiKtra1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T10:24:07.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TranDau.cshtml",
+              "DocumentMoniker": "E:\\Wed\\2\\BaiKtra1\\BaiKtra1\\Views\\Shared\\Components\\TranDau\\TranDau.cshtml",
+              "RelativeDocumentMoniker": "BaiKtra1\\Views\\Shared\\Components\\TranDau\\TranDau.cshtml",
+              "ToolTip": "E:\\Wed\\2\\BaiKtra1\\BaiKtra1\\Views\\Shared\\Components\\TranDau\\TranDau.cshtml",
+              "RelativeToolTip": "BaiKtra1\\Views\\Shared\\Components\\TranDau\\TranDau.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T03:15:33.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TranDauViewComponent.cs",
+              "DocumentMoniker": "E:\\Wed\\2\\BaiKtra1\\BaiKtra1\\ViewComponents\\TranDauViewComponent.cs",
+              "RelativeDocumentMoniker": "BaiKtra1\\ViewComponents\\TranDauViewComponent.cs",
+              "ToolTip": "E:\\Wed\\2\\BaiKtra1\\BaiKtra1\\ViewComponents\\TranDauViewComponent.cs",
+              "RelativeToolTip": "BaiKtra1\\ViewComponents\\TranDauViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T03:09:40.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "header.cshtml",
+              "DocumentMoniker": "E:\\Wed\\2\\BaiKtra1\\BaiKtra1\\Views\\Shared\\header.cshtml",
+              "RelativeDocumentMoniker": "BaiKtra1\\Views\\Shared\\header.cshtml",
+              "ToolTip": "E:\\Wed\\2\\BaiKtra1\\BaiKtra1\\Views\\Shared\\header.cshtml",
+              "RelativeToolTip": "BaiKtra1\\Views\\Shared\\header.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwBEAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T14:13:06.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Wed\\2\\BaiKtra1\\BaiKtra1\\Program.cs",
+              "RelativeDocumentMoniker": "BaiKtra1\\Program.cs",
+              "ToolTip": "E:\\Wed\\2\\BaiKtra1\\BaiKtra1\\Program.cs",
+              "RelativeToolTip": "BaiKtra1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T16:35:02.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Wed\\2\\BaiKtra1\\BaiKtra1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BaiKtra1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Wed\\2\\BaiKtra1\\BaiKtra1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BaiKtra1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADkAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T09:59:06.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cauthu.cs",
+              "DocumentMoniker": "E:\\Wed\\2\\BaiKtra1\\BaiKtra1\\Models\\Cauthu.cs",
+              "RelativeDocumentMoniker": "BaiKtra1\\Models\\Cauthu.cs",
+              "ToolTip": "E:\\Wed\\2\\BaiKtra1\\BaiKtra1\\Models\\Cauthu.cs",
+              "RelativeToolTip": "BaiKtra1\\Models\\Cauthu.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T03:20:13.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Caulacbo.cs",
+              "DocumentMoniker": "E:\\Wed\\2\\BaiKtra1\\BaiKtra1\\Models\\Caulacbo.cs",
+              "RelativeDocumentMoniker": "BaiKtra1\\Models\\Caulacbo.cs",
+              "ToolTip": "E:\\Wed\\2\\BaiKtra1\\BaiKtra1\\Models\\Caulacbo.cs",
+              "RelativeToolTip": "BaiKtra1\\Models\\Caulacbo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T07:49:00.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SuaCauThu.cshtml",
+              "DocumentMoniker": "E:\\Wed\\2\\BaiKtra1\\BaiKtra1\\Views\\Home\\SuaCauThu.cshtml",
+              "RelativeDocumentMoniker": "BaiKtra1\\Views\\Home\\SuaCauThu.cshtml",
+              "ToolTip": "E:\\Wed\\2\\BaiKtra1\\BaiKtra1\\Views\\Home\\SuaCauThu.cshtml",
+              "RelativeToolTip": "BaiKtra1\\Views\\Home\\SuaCauThu.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T03:49:36.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QlgiaiBongDaContext.cs",
+              "DocumentMoniker": "E:\\Wed\\2\\BaiKtra1\\BaiKtra1\\Models\\QlgiaiBongDaContext.cs",
+              "RelativeDocumentMoniker": "BaiKtra1\\Models\\QlgiaiBongDaContext.cs",
+              "ToolTip": "E:\\Wed\\2\\BaiKtra1\\BaiKtra1\\Models\\QlgiaiBongDaContext.cs",
+              "RelativeToolTip": "BaiKtra1\\Models\\QlgiaiBongDaContext.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAA1wBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T10:43:25.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Trandau.cs",
+              "DocumentMoniker": "E:\\Wed\\2\\BaiKtra1\\BaiKtra1\\Models\\Trandau.cs",
+              "RelativeDocumentMoniker": "BaiKtra1\\Models\\Trandau.cs",
+              "ToolTip": "E:\\Wed\\2\\BaiKtra1\\BaiKtra1\\Models\\Trandau.cs",
+              "RelativeToolTip": "BaiKtra1\\Models\\Trandau.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T03:47:22.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Wed\\2\\BaiKtra1\\BaiKtra1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BaiKtra1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Wed\\2\\BaiKtra1\\BaiKtra1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BaiKtra1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T02:58:02.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TranDauCauThu.cshtml",
+              "DocumentMoniker": "E:\\Wed\\2\\BaiKtra1\\BaiKtra1\\Views\\Home\\TranDauCauThu.cshtml",
+              "RelativeDocumentMoniker": "BaiKtra1\\Views\\Home\\TranDauCauThu.cshtml",
+              "ToolTip": "E:\\Wed\\2\\BaiKtra1\\BaiKtra1\\Views\\Home\\TranDauCauThu.cshtml",
+              "RelativeToolTip": "BaiKtra1\\Views\\Home\\TranDauCauThu.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABEAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T14:11:42.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_LayoutHotel.cshtml",
+              "DocumentMoniker": "E:\\Wed\\2\\BaiKtra1\\BaiKtra1\\Views\\Shared\\_LayoutHotel.cshtml",
+              "RelativeDocumentMoniker": "BaiKtra1\\Views\\Shared\\_LayoutHotel.cshtml",
+              "ToolTip": "E:\\Wed\\2\\BaiKtra1\\BaiKtra1\\Views\\Shared\\_LayoutHotel.cshtml",
+              "RelativeToolTip": "BaiKtra1\\Views\\Shared\\_LayoutHotel.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T09:42:34.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "footer.cshtml",
+              "DocumentMoniker": "E:\\Wed\\2\\BaiKtra1\\BaiKtra1\\Views\\Shared\\footer.cshtml",
+              "RelativeDocumentMoniker": "BaiKtra1\\Views\\Shared\\footer.cshtml",
+              "ToolTip": "E:\\Wed\\2\\BaiKtra1\\BaiKtra1\\Views\\Shared\\footer.cshtml",
+              "RelativeToolTip": "BaiKtra1\\Views\\Shared\\footer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T09:47:32.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICauThu.cs",
+              "DocumentMoniker": "E:\\Wed\\2\\BaiKtra1\\BaiKtra1\\Repository\\ICauThu.cs",
+              "RelativeDocumentMoniker": "BaiKtra1\\Repository\\ICauThu.cs",
+              "ToolTip": "E:\\Wed\\2\\BaiKtra1\\BaiKtra1\\Repository\\ICauThu.cs",
+              "RelativeToolTip": "BaiKtra1\\Repository\\ICauThu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T16:14:00.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\Wed\\2\\BaiKtra1\\BaiKtra1\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "BaiKtra1\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "E:\\Wed\\2\\BaiKtra1\\BaiKtra1\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "BaiKtra1\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T04:23:40.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CauThuRepository.cs",
+              "DocumentMoniker": "E:\\Wed\\2\\BaiKtra1\\BaiKtra1\\Repository\\CauThuRepository.cs",
+              "RelativeDocumentMoniker": "BaiKtra1\\Repository\\CauThuRepository.cs",
+              "ToolTip": "E:\\Wed\\2\\BaiKtra1\\BaiKtra1\\Repository\\CauThuRepository.cs",
+              "RelativeToolTip": "BaiKtra1\\Repository\\CauThuRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T16:16:17.665Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

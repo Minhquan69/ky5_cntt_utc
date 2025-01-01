@@ -1,0 +1,246 @@
+﻿@using ThucHanhWebMVC.Models;
+@using X.PagedList.Mvc.Core;
+@model X.PagedList.IPagedList<TDanhMucSp>
+@{
+    ViewData["Title"] = "DanhMucSanPham";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+<h3>Danh mục các sản phẩm</h3>
+<body onload="HideDiv()">
+    <p>
+        <a asp-action="ThemSanPhamMoi">Create New</a>
+    </p>
+    @* Sửa sản phẩm bằng API *@
+    <a onclick="showHideDiveInsertData('displayForm'); return false;" class="btn btn-primary">Sửa sản phẩm bằng API</a>
+
+    <div id="displayEditForm">
+    </div>
+
+
+
+    @* Hiển thị danh mục sản phẩm *@
+    <table class="table">
+        <thead>
+            <tr class="table-warning">
+                <th>
+                    Tên sản phẩm
+                </th>
+                <th>
+                    Cân nặng
+                </th>
+                <th>
+                    Độ nới
+                </th>
+                <th>
+                    Thời gian bảo hành
+                </th>
+                <th>
+                    Chiết khấu
+                </th>
+                <th>
+                    Giá nhỏ nhất
+                </th>
+                <th>
+                    Giá lớn nhất
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                int i = 0;
+                string @cls = "table-success";
+            }
+            @foreach (var item in Model)
+            {
+                i = i + 1;
+                cls = "table-success";
+                if (i % 2 == 0)
+                {
+                    cls = "table-primary";
+                }
+                <tr class="@cls">
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TenSp)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CanNang)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.DoNoi)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ThoiGianBaoHanh)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.GiaNhoNhat)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.GiaLonNhat)
+                    </td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.MaSp">Edit</a> |
+                        <a asp-action="Details" asp-route-id="@item.MaSp">Details</a> |
+                        <a asp-action="Delete" asp-route-id="@item.MaSp">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    @Html.PagedListPager(Model, page => Url.Action("DanhMucSanPham", new { page = page }), new X.PagedList.Web.Common.PagedListRenderOptions()
+{
+    LiElementClasses = new List<String> { "page-item" },
+    PageClasses = new List<String> { "page-link" }
+})
+
+    <script type="text/javascript">
+
+        function showProduct(getURL) {
+            var str = "";
+            $.ajax({
+                type: 'GET',
+                url: getURL,
+                dataType: 'json',
+                success: function (data, val) {
+                    str += `<form id="formEditProduct" method="post">
+                                                    <div class="form-group">
+                                                        <label class="control-label">Tên sản phẩm</label>
+                                                                        <input type="text" class="form-control" id="TenSp" value=${val.tenSp}/>
+                                                    </div>
+                                                    <div class="form-group">
+                                                        <label class="control-label">Mã chất liệu</label>
+                                                                        <input type="text" class="form-control" id="MaChatLieu" value=${val.maChatLieu} />
+                                                    </div>
+                                                    <div class="form-group">
+                                                        <label class="control-label">Ngăn laptop</label>
+                                                                <input type="text" class="form-control" id="NganLapTop" value=${val.nganLapTop} />
+                                                    </div>
+                                                    <div class="form-group">
+                                                        <label class="control-label">Model</label>
+                                                                <input type="text" class="form-control" id="Model" value=${val.model} />
+                                                    </div>
+
+                                                    <div class="form-group">
+                                                        <label class="control-label">Cân nặng</label>
+                                                                <input id="CanNang" type="text" class="form-control" value=${val.canNang} />
+                                                    </div>
+                                                    <div class="form-group">
+                                                        <label class="control-label">Độ nới</label>
+                                                                <input id="DoNoi" type="text" class="form-control" value=${val.doNoi}  />
+                                                    </div>
+                                                    <div class="form-group">
+                                                        <label class="control-label">Mã hãng sản xuất</label>
+                                                                <input id="MaHangSx" type="text" class="form-control" value=${val.maHangSx} />
+                                                    </div>
+                                                    <div class="form-group">
+                                                        <label class="control-label">Mã nước sản xuất</label>
+                                                                <input id="MaNuocSx" type="text" class="form-control" value=${val.maNuocSx} />
+                                                    </div>
+                                                    <div class="form-group">
+                                                        <label class="control-label">Mã đặc tính</label>
+                                                                <input id="MaDacTinh" type="text" class="form-control" value=${val.maDacTinh} />
+                                                    </div>
+                                                    <div class="form-group">
+                                                        <label class="control-label">Website</label>
+                                                                <input id="Website" type="text" class="form-control" value=${val.website} />
+                                                    </div>
+                                                    <div class="form-group">
+                                                        <label class="control-label">Thời gian bảo hành</label>
+                                                                <input id="ThoiGianBaoHanh" type="text" class="form-control" value=${val.thoiGianBaoHanh} />
+                                                    </div>
+                                                    <div class="form-group">
+                                                        <label class="control-label">Giới thiệu sản phẩm</label>
+                                                                <input id="GioiThieuSp" type="text" class="form-control" value=${val.gioiThieuSp} />
+                                                    </div>
+                                                    <div class="form-group">
+                                                        <label class="control-label">Chiết khấu</label>
+                                                                <input id="ChietKhau" type="text" class="form-control" value=${val.chietKhau} />
+                                                    </div>
+
+                                                    <div class="form-group">
+                                                        <label class="control-label">Mã loại</label>
+                                                                <input id="MaLoai" type="text" class="form-control" value=${val.maLoai} />
+                                                    </div>
+
+                                                    <div class="form-group">
+                                                        <label class="control-label">Mã đối tượng</label>
+                                                                <input id="MaDoiTuong" type="text" class="form-control" value=${val.maDt}
+                                                            </div>
+                                                    <div class="form-group">
+                                                        <label class="control-label">Ảnh đại diện</label>
+                                                                <input id="AnhDaiDien" type="text" class="form-control" value=${val.anhDaiDien} />
+                                                    </div>
+
+                                                    <div class="form-group">
+                                                        <label class="control-label">Giá nhỏ nhất</label>
+                                                                <input id="GiaNhoNhat" type="text" class="form-control" value=${val.giaNhoNhat} />
+                                                    </div>
+                                                    <div class="form-group">
+                                                        <label class="control-label">Giá lớn nhất</label>
+                                                        <input id="GiaLonNhat" type="text" class="form-control" value=${val.giaLonNhat} />
+                                                    </div>
+
+                                                    <div class="form-group">
+                                                         <input onclick="editProduct('https://localhost:7221/api/Product/'+${val.maSp}, ${val.maSp}); return false;" value="Thêm sản phẩm" class="btn btn-primary" />
+                                                    </div>
+                                                </form>`;
+                    $('#displayEditForm').html(str);
+                },
+                error: function (xhr) {
+                    alert(xhr.responseText);
+                }
+            });
+        }
+
+        function editProduct(apiUrl, maSanPham) {
+            // Thu thập dữ liệu từ form
+            var duLieuSanPham = {
+                maSp: maSanPham,
+                tenSp: $('#TenSp').val(),
+                maChatLieu: $('#MaChatLieu').val(),
+                nganLapTop: $('#NganLapTop').val(),
+                model: $('#Model').val(),
+                canNang: parseFloat($('#CanNang').val()),
+                doNoi: parseFloat($('#DoNoi').val()),
+                maHangSx: $('#MaHangSx').val(),
+                maNuocSx: $('#MaNuocSx').val(),
+                maDacTinh: $('#MaDacTinh').val(),
+                website: $('#Website').val(),
+                thoiGianBaoHanh: parseFloat($('#ThoiGianBaoHanh').val()),
+                gioiThieuSp: $('#GioiThieuSp').val(),
+                chietKhau: parseFloat($('#ChietKhau').val()),
+                maLoai: $('#MaLoai').val(),
+                maDt: $('#MaDt').val(),
+                anhDaiDien: $('#AnhDaiDien').val(),
+                giaNhoNhat: parseFloat($('#GiaNhoNhat').val()),
+                giaLonNhat: parseFloat($('#GiaLonNhat').val())
+            };
+
+            // Gửi yêu cầu AJAX
+            $.ajax({
+                type: 'PUT',
+                url: apiUrl,
+                data: JSON.stringify(duLieuSanPham),
+                contentType: 'application/json',
+                dataType: 'json',
+                success: function (data) {
+                    alert('Sửa sản phẩm thành công!');
+                    //window.location.href = 'https://localhost:7044/admin/homeadmin/danhmucsanpham'; // Chuyển hướng sau khi thêm thành công
+                },
+                error: function (loi) {
+                    console.error('Lỗi khi thêm sản phẩm:', loi);
+                    alert(JSON.stringify(duLieuSanPham));
+                }
+            });
+        }
+        function showHideDiveInsertData(activeDiv) {
+            if ($(document.getElementById(activeDiv)).is(":visible")) {
+                $(document.getElementById(activeDiv)).hide('slow');
+            }
+            else {
+                $(document.getElementById(activeDiv)).show('slow');
+            }
+        }
+    </script>
+</body>

@@ -1,0 +1,70 @@
+﻿@model IEnumerable<PhanLoai>
+@foreach (var item in Model)
+{
+    <a class="dropdown-item" href="javascript:void(0)" onclick="loadData('@item.MaPhanLoai')">@item.PhanLoaiChinh</a>
+}
+<script src="../Temp/js/jquery-3.2.1.min.js"></script>
+<script type="text/javascript">
+    function loadData(MaPhanLoai) {
+        $.ajax({
+            url: '@Url.Action("GetData", "Home")',
+            type: 'GET',
+            data: { MaPhanLoai: MaPhanLoai },
+            success: function (response) {
+                console.log(response); // Log the response to see its structure
+
+                if (response.length > 0) {
+                    let tableHtml = `
+                            
+                            `;
+                    response.forEach(match => {
+                        tableHtml += `
+                                        <div class="col-sm-12 col-md-6 col-lg-3  d-flex">
+                    <div class="product d-flex flex-column">
+                        <a href="#" class="img-prod">
+                                    <img class="img-fluid" src="../Images QLBanNoi/${match.anhDaiDien}" alt="Colorlib Template">
+                            <div class="overlay"></div>
+                        </a>
+                        <div class="text py-3 pb-4 px-3">
+                            <div class="d-flex">
+                                <div class="cat">
+                                    <span>Lifestyle</span>
+                                </div>
+                                <div class="rating">
+                                    <p class="text-right mb-0">
+                                        <a href="#"><span class="ion-ios-star-outline"></span></a>
+                                        <a href="#"><span class="ion-ios-star-outline"></span></a>
+                                        <a href="#"><span class="ion-ios-star-outline"></span></a>
+                                        <a href="#"><span class="ion-ios-star-outline"></span></a>
+                                        <a href="#"><span class="ion-ios-star-outline"></span></a>
+                                    </p>
+                                </div>
+                            </div>
+                                    <h3><a href="#">${match.tenSanPham}</a></h3>
+                            <div class="pricing">
+                                        <p class="price"><span>${match.donGiaBanNhoNhat}</span></p>
+                            </div>
+                            <p class="bottom-area d-flex px-3">
+                                    <a href="/Home/Them" class="add-to-cart text-center py-2 mr-1"><span>THÊM SẢN PHẨM MỚI <i class="ion-ios-add ml-1"></i></span></a>
+                                <a href="#" class="buy-now text-center py-2">Buy now<span><i class="ion-ios-cart ml-1"></i></span></a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                                `;
+                    });
+
+                    tableHtml += `
+                       
+                            `;
+                    $('#result').html(tableHtml);
+                } else {
+                    $('#result').html('Không có sân vận động nào.');
+                }
+            },
+            error: function () {
+                $('#result').html('Có lỗi xảy ra.');
+            }
+        });
+    }
+</script>

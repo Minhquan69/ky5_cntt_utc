@@ -1,0 +1,12 @@
+﻿@model IEnumerable<Cauthu>
+@addTagHelper *,Microsoft.AspNetCore.Mvc.TagHelpers
+<li class="has-children">
+    <a href="rooms.html">Phòng</a>
+    <ul class="dropdown arrow-top">
+        @foreach(var item in Model)
+        {
+            <li><a asp-action="ChiTietTranDau" asp-route-CauThuId="@item.CauThuId">@item.HoVaTen</a></li>
+        }
+       
+    </ul>
+</li>

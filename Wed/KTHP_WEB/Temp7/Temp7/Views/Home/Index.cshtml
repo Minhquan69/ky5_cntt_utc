@@ -1,0 +1,42 @@
+﻿@model IEnumerable<dynamic>
+@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/_LayoutIndex.cshtml";
+}
+<div>
+
+</div>
+@foreach(var item in Model)
+{
+    <div class="col l-3 m-m-b-20 c-12" style="margin-bottom: 20px">
+        <div class="place__item">
+            <div class="place__bg" style="display: flex; justify-content: center; align-items: center;">
+                <img src="@Url.Content("../images/" + @item.AnhClb)" alt="" class="place__img" style="width: 90%; height: 194px;">
+            </div>
+
+            <div class="place__info" style="padding: 0; text-align:center ">
+                <header class="place__header">
+                    <h3 class="place__heading">@item.TenCLB</h3>
+                    <p class="place__location">
+                        <i class="ri-map-pin-line"></i> Tên gọi: @item.TenGoiTat
+                    </p>
+                    <p class="place__location">
+                        <i class="ri-map-pin-line"></i> SVD: @item.TenSVD
+                    </p>
+                    
+                </header>
+                <div class="place__price" style="padding: 20px;">
+                    <div class="place__price-right">
+                        <span class="" style="color: red; font-size: 18px; padding: 10px;">HLV:</span>
+                        <span class="place__price-current" style="font-size: 18px">@item.TenHLV</span>
+                    </div>
+                </div>
+                <footer class="place__footer">
+                    <a asp-action="ChiTiet" asp-route-CauLacBoId="@item.CLBID" class="place__btn bg__color--berlin">Chi tiết</a>
+                </footer>
+            </div>
+        </div>
+    </div>
+}
+
+

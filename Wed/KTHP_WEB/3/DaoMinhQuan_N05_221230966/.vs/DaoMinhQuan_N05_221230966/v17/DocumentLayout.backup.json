@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Wed\\KTHP_WEB\\3\\DaoMinhQuan_N05_221230966\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B6096D-45D0-43EE-B730-211B2976EDB1}|DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966.csproj|e:\\wed\\kthp_web\\3\\daominhquan_n05_221230966\\daominhquan_n05_221230966\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2B6096D-45D0-43EE-B730-211B2976EDB1}|DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966.csproj|solutionrelative:daominhquan_n05_221230966\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B6096D-45D0-43EE-B730-211B2976EDB1}|DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966.csproj|e:\\wed\\kthp_web\\3\\daominhquan_n05_221230966\\daominhquan_n05_221230966\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2B6096D-45D0-43EE-B730-211B2976EDB1}|DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966.csproj|solutionrelative:daominhquan_n05_221230966\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B6096D-45D0-43EE-B730-211B2976EDB1}|DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966.csproj|e:\\wed\\kthp_web\\3\\daominhquan_n05_221230966\\daominhquan_n05_221230966\\views\\shared\\daominhquan_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2B6096D-45D0-43EE-B730-211B2976EDB1}|DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966.csproj|solutionrelative:daominhquan_n05_221230966\\views\\shared\\daominhquan_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B6096D-45D0-43EE-B730-211B2976EDB1}|DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966.csproj|e:\\wed\\kthp_web\\3\\daominhquan_n05_221230966\\daominhquan_n05_221230966\\viewcomponents\\menuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2B6096D-45D0-43EE-B730-211B2976EDB1}|DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966.csproj|solutionrelative:daominhquan_n05_221230966\\viewcomponents\\menuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B6096D-45D0-43EE-B730-211B2976EDB1}|DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966.csproj|e:\\wed\\kthp_web\\3\\daominhquan_n05_221230966\\daominhquan_n05_221230966\\views\\shared\\components\\menu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2B6096D-45D0-43EE-B730-211B2976EDB1}|DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966.csproj|solutionrelative:daominhquan_n05_221230966\\views\\shared\\components\\menu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B6096D-45D0-43EE-B730-211B2976EDB1}|DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966.csproj|e:\\wed\\kthp_web\\3\\daominhquan_n05_221230966\\daominhquan_n05_221230966\\views\\shared\\daominhquan_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2B6096D-45D0-43EE-B730-211B2976EDB1}|DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966.csproj|solutionrelative:daominhquan_n05_221230966\\views\\shared\\daominhquan_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DaoMinhQuan_Layout.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\3\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\Views\\Shared\\DaoMinhQuan_Layout.cshtml",
+              "RelativeDocumentMoniker": "DaoMinhQuan_N05_221230966\\Views\\Shared\\DaoMinhQuan_Layout.cshtml",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\3\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\Views\\Shared\\DaoMinhQuan_Layout.cshtml",
+              "RelativeToolTip": "DaoMinhQuan_N05_221230966\\Views\\Shared\\DaoMinhQuan_Layout.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T03:32:57.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DaoMinhQuan_Header.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\3\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\Views\\Shared\\DaoMinhQuan_Header.cshtml",
+              "RelativeDocumentMoniker": "DaoMinhQuan_N05_221230966\\Views\\Shared\\DaoMinhQuan_Header.cshtml",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\3\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\Views\\Shared\\DaoMinhQuan_Header.cshtml",
+              "RelativeToolTip": "DaoMinhQuan_N05_221230966\\Views\\Shared\\DaoMinhQuan_Header.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T16:14:31.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\3\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\Views\\Shared\\Components\\Menu\\Default.cshtml",
+              "RelativeDocumentMoniker": "DaoMinhQuan_N05_221230966\\Views\\Shared\\Components\\Menu\\Default.cshtml",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\3\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\Views\\Shared\\Components\\Menu\\Default.cshtml",
+              "RelativeToolTip": "DaoMinhQuan_N05_221230966\\Views\\Shared\\Components\\Menu\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T16:13:38.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuViewComponent.cs",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\3\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\ViewComponents\\MenuViewComponent.cs",
+              "RelativeDocumentMoniker": "DaoMinhQuan_N05_221230966\\ViewComponents\\MenuViewComponent.cs",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\3\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\ViewComponents\\MenuViewComponent.cs",
+              "RelativeToolTip": "DaoMinhQuan_N05_221230966\\ViewComponents\\MenuViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T16:13:02.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\3\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DaoMinhQuan_N05_221230966\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\3\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "DaoMinhQuan_N05_221230966\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T16:04:58.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\3\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DaoMinhQuan_N05_221230966\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\3\\DaoMinhQuan_N05_221230966\\DaoMinhQuan_N05_221230966\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "DaoMinhQuan_N05_221230966\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T16:01:32.671Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

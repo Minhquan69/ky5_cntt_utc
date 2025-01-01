@@ -1,0 +1,51 @@
+﻿@model IEnumerable<Cauthu>
+@foreach(var item in Model)
+{
+	<li class="active"><a href="javascript:void(0)" onclick="loadData('@item.CauThuId')">@item.HoVaTen</a></li>
+}
+<script src="../template10/js/jquery-3.2.1.min.js"></script>
+<script type="text/javascript">
+    function loadData(CauThuId) {
+        $.ajax({
+            url: '@Url.Action("GetData", "Home")',
+            type: 'GET',
+            data: { CauThuId: CauThuId },
+            success: function (response) {
+                console.log(response); // Log the response to see its structure
+
+                if (response.length > 0) {
+                    let tableHtml = `
+                        
+                                      <div class="row row-pb-md">
+                                                `;
+                    response.forEach(match => {
+                        tableHtml += `
+                            <div class="col-lg-3 mb-4 text-center">
+                                <div class="product-entry border">
+                                    <a href="#" class="prod-img">
+                                        <img src="../images/${match.anh}" class="img-fluid" alt="Free html5 bootstrap 4 template10">
+                                    </a>
+                                    <div class="desc">
+                                                <h2><a href="#">${match.ngayThiDau}</a></h2>
+                                                <span class="price" style="font-size: 15px;">CLBNha: ${match.clbnha} - CLBKhach: ${match.clbkhach}</span>
+                                            <span class="price">Tỷ số: ${match.ketQua}</span>
+                                    </div>
+                                </div>
+                            </div>
+                                                `;
+                    });
+
+                    tableHtml += `
+                                        </div>
+                                            `;
+                    $('#result').html(tableHtml);
+                } else {
+                    $('#result').html('Không có sách nào.');
+                }
+            },
+            error: function () {
+                $('#result').html('Có lỗi xảy ra.');
+            }
+        });
+    }
+</script>

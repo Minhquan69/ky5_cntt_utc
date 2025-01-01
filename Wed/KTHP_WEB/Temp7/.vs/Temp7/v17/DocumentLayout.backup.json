@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Wed\\KTHP_WEB\\Temp7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37BC4713-72DC-4C9F-B7B8-17971A01469C}|Temp7\\Temp7.csproj|e:\\wed\\kthp_web\\temp7\\temp7\\views\\shared\\components\\caulacbo\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37BC4713-72DC-4C9F-B7B8-17971A01469C}|Temp7\\Temp7.csproj|solutionrelative:temp7\\views\\shared\\components\\caulacbo\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37BC4713-72DC-4C9F-B7B8-17971A01469C}|Temp7\\Temp7.csproj|e:\\wed\\kthp_web\\temp7\\temp7\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37BC4713-72DC-4C9F-B7B8-17971A01469C}|Temp7\\Temp7.csproj|solutionrelative:temp7\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37BC4713-72DC-4C9F-B7B8-17971A01469C}|Temp7\\Temp7.csproj|e:\\wed\\kthp_web\\temp7\\temp7\\views\\shared\\_layoutindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37BC4713-72DC-4C9F-B7B8-17971A01469C}|Temp7\\Temp7.csproj|solutionrelative:temp7\\views\\shared\\_layoutindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37BC4713-72DC-4C9F-B7B8-17971A01469C}|Temp7\\Temp7.csproj|e:\\wed\\kthp_web\\temp7\\temp7\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37BC4713-72DC-4C9F-B7B8-17971A01469C}|Temp7\\Temp7.csproj|solutionrelative:temp7\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37BC4713-72DC-4C9F-B7B8-17971A01469C}|Temp7\\Temp7.csproj|e:\\wed\\kthp_web\\temp7\\temp7\\views\\home\\chitiet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37BC4713-72DC-4C9F-B7B8-17971A01469C}|Temp7\\Temp7.csproj|solutionrelative:temp7\\views\\home\\chitiet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37BC4713-72DC-4C9F-B7B8-17971A01469C}|Temp7\\Temp7.csproj|e:\\wed\\kthp_web\\temp7\\temp7\\views\\home\\themclb.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37BC4713-72DC-4C9F-B7B8-17971A01469C}|Temp7\\Temp7.csproj|solutionrelative:temp7\\views\\home\\themclb.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37BC4713-72DC-4C9F-B7B8-17971A01469C}|Temp7\\Temp7.csproj|e:\\wed\\kthp_web\\temp7\\temp7\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37BC4713-72DC-4C9F-B7B8-17971A01469C}|Temp7\\Temp7.csproj|solutionrelative:temp7\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37BC4713-72DC-4C9F-B7B8-17971A01469C}|Temp7\\Temp7.csproj|e:\\wed\\kthp_web\\temp7\\temp7\\views\\shared\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37BC4713-72DC-4C9F-B7B8-17971A01469C}|Temp7\\Temp7.csproj|solutionrelative:temp7\\views\\shared\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37BC4713-72DC-4C9F-B7B8-17971A01469C}|Temp7\\Temp7.csproj|e:\\wed\\kthp_web\\temp7\\temp7\\models\\caulacbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37BC4713-72DC-4C9F-B7B8-17971A01469C}|Temp7\\Temp7.csproj|solutionrelative:temp7\\models\\caulacbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37BC4713-72DC-4C9F-B7B8-17971A01469C}|Temp7\\Temp7.csproj|e:\\wed\\kthp_web\\temp7\\temp7\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37BC4713-72DC-4C9F-B7B8-17971A01469C}|Temp7\\Temp7.csproj|solutionrelative:temp7\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37BC4713-72DC-4C9F-B7B8-17971A01469C}|Temp7\\Temp7.csproj|e:\\wed\\kthp_web\\temp7\\temp7\\viewcomponents\\caulacboviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37BC4713-72DC-4C9F-B7B8-17971A01469C}|Temp7\\Temp7.csproj|solutionrelative:temp7\\viewcomponents\\caulacboviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37BC4713-72DC-4C9F-B7B8-17971A01469C}|Temp7\\Temp7.csproj|e:\\wed\\kthp_web\\temp7\\temp7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37BC4713-72DC-4C9F-B7B8-17971A01469C}|Temp7\\Temp7.csproj|solutionrelative:temp7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37BC4713-72DC-4C9F-B7B8-17971A01469C}|Temp7\\Temp7.csproj|e:\\wed\\kthp_web\\temp7\\temp7\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37BC4713-72DC-4C9F-B7B8-17971A01469C}|Temp7\\Temp7.csproj|solutionrelative:temp7\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37BC4713-72DC-4C9F-B7B8-17971A01469C}|Temp7\\Temp7.csproj|e:\\wed\\kthp_web\\temp7\\temp7\\models\\qlgiaibongdacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37BC4713-72DC-4C9F-B7B8-17971A01469C}|Temp7\\Temp7.csproj|solutionrelative:temp7\\models\\qlgiaibongdacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\Temp7\\Temp7\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Temp7\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\Temp7\\Temp7\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Temp7\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T16:27:30.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\Temp7\\Temp7\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Temp7\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\Temp7\\Temp7\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Temp7\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T12:48:22.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LayoutIndex.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\Temp7\\Temp7\\Views\\Shared\\_LayoutIndex.cshtml",
+              "RelativeDocumentMoniker": "Temp7\\Views\\Shared\\_LayoutIndex.cshtml",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\Temp7\\Temp7\\Views\\Shared\\_LayoutIndex.cshtml",
+              "RelativeToolTip": "Temp7\\Views\\Shared\\_LayoutIndex.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T16:19:27.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Header.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\Temp7\\Temp7\\Views\\Shared\\Header.cshtml",
+              "RelativeDocumentMoniker": "Temp7\\Views\\Shared\\Header.cshtml",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\Temp7\\Temp7\\Views\\Shared\\Header.cshtml",
+              "RelativeToolTip": "Temp7\\Views\\Shared\\Header.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T16:19:39.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ThemCLB.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\Temp7\\Temp7\\Views\\Home\\ThemCLB.cshtml",
+              "RelativeDocumentMoniker": "Temp7\\Views\\Home\\ThemCLB.cshtml",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\Temp7\\Temp7\\Views\\Home\\ThemCLB.cshtml",
+              "RelativeToolTip": "Temp7\\Views\\Home\\ThemCLB.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T17:53:39.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChiTiet.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\Temp7\\Temp7\\Views\\Home\\ChiTiet.cshtml",
+              "RelativeDocumentMoniker": "Temp7\\Views\\Home\\ChiTiet.cshtml",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\Temp7\\Temp7\\Views\\Home\\ChiTiet.cshtml",
+              "RelativeToolTip": "Temp7\\Views\\Home\\ChiTiet.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwDwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T18:28:45.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\Temp7\\Temp7\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Temp7\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\Temp7\\Temp7\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Temp7\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAwGEAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T07:32:27.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\Temp7\\Temp7\\Views\\Shared\\Components\\CauLacBo\\Default.cshtml",
+              "RelativeDocumentMoniker": "Temp7\\Views\\Shared\\Components\\CauLacBo\\Default.cshtml",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\Temp7\\Temp7\\Views\\Shared\\Components\\CauLacBo\\Default.cshtml",
+              "RelativeToolTip": "Temp7\\Views\\Shared\\Components\\CauLacBo\\Default.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAqwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T12:41:03.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "QlgiaiBongDaContext.cs",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\Temp7\\Temp7\\Models\\QlgiaiBongDaContext.cs",
+              "RelativeDocumentMoniker": "Temp7\\Models\\QlgiaiBongDaContext.cs",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\Temp7\\Temp7\\Models\\QlgiaiBongDaContext.cs",
+              "RelativeToolTip": "Temp7\\Models\\QlgiaiBongDaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T07:32:06.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Caulacbo.cs",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\Temp7\\Temp7\\Models\\Caulacbo.cs",
+              "RelativeDocumentMoniker": "Temp7\\Models\\Caulacbo.cs",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\Temp7\\Temp7\\Models\\Caulacbo.cs",
+              "RelativeToolTip": "Temp7\\Models\\Caulacbo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T07:42:32.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CauLacBoViewComponent.cs",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\Temp7\\Temp7\\ViewComponents\\CauLacBoViewComponent.cs",
+              "RelativeDocumentMoniker": "Temp7\\ViewComponents\\CauLacBoViewComponent.cs",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\Temp7\\Temp7\\ViewComponents\\CauLacBoViewComponent.cs",
+              "RelativeToolTip": "Temp7\\ViewComponents\\CauLacBoViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T12:40:43.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\Temp7\\Temp7\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Temp7\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\Temp7\\Temp7\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Temp7\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T13:19:26.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\Temp7\\Temp7\\Program.cs",
+              "RelativeDocumentMoniker": "Temp7\\Program.cs",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\Temp7\\Temp7\\Program.cs",
+              "RelativeToolTip": "Temp7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T12:44:57.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Footer.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\Temp7\\Temp7\\Views\\Shared\\Footer.cshtml",
+              "RelativeDocumentMoniker": "Temp7\\Views\\Shared\\Footer.cshtml",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\Temp7\\Temp7\\Views\\Shared\\Footer.cshtml",
+              "RelativeToolTip": "Temp7\\Views\\Shared\\Footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T16:19:48.262Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+﻿@model IEnumerable<Caulacbo>
+@foreach (var item in Model)
+{
+    <li><a href="javascript:void(0)" onclick="loadData('@item.CauLacBoId', '@item.TenClb')">@item.TenClb</a></li>
+}
+<script src="../Temp17/js/jquery-3.3.1.min.js"></script>
+<script type="text/javascript">
+    function loadData(CauLacBoId, tenCLB) {
+        $.ajax({
+            url: '@Url.Action("GetData", "Home")',
+            type: 'GET',
+            data: { CauLacBoId: CauLacBoId },
+            success: function (response) {
+                console.log(response); // Log the response to see its structure
+
+                if (response.length > 0) {
+                    let tableHtml = `
+                            <div class="site-section block-3 site-blocks-2 bg-light">
+                                <div class="row justify-content-center">
+                                    <div class="col-md-7 site-section-heading text-center pt-4">
+                                        <h2>DANH SÁCH TRẬN ĐẤU CỦA ${tenCLB}</h2>
+                                    </div>
+                                </div>
+                                <div class="row">
+                        `;
+                    response.forEach(match => {
+                        tableHtml += `
+                                <div class="item" style="width: 30%; margin: auto">
+                                    <div class="block-4 text-center" style="margin-top: 20px">
+                                        <figure class="block-4-image">
+                                            <img src="../images/${match.anhtt}"
+                                                 alt="Image placeholder"
+                                                 class="img-fluid"
+                                                 style="width: 90%; height: 210px; margin: auto;">
+                                        </figure>
+                                        <div class="block-4-text p-4">
+                                            <h3><a href="#">${match.tenCLBKhach} - ${match.tenCLBNha}</a></h3>
+                                            <p class="mb-0">${match.ketQuatt}</p>
+                                            <p class="text-primary font-weight-bold">${match.ngay}</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            `;
+                    });
+
+                    tableHtml += `
+                                </div>
+                            </div>
+                        `;
+                    $('#result').html(tableHtml);
+                } else {
+                    $('#result').html('Không có trận đấu nào.');
+                }
+            },
+            error: function () {
+                $('#result').html('Có lỗi xảy ra.');
+            }
+        });
+    }
+</script>

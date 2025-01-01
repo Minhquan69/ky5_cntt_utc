@@ -1,0 +1,49 @@
+﻿@model Temp17.Models.Huanluyenvien
+
+@{
+    ViewData["Title"] = "ThemHLV";
+    Layout = "~/Views/Shared/_LayoutChiTiet.cshtml";
+}
+
+<h1>Thêm mới Huấn Luyện Viên</h1>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="ThemHLV">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="HuanLuyenVienId" class="control-label"></label>
+                <input asp-for="HuanLuyenVienId" class="form-control" />
+                <span asp-validation-for="HuanLuyenVienId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TenHlv" class="control-label"></label>
+                <input asp-for="TenHlv" class="form-control" />
+                <span asp-validation-for="TenHlv" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NamSinh" class="control-label"></label>
+                <input asp-for="NamSinh" class="form-control" />
+                <span asp-validation-for="NamSinh" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="QuocTich" class="control-label"></label>
+                <input asp-for="QuocTich" class="form-control" />
+                <span asp-validation-for="QuocTich" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Anh" class="control-label"></label>
+                <input asp-for="Anh" class="form-control" />
+                <span asp-validation-for="Anh" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

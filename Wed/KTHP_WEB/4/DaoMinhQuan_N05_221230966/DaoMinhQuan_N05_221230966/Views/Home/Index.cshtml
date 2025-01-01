@@ -1,0 +1,40 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/DaoMinhQuan_Layout.cshtml";
+}
+@*
+    @using X.PagedList.Mvc.Core;
+@model X.PagedList.IPagedList<dynamic>
+<h4>Latest Products </h4>
+<ul class="thumbnails">
+	@foreach (var sp in Model)
+	{
+		<li class="span3">
+			<div class="thumbnail">
+				<a href="product_details.html"><img src="@sp.ImageUrl" alt="" /></a>
+				<div class="caption">
+					<h5>@sp.Name</h5>
+					<p>
+						@sp.Text
+					</p>
+
+					<h4 style="text-align:center"><a class="btn" href="product_details.html"> <i class="icon-zoom-in"></i></a> <a class="btn" href="#">Add to <i class="icon-shopping-cart"></i></a> <a class="btn btn-primary" href="#">@sp.Text1</a></h4>
+				</div>
+			</div>
+		</li>
+	}
+</ul>
+<div class="span3">
+	<div class="pagination">
+		<ul>
+			@Html.PagedListPager(Model, page => Url.Action("Index", new { page }), new PagedListRenderOptions
+				{
+					UlElementClasses = new List<string> { "pagination" }, /* Lớp của danh sách phân trang */
+					LiElementClasses = new List<string> { "page-item" }, /* Lớp của từng mục */
+					PageClasses = new List<string> { "page-link" }      /* Lớp của liên kết */
+				})
+		</ul>
+	</div>
+</div>
+*@
+		

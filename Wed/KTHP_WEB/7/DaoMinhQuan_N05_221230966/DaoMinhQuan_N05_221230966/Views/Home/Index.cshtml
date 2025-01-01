@@ -1,0 +1,50 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/DaoMinhQuan_Layout.cshtml";
+}
+@using X.PagedList.Mvc.Core;
+@model X.PagedList.IPagedList<dynamic>
+<div class="container">
+    <div class="package-menu m-b-60">
+        <div class="row">
+            @foreach (var i in Model)
+            {
+                <div class="col l-3 m-m-b-20 c-12">
+                    <div class="place__item">
+                    <div class="place__bg">
+                        <img src="../Temp/assets/img/dell.jpg" alt="" class="place__img">
+
+                    </div>
+                    <div class="place__info" style="padding: 0; text-align:center ">
+                        <header class="place__header">
+                            <h3 class="place__heading">@i.Name</h3>
+                            <p class="place__location">
+                                <i class="ri-map-pin-line"></i> N3505 R5 3450U/8GB/256GB/15.6"FHD Touch/AMD Radeon Vega 8/Win 10/NK
+                            </p>
+                        </header>
+                        <div class="place__price" style="padding: 20px;">
+                            <div class="place__price-right">
+                                <span class="" style="color: red; font-size: 23px; padding: 10px;">Giá:</span>
+                                <span class="place__price-current">15.900.000 $</span>
+                            </div>
+                        </div>
+                        <footer class="place__footer">
+                            <a href="" class="place__btn bg__color--berlin">Chi tiết</a>
+                        </footer>
+                    </div>
+                </div>
+            </div>
+            }
+        </div>
+
+    </div>
+    <div class="">
+        <div class="">
+            @Html.PagedListPager(Model, page => Url.Action("Index", new { page }), new PagedListRenderOptions
+       {
+           LiElementClasses = new List<string> { "page-item" },
+           PageClasses = new List<string> { "page-link" }
+       })
+        </div>
+    </div>
+</div>

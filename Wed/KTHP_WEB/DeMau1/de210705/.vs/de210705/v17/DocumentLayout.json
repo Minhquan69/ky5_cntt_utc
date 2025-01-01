@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C04EC2D2-BEA2-4072-8286-0C744CAFC5F8}|de210705\\de210705.csproj|e:\\wed\\kthp_web\\demau1\\de210705\\de210705\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C04EC2D2-BEA2-4072-8286-0C744CAFC5F8}|de210705\\de210705.csproj|solutionrelative:de210705\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C04EC2D2-BEA2-4072-8286-0C744CAFC5F8}|de210705\\de210705.csproj|e:\\wed\\kthp_web\\demau1\\de210705\\de210705\\models\\onlineshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C04EC2D2-BEA2-4072-8286-0C744CAFC5F8}|de210705\\de210705.csproj|solutionrelative:de210705\\models\\onlineshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C04EC2D2-BEA2-4072-8286-0C744CAFC5F8}|de210705\\de210705.csproj|e:\\wed\\kthp_web\\demau1\\de210705\\de210705\\views\\shared\\_layoutkiemtra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C04EC2D2-BEA2-4072-8286-0C744CAFC5F8}|de210705\\de210705.csproj|solutionrelative:de210705\\views\\shared\\_layoutkiemtra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C04EC2D2-BEA2-4072-8286-0C744CAFC5F8}|de210705\\de210705.csproj|e:\\wed\\kthp_web\\demau1\\de210705\\de210705\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C04EC2D2-BEA2-4072-8286-0C744CAFC5F8}|de210705\\de210705.csproj|solutionrelative:de210705\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C04EC2D2-BEA2-4072-8286-0C744CAFC5F8}|de210705\\de210705.csproj|e:\\wed\\kthp_web\\demau1\\de210705\\de210705\\views\\shared\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C04EC2D2-BEA2-4072-8286-0C744CAFC5F8}|de210705\\de210705.csproj|solutionrelative:de210705\\views\\shared\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C04EC2D2-BEA2-4072-8286-0C744CAFC5F8}|de210705\\de210705.csproj|e:\\wed\\kthp_web\\demau1\\de210705\\de210705\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C04EC2D2-BEA2-4072-8286-0C744CAFC5F8}|de210705\\de210705.csproj|solutionrelative:de210705\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OnlineShopContext.cs",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\Models\\OnlineShopContext.cs",
+              "RelativeDocumentMoniker": "de210705\\Models\\OnlineShopContext.cs",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\Models\\OnlineShopContext.cs",
+              "RelativeToolTip": "de210705\\Models\\OnlineShopContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T12:43:46.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LayoutKiemTra.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\Views\\Shared\\_LayoutKiemTra.cshtml",
+              "RelativeDocumentMoniker": "de210705\\Views\\Shared\\_LayoutKiemTra.cshtml",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\Views\\Shared\\_LayoutKiemTra.cshtml",
+              "RelativeToolTip": "de210705\\Views\\Shared\\_LayoutKiemTra.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T21:00:17.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "de210705\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "de210705\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAADoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T20:16:20.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "de210705\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "de210705\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAArwCUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T20:16:17.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Footer.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\Views\\Shared\\Footer.cshtml",
+              "RelativeDocumentMoniker": "de210705\\Views\\Shared\\Footer.cshtml",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\Views\\Shared\\Footer.cshtml",
+              "RelativeToolTip": "de210705\\Views\\Shared\\Footer.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAowDUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T19:43:07.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Header.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\Views\\Shared\\Header.cshtml",
+              "RelativeDocumentMoniker": "de210705\\Views\\Shared\\Header.cshtml",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\DeMau1\\de210705\\de210705\\Views\\Shared\\Header.cshtml",
+              "RelativeToolTip": "de210705\\Views\\Shared\\Header.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowCoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T19:42:27.885Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

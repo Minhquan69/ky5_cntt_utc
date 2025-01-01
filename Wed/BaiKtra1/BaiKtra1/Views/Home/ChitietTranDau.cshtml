@@ -1,0 +1,77 @@
+﻿@model IEnumerable<BaiKtra1.Models.Trandau>
+
+@{
+    ViewData["Title"] = "ChitietTranDau";
+    var cauThu = ViewBag.CauThu as BaiKtra1.Models.Cauthu;
+}
+
+<h1>ChitietTranDau</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.NgayThiDau)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Vong)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.HiepPhu)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.KetQua)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TrangThai)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Anh)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ClbkhachNavigation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ClbnhaNavigation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SanVanDong)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NgayThiDau)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Vong)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HiepPhu)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.KetQua)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TrangThai)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Anh)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ClbkhachNavigation.CauLacBoId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ClbnhaNavigation.CauLacBoId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SanVanDong.SanVanDongId)
+            </td>
+           
+        </tr>
+}
+    </tbody>
+</table>

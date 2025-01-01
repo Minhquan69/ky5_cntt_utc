@@ -1,0 +1,35 @@
+﻿@model Temp16.Models.Sanvandong
+@{
+    ViewData["Title"] = "Privacy Policy";
+    Layout = "~/Views/Shared/_LayoutChiTiet.cshtml";
+}
+<div class="center_content">
+    <div class="center_title_bar">THÔNG TIN SÂN VẬN ĐỘNG</div>
+    <div class="prod_box_big">
+        <div class="center_prod_box_big">
+            <div class="product_img_big">
+                <a href="javascript:popImage('../images/@Model.Anh','Some Title')" title=""><img src="@Url.Content("../images/" + Model.Anh)" style=" width: 100%; height: 71px; margin: auto;border : 0 " alt=""></a>
+                <div class="thumbs"> <a  title="header=[Thumb1] body=[ ] fade=[on]">
+                        <img src="@Url.Content("../images/" + Model.Anh)" style=" width: 30px; height: 23px; margin: auto;border : 0 " alt="" border="0">
+                    </a> <a  title="header=[Thumb2] body=[ ] fade=[on]">
+                        <img src="@Url.Content("../images/" + Model.Anh)" style=" width: 30px; height: 23px; margin: auto;border : 0 " alt="" border="0">
+                    </a> <a title="header=[Thumb3] body=[ ] fade=[on]">
+                        <img src="@Url.Content("../images/" + Model.Anh)" style=" width: 30px; height: 23px; margin: auto;border : 0 " alt="" border="0">
+                    </a>
+                </div>
+            </div>
+            <div class="details_big_box">
+                <div class="product_title_big">Tên Sân Vận Động: @Model.TenSan</div>
+                <div class="specifications">
+                    <label asp-for="ThanhPho"></label>  <span class="blue">@Model.ThanhPho</span><br>
+                    Năm bắt đầu: <span class="blue">@Model.NamBatDau</span><br>
+                  
+                </div>
+                <div class="prod_price_big"><span class="reduce">350$</span> <span class="price">270$</span></div>
+                <a href="#" class="prod_buy">add to cart</a> <a href="#" class="prod_compare">compare</a>
+            </div>
+        </div>
+    </div>
+    <br />  <br />
+    <a asp-action="Index" class="prod_buy">Back to List</a>
+</div>

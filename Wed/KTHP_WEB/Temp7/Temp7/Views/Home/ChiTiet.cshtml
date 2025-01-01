@@ -1,0 +1,61 @@
+﻿@model dynamic
+
+@{
+    ViewData["Title"] = "ChiTiet";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+        <div class="cont-top-product-detail clearfix" style="margin-left:10%">
+            <h1 class="name-product-detail bk-product-name"> @Model.Ten </h1>
+            <div class="col-left-detail">
+                <div class="box-img img-detail">
+                    <a href="javascript:void(0)" title="show all image" class="zoom-img-detail startPrettyPhoto"></a>
+                    <img class="bk-product-image" src="@Url.Content("../images/" + Model.AnhClb)" alt=" @Model.Ten " style="width: 400px; height: 360px;">
+                </div>
+                <div class="utilities clearfix">
+                    <div class="item-utilities">
+                        <div style="display: none">
+                            <a href="https://ducvietco.com/mediacenter/media/images/346/products/346/260/s1000_1000/hp-250-g7-1-1649307275.jpg" class="thumbnail imageitem-a" rel="prettyPhoto[]">
+                                <img src="@Url.Content("../images/" + Model.AnhClb)" alt=" @Model.Ten ">
+                            </a>
+                            <a href="https://ducvietco.com/mediacenter/media/images/346/products/346/260/s1000_1000/hp-250-g7-3-1649307275.jpg" class="thumbnail imageitem-a" rel="prettyPhoto[]">
+                                <img src="https://ducvietco.com/mediacenter/media/images/346/products/346/260/s250_0/hp-250-g7-3-1649307275.jpg" alt="hp-250-g7-3-1649307275.jpg">
+                            </a>
+                            <a href="https://ducvietco.com/mediacenter/media/images/346/products/346/260/s1000_1000/hp-250-g7-2-1649307275.jpg" class="thumbnail imageitem-a" rel="prettyPhoto[]">
+                                <img src="https://ducvietco.com/mediacenter/media/images/346/products/346/260/s250_0/hp-250-g7-2-1649307275.jpg" alt="hp-250-g7-2-1649307275.jpg">
+                            </a>
+                            <a href="https://ducvietco.com/mediacenter/media/images/346/products/346/260/s1000_1000/hp-250-g7-1649307275.jpg" class="thumbnail imageitem-a" rel="prettyPhoto[]">
+                                <img src="https://ducvietco.com/mediacenter/media/images/346/products/346/260/s250_0/hp-250-g7-1649307275.jpg" alt="hp-250-g7-1649307275.jpg">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="item-utilities">
+                    </div>
+                    <div class="item-utilities">
+                    </div>
+                </div>
+            </div>
+            <div class="box-info-detail clearfix">
+                <div class="general-information">
+                    
+                    <div class="description-detail">
+                        <ul>
+                            <li><span><p>Tên Gọi : @Model.TenGOI</p></span></li>
+                            <li><span><p>Huấn Luyện Viên : @Model.TenHuanLuyenVien</p></span></li>
+                            <li><span><p>Sân Vận Động : @Model.TenSanVanDong</p></span></li>
+                        </ul>
+                    </div>
+                    
+
+                    
+                    <button class="checkout-inf" data-params=".box-info-detail"><a asp-action="Index">Back to List</a></button>
+                    <!-- BK BUTTON -->
+                    <!-- <button id="bk-btn-paynow" type="button"></button> -->
+                    <!-- END BK BUTTON -->
+                </div>
+            </div>
+        </div>
+    
+  

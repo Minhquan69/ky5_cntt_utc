@@ -1,0 +1,87 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - WebApplication2</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/WebApplication2.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="../template2/fonts/icomoon/style.css">
+
+    <link rel="stylesheet" href="../template2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../template2/css/magnific-popup.css">
+    <link rel="stylesheet" href="../template2/css/jquery-ui.css">
+    <link rel="stylesheet" href="../template2/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="../template2/css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="../template2/css/bootstrap-datepicker.css">
+    <link rel="stylesheet" href="../template2/css/animate.css">
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mediaelement@4.2.7/build/mediaelementplayer.min.css">
+
+
+
+    <link rel="stylesheet" href="../template2/fonts/flaticon/font/flaticon.css">
+
+    <link rel="stylesheet" href="../template2/css/aos.css">
+
+    <link rel="stylesheet" href="../template2/css/style.css">
+</head>
+<body>
+    <div class="site-wrap">
+    @await Html.PartialAsync("Header")
+        <div class="site-section bg-light">
+            <div class="container">
+               
+                <div class="row">
+                    <div class="col-md-6 mx-auto text-center mb-5 section-heading">
+                        <h2 class="mb-5">Thêm Sách</h2>
+                    </div>
+                </div>
+                @RenderBody()
+            </div>
+        </div>
+    @await Html.PartialAsync("Footer")
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+    <script src="../template2/js/jquery-3.3.1.min.js"></script>
+    <script src="../template2/js/jquery-migrate-3.0.1.min.js"></script>
+    <script src="../template2/js/jquery-ui.js"></script>
+    <script src="../template2/js/popper.min.js"></script>
+    <script src="../template2/js/bootstrap.min.js"></script>
+    <script src="../template2/js/owl.carousel.min.js"></script>
+    <script src="../template2/js/jquery.stellar.min.js"></script>
+    <script src="../template2/js/jquery.countdown.min.js"></script>
+    <script src="../template2/js/jquery.magnific-popup.min.js"></script>
+    <script src="../template2/js/bootstrap-datepicker.min.js"></script>
+    <script src="../template2/js/aos.js"></script>
+    <script src="../template2/js/mediaelement-and-player.min.js"></script>
+
+    <script src="../template2/js/main.js"></script>
+
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            var mediaElements = document.querySelectorAll('video, audio'),
+                total = mediaElements.length;
+
+            for (var i = 0; i < total; i++) {
+                new MediaElementPlayer(mediaElements[i], {
+                    pluginPath: 'https://cdn.jsdelivr.net/npm/mediaelement@4.2.7/build/',
+                    shimScriptAccess: 'always',
+                    success: function () {
+                        var target = document.body.querySelectorAll('.player'),
+                            targetTotal = target.length;
+                        for (var j = 0; j < targetTotal; j++) {
+                            target[j].style.visibility = 'visible';
+                        }
+                    }
+                });
+            }
+        });
+    </script>
+</body>
+</html>
+

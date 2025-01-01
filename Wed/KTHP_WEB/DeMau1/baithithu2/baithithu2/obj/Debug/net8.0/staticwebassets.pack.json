@@ -1,0 +1,689 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\baithithu2.bundle.scp.css",
+      "PackagePath": "staticwebassets\\baithithu2.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Layout\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\Layout\\css\\font-awesome.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\css\\skdslider.css",
+      "PackagePath": "staticwebassets\\Layout\\css\\skdslider.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\css\\style.css",
+      "PackagePath": "staticwebassets\\Layout\\css\\style.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Layout\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Layout\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Layout\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Layout\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\Layout\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\Layout\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\Layout\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\Layout\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\Layout\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\1.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\1.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\10.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\10.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\11.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\11.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\111.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\111.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\12.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\12.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\13.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\13.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\14.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\14.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\15.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\15.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\16.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\16.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\17.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\17.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\2.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\2.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\22.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\22.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\3.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\3.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\4.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\4.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\44.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\44.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\5.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\5.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\6.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\6.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\7.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\7.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\8.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\8.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\9.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\9.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\arrow.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\arrow.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\b1.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\b1.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\b3.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\b3.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\bv1.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\bv1.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\bv2.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\bv2.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\bv3.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\bv3.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\bv4.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\bv4.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\bv5.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\bv5.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\bv6.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\bv6.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\bv7.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\bv7.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\bv8.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\bv8.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\bv8.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\bv8.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\bv9.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\bv9.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\card.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\card.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\check.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\check.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\close_1.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\close_1.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\gu1.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\gu1.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\gu2.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\gu2.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\gu3.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\gu3.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\gu4.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\gu4.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\gu5.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\gu5.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\gu6.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\gu6.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\gu7.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\gu7.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\gu8.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\gu8.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\gu9.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\gu9.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\hh1.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\hh1.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\hh2.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\hh2.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\hh3.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\hh3.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\hh4.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\hh4.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\hh5.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\hh5.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\hh6.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\hh6.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\hh7.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\hh7.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\hh8.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\hh8.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\hh9.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\hh9.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\icon1.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\icon1.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\icon2.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\icon2.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\offer.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\offer.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\p2.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\p2.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\p3.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\p3.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\p4.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\p4.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\pc1.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\pc1.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\pc2.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\pc2.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\pc3.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\pc3.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\pc4.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\pc4.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\pc5.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\pc5.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\pc6.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\pc6.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\pc7.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\pc7.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\pc8.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\pc8.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\pc9.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\pc9.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\pf1.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\pf1.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\pf2.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\pf2.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\pf3.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\pf3.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\pf4.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\pf4.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\pf5.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\pf5.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\pf6.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\pf6.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\pf7.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\pf7.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\pf8.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\pf8.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\pf9.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\pf9.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\si1.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\si1.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\star.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\star.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\star1.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\star1.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\t1.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\t1.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\t2.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\t2.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\t3.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\t3.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\t4.jpg",
+      "PackagePath": "staticwebassets\\Layout\\images\\t4.jpg"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\images\\tick.png",
+      "PackagePath": "staticwebassets\\Layout\\images\\tick.png"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Layout\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\js\\easing.js",
+      "PackagePath": "staticwebassets\\Layout\\js\\easing.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\js\\jquery-1.11.1.min.js",
+      "PackagePath": "staticwebassets\\Layout\\js\\jquery-1.11.1.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\js\\minicart.min.js",
+      "PackagePath": "staticwebassets\\Layout\\js\\minicart.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\js\\move-top.js",
+      "PackagePath": "staticwebassets\\Layout\\js\\move-top.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\js\\responsiveslides.min.js",
+      "PackagePath": "staticwebassets\\Layout\\js\\responsiveslides.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\Layout\\js\\skdslider.min.js",
+      "PackagePath": "staticwebassets\\Layout\\js\\skdslider.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Wed\\KTHP_WEB\\DeMau1\\baithithu2\\baithithu2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.baithithu2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.baithithu2.props",
+      "PackagePath": "build\\baithithu2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.baithithu2.props",
+      "PackagePath": "buildMultiTargeting\\baithithu2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.baithithu2.props",
+      "PackagePath": "buildTransitive\\baithithu2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

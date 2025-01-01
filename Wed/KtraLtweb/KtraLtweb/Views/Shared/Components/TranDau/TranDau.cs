@@ -1,0 +1,65 @@
+﻿@model IEnumerable<Trandau>
+<ul class= "site-menu js-clone-nav d-none d-lg-block" >
+    < li class= "active" >
+        < a href = "index.html" > Trang chủ </ a >
+    </ li >
+    @foreach(var item in Model)
+    {
+        < li >< a href = "javascript:void(0)" onclick = "loadData('@item.TranDauId')" > @item.TranDauId </ a ></ li >
+    }
+</ ul >
+
+< script src = "~/bin/js/jquery-3.3.1.min.js" ></ script >
+< script type = "text/javascript" >
+    function loadData(tranDauId) {
+        $.ajax({
+    url: '@Url.Action("GetData", "Home")',
+            type: 'GET',
+            data: { TranDauId: tranDauId },
+            success: function(response) {
+            console.log(response);
+            if (response.length > 0)
+            {
+                let tableHtml = `
+                            < table class= "table table-bordered" >
+                                < thead class= "thead-dark" >
+                                    < tr >
+                                        < th > Cau Thu ID</th>
+                                        <th>HoVaTen</th>
+                                        <th>CauLacBoId</th>
+                                        <th>Ngaysinh</th>
+                                        <th>ViTri</th>
+                                        <th>QuocTich</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                        `;
+response.forEach(match => {
+    tableHtml += `
+                                < tr >
+                                    < td >${ match.cauThuId}</ td >
+                                    < td >${ match.hoVaTen}</ td >
+                                    < td >${ match.cauLacBoId}</ td >
+                                    < td >${ match.ngaysinh}</ td >
+                                    < td >${ match.viTri}</ td >
+                                    < td >${ match.quocTich}</ td >
+                                </ tr >
+                            `;
+});
+
+tableHtml += `
+                                </ tbody >
+                            </ table >
+                        `;
+                    $('#result').html(tableHtml);
+                } else
+{
+                    $('#result').html('Không có cầu thủ nào.');
+}
+            },
+            error: function() {
+                $('#result').html('Có lỗi xảy ra.');
+}
+        });
+    }
+</ script >

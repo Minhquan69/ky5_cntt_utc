@@ -1,0 +1,37 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/_LayoutIndex.cshtml";
+}
+@using X.PagedList.Mvc.Core
+@model X.PagedList.IPagedList<dynamic>
+
+<div class="col-md-12">
+    <div class="owl-carousel owl-theme">
+        @foreach (var item in Model)
+        {
+            <a href="single-product.html">
+                <div class="featured-item">
+                    <img src="@item.ImageUrl" alt="@item.Name">
+                    <h4>@item.Name</h4>
+                    <h6>@item.Price.ToString("C")</h6>
+                </div>
+            </a>
+        }
+    </div>
+</div>
+
+<div class="page-navigation" style="margin-left:40%">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-12 text-center">
+                <!-- Render phân trang -->
+                @Html.PagedListPager(Model, page => Url.Action("Index", new { page }), new PagedListRenderOptions
+           {
+               LiElementClasses = new List<string> { "page-item" },
+               PageClasses = new List<string> { "page-link" }
+           })
+            </div>
+        </div>
+    </div>
+</div>
+

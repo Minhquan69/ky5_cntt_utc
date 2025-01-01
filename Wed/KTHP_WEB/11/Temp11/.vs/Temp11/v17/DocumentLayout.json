@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Wed\\KTHP_WEB\\11\\Temp11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C144A20-000B-4F1F-96D8-ECD1EA75E2B1}|Temp11\\Temp11.csproj|e:\\wed\\kthp_web\\11\\temp11\\temp11\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C144A20-000B-4F1F-96D8-ECD1EA75E2B1}|Temp11\\Temp11.csproj|solutionrelative:temp11\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C144A20-000B-4F1F-96D8-ECD1EA75E2B1}|Temp11\\Temp11.csproj|e:\\wed\\kthp_web\\11\\temp11\\temp11\\views\\shared\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C144A20-000B-4F1F-96D8-ECD1EA75E2B1}|Temp11\\Temp11.csproj|solutionrelative:temp11\\views\\shared\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C144A20-000B-4F1F-96D8-ECD1EA75E2B1}|Temp11\\Temp11.csproj|e:\\wed\\kthp_web\\11\\temp11\\temp11\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C144A20-000B-4F1F-96D8-ECD1EA75E2B1}|Temp11\\Temp11.csproj|solutionrelative:temp11\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C144A20-000B-4F1F-96D8-ECD1EA75E2B1}|Temp11\\Temp11.csproj|e:\\wed\\kthp_web\\11\\temp11\\temp11\\views\\shared\\_layoutindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5C144A20-000B-4F1F-96D8-ECD1EA75E2B1}|Temp11\\Temp11.csproj|solutionrelative:temp11\\views\\shared\\_layoutindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\11\\Temp11\\Temp11\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Temp11\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\11\\Temp11\\Temp11\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Temp11\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T19:53:22.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Footer.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\11\\Temp11\\Temp11\\Views\\Shared\\Footer.cshtml",
+              "RelativeDocumentMoniker": "Temp11\\Views\\Shared\\Footer.cshtml",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\11\\Temp11\\Temp11\\Views\\Shared\\Footer.cshtml",
+              "RelativeToolTip": "Temp11\\Views\\Shared\\Footer.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAwwEkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T19:53:20.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Header.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\11\\Temp11\\Temp11\\Views\\Shared\\Header.cshtml",
+              "RelativeDocumentMoniker": "Temp11\\Views\\Shared\\Header.cshtml",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\11\\Temp11\\Temp11\\Views\\Shared\\Header.cshtml",
+              "RelativeToolTip": "Temp11\\Views\\Shared\\Header.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwDIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T19:53:10.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_LayoutIndex.cshtml",
+              "DocumentMoniker": "E:\\Wed\\KTHP_WEB\\11\\Temp11\\Temp11\\Views\\Shared\\_LayoutIndex.cshtml",
+              "RelativeDocumentMoniker": "Temp11\\Views\\Shared\\_LayoutIndex.cshtml",
+              "ToolTip": "E:\\Wed\\KTHP_WEB\\11\\Temp11\\Temp11\\Views\\Shared\\_LayoutIndex.cshtml",
+              "RelativeToolTip": "Temp11\\Views\\Shared\\_LayoutIndex.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwKwCAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T19:52:51.754Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

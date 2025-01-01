@@ -1,0 +1,49 @@
+﻿@model Temp16.Models.Sanvandong
+
+@{
+    ViewData["Title"] = "SuaSVD";
+    Layout = "~/Views/Shared/_LayoutChiTiet.cshtml";
+}
+
+<div class="center_content">
+    <h1>Sửa thông tin Sân Vận Động</h1>
+    <hr />
+    <div class="row">
+        <div class="col-md-4">
+            <form asp-action="SuaSVD">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <input type="hidden" asp-for="SanVanDongId" />
+                <div class="form-group" style="display: flex; align-items: center; margin-bottom: 15px;">
+                    <label asp-for="TenSan" class="control-label" style="width: 100px; margin-left: 25px; text-align: left;"></label>
+                    <input asp-for="TenSan" class="form-control" />
+                    <span asp-validation-for="TenSan" class="text-danger"></span>
+                </div>
+                <div class="form-group" style="display: flex; align-items: center; margin-bottom: 15px;">
+                    <label asp-for="ThanhPho" class="control-label" style="width: 100px; margin-left: 25px; text-align: left;"></label>
+                    <input asp-for="ThanhPho" class="form-control"  />
+                    <span asp-validation-for="ThanhPho" class="text-danger"></span>
+                </div>
+                <div class="form-group" style="display: flex; align-items: center; margin-bottom: 15px;">
+                    <label asp-for="NamBatDau" class="control-label" style="width: 100px; margin-left: 25px; text-align: left;"></label>
+                    <input asp-for="NamBatDau" class="form-control"  />
+                    <span asp-validation-for="NamBatDau" class="text-danger"></span>
+                </div>
+                <div class="form-group" style="display: flex; align-items: center; margin-bottom: 15px;">
+                    <label asp-for="Anh" class="control-label" style="width: 100px; margin-left: 25px; text-align: left;"></label>
+                    <input asp-for="Anh" class="form-control" />
+                    <span asp-validation-for="Anh" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Save" class="btn btn-primary" />
+                </div>
+            </form>
+        </div>
+    </div>
+    <div>
+        <br />  <br />
+        <a asp-action="Index" class="prod_buy">Back to List</a>
+    </div>
+</div>
+
+
+

@@ -1,0 +1,52 @@
+﻿@model IEnumerable<LoaiHang>
+@foreach(var item in Model)
+{
+    <li><a href="javascript:void(0)" onclick="loadData('@item.MaLoai')">@item.TenLoai</a></li>
+}
+<script src="../DeMau/js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript">
+    function loadData(MaLoai) {
+        $.ajax({
+            url: '@Url.Action("GetData", "Home")',
+            type: 'GET',
+            data: { MaLoai: MaLoai },
+            success: function (response) {
+                console.log(response); // Log the response to see its structure
+
+                if (response.length > 0) {
+                    let tableHtml = `
+                                                  
+                                                `;
+                    response.forEach(match => {
+                        tableHtml += `
+                        <div class="grid_1_of_4 images_1_of_4">
+                                    <a href="preview.html"><img src="../DeMau/images/${match.anh}" alt="" /></a>
+                                <h2>${match.tenHang}</h2>
+                            <div class="price-details">
+                                <div class="price-number">
+                                        <p><span class="rupees">${match.gia}</span></p>
+                                </div>
+                                <div class="add-cart">
+                                    <h4><a href="preview.html">Add to Cart</a></h4>
+                                </div>
+                                <div class="clear"></div>
+                            </div>
+                        </div>
+
+                                                `;
+                    });
+
+                    tableHtml += `
+                                      
+                                            `;
+                    $('#result').html(tableHtml);
+                } else {
+                    $('#result').html('Không có sách nào.');
+                }
+            },
+            error: function () {
+                $('#result').html('Có lỗi xảy ra.');
+            }
+        });
+    }
+</script>

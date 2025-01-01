@@ -1,0 +1,59 @@
+﻿
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../Temp7/assets/css/header.css">
+    <link rel="stylesheet" href="../Temp7/assets/css/base.css">
+    <link rel="stylesheet" href="../Temp7/assets/css/grid.css">
+    <link rel="stylesheet" href="../Temp7/assets/css/style.css">
+    <link rel="stylesheet" href="../Temp7/assets/css/responsive.css">
+    <link rel="stylesheet" type="text/css" href="../Temp7/assets/css/all.min.css">
+    <script src='../Temp7/assets/js/a076d05399.js' crossorigin='anonymous'></script>
+    <title>Laptop Hoàng Phong</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+</head>
+
+<body>
+    <main class="main">
+        @await Html.PartialAsync("Header")
+    </main>
+    <div class="slider" style="box-sizing:border-box;">
+        <div class="slider_imgs">
+            <input type="radio" name="inputslider" id="img1">
+            <input type="radio" name="inputslider" id="img2">
+            <img src="../Temp7/Images/slide1.png" alt="img1" class="imgslider1">
+            <img src="../Temp7/Images/slide2.png" alt="img2" class="imgslider2">
+            <img src="../Temp7/Images/slide3.png" alt="img2" class="imgslider3">
+        </div>
+        <div class="lableslider">
+            <label for="img1"></label>
+            <label for="img2"></label>
+            <label for="img3"></label>
+        </div>
+    </div>
+    <a asp-action="ThemCLB" class="place__btn bg__color--berlin" style="margin-left:10%">Thêm mới</a>
+    <div id="result"></div>
+    <div style="text-align: center;">
+        
+        <h2 class="place__btn bg__color--hongkong">
+            Danh sách Câu Lạc Bộ
+        </h2>
+    </div>
+    <div class="container">
+        <div class="package-menu m-b-60">
+
+            <div class="row">
+                @RenderBody()
+            </div>
+
+        </div>
+    </div>
+
+    @await Html.PartialAsync("Footer")
+</body>
+
+</html>

@@ -1,0 +1,84 @@
+﻿@model IEnumerable<TSach>
+@foreach(var item in Model)
+{
+    <li><a href="javascript:void(0)" onclick="loadData('@item.MaSach')">@item.TenSach</a></li>
+}
+<script src="../template5/js/jquery-3.2.1.min.js"></script>
+<script type="text/javascript">
+    function loadData(MaSach) {
+        $.ajax({
+            url: '@Url.Action("GetData", "Home")',
+            type: 'GET',
+            data: { MaSach: MaSach },
+            success: function (response) {
+                console.log(response); // Log the response to see its structure
+
+                if (response.length > 0) {
+                    let tableHtml = `
+                                                   
+        <div class="row">
+            <div class="col">
+                <div class="product-grid" data-isotope='{ "itemSelector": ".product-item", "layoutMode": "fitRows" }'>
+                    <div class="row">
+                                                `;
+                    response.forEach(match => {
+                        tableHtml += `
+                             <div class="product-item men">
+                        <div class="product discount product_filter">
+                <div class="product_image">
+                                <img src="../Images/${match.anh}.jpg" alt="">
+                </div>
+                <div class="favorite favorite_left"></div>
+                <div class="product_bubble product_bubble_right product_bubble_red d-flex flex-column align-items-center"><span>-$20</span></div>
+                <div class="product_info">
+                        <h6 class="product_name"><a href="single.html">${match.maBanSao}</a></h6>
+                        <div class="product_price">CMND: ${match.maSach}</div>
+                </div>
+            </div>
+                                <div class="red_button add_to_cart_button"><a href="javascript:void(0);" onclick="confirmDelete('${match.maBanSao}', '${match.maSach}')"">Xoa</a></div>
+                </div>
+
+
+
+                                            `;
+                    });
+
+                    tableHtml += `
+                        </div>
+                        </div>
+            </div>
+                                        `;
+                    $('#result').html(tableHtml);
+                } else {
+                    $('#result').html('Không có sách nào.');
+                }
+            },
+            error: function () {
+                $('#result').html('Có lỗi xảy ra.');
+            }
+        });
+    }
+</script>
+<script>
+    function confirmDelete(maBanSao, maSach) {
+        maBanSao = maBanSao.trim(); // Loại bỏ khoảng trắng thừa
+        var result = confirm("Bạn có chắc muốn xóa sách \"" + maBanSao + "\" không?");
+        if (result) {
+            console.log("Deleting MaBanSao:", maBanSao); // Kiểm tra tham số MaBanSao đã được xử lý
+            $.ajax({
+                url: '/XoaBanSao',
+                type: 'GET',
+                data: { MaBanSao: maBanSao },
+                success: function (response) {
+                    alert('Sách đã được xóa thành công.');
+                    window.location.href = '/Home/Index';
+                },
+                error: function (jqXHR, textStatus, errorThrown) {
+                    console.log('Error:', textStatus, errorThrown); // Kiểm tra lỗi
+                    alert('Có lỗi xảy ra khi xóa sách.');
+                }
+            });
+        }
+        return false;
+    }
+</script>

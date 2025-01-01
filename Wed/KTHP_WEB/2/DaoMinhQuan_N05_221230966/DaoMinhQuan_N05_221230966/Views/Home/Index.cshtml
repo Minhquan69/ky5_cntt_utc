@@ -1,0 +1,33 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/DaoMinhQuan_Layout.cshtml";
+}
+@*@using X.PagedList.Mvc.Core;
+@model X.PagedList.IPagedList<dynamic>
+<div class="row">
+    @foreach (var room in Model)
+    {
+        <div class="col-md-6 col-lg-4 mb-5">
+            <div class="hotel-room text-center">
+                <a href="#" class="d-block mb-0 thumbnail">
+                    <img src="@room.ImageUrl" alt="Image" class="img-fluid" />
+                </a>
+                <div class="hotel-room-body">
+                    <h3 class="heading mb-0">
+                        <a href="#">@room.Name</a>
+                    </h3>
+                    <strong class="price">@room.Price.ToString("N0")đ / một đêm</strong>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+<div class="row pt-5 mt-5 text-center justify-content-center">
+    <div class="col-md-auto">
+        @Html.PagedListPager(Model, page => Url.Action("Index", new { page }), new PagedListRenderOptions
+   {
+       LiElementClasses = new List<string> { "page-item" },
+       PageClasses = new List<string> { "page-link" }
+   })
+    </div>
+</div>*@

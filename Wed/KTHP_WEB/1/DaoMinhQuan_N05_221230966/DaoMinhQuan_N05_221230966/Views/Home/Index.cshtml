@@ -1,0 +1,50 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/DaoMinhQuan_Layout.cshtml";
+}
+@*@using X.PagedList.Mvc.Core;
+@model X.PagedList.IPagedList<dynamic>
+<div class="row">
+    @foreach (var i in Model)
+{
+    <div class="col-12 col-sm-6 col-lg-3">
+        <div class="single-product-area mb-50 wow fadeInUp" data-wow-delay="400ms">
+            <!-- Product Image -->
+            <div class="product-img">
+                <a href="shop-details.html"><img src="../Temp/img/bg-img/12.jpg" alt=""></a>
+                <!-- Product Tag -->
+                <div class="product-tag sale-tag">
+                    <a href="#">Hot</a>
+                </div>
+                <div class="product-meta d-flex">
+                    <a href="#" class="wishlist-btn"><i class="icon_heart_alt"></i></a>
+                    <a href="cart.html" class="add-to-cart-btn">Add to cart</a>
+                    <a href="#" class="compare-btn"><i class="arrow_left-right_alt"></i></a>
+                </div>
+            </div>
+            <!-- Product Info -->
+            <div class="product-info mt-15 text-center">
+                <a href="shop-details.html">
+                    <p>@i.Name</p>
+                </a>
+                <h6>$10.99</h6>
+            </div>
+        </div>
+    </div>
+}
+    <nav aria-label="Page navigation" style="margin-left:35%">
+        <ul class="pagination">
+            @Html.PagedListPager(Model, page => Url.Action("Index", new { page }), new PagedListRenderOptions
+       {
+           LiElementClasses = new List<string> { "page-item" },
+           PageClasses = new List<string> { "page-link" }
+       })
+        </ul>
+    </nav>
+
+</div>*@
+
+
+
+
+

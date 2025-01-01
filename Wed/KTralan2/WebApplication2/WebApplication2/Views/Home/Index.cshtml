@@ -1,0 +1,54 @@
+﻿@using X.PagedList.Mvc.Core
+@using WebApplication2.Models
+@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/_LayoutIndex.cshtml";
+}
+@*@model IEnumerable<TSach>*@
+@model X.PagedList.IPagedList<TSach>
+<div id="result">
+    
+    <div class="row">
+
+        @foreach (var item in Model)
+        {
+            <div class="col-md-6 col-lg-4 mb-5">
+                <div class="hotel-room text-center">
+                    <a href="#" class="d-block mb-0 thumbnail"><img src="@Url.Content("../Images/" + @item.FileAnh)" class="img-fluid"></a>
+                    <div class="hotel-room-body">
+                        <h3 class="heading mb-0"><a href="#">@item.TenSach</a></h3>
+                        <strong class="price">TG: @item.TacGia</strong> <br />
+                        <strong class="price">GiaTri: @item.GiaTriSach VND</strong> <br />
+                        <a asp-action="SuaSach" asp-route-MaSach="@item.MaSach" >Sửa thông tin</a>
+                        <br />
+                        <a onclick="return confirmDelete('@item.TenSach', '@item.MaSach')" asp-action="XoaSach" asp-route-MaSach="@item.MaSach">Xóa</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+    @Html.PagedListPager(Model, page => Url.Action("Index", new { page = page }), new PagedListRenderOptions
+{
+    LiElementClasses = new List<string> { "page-item" },
+    PageClasses = new List<string> { "page-link" }
+})
+</div>
+
+
+@if (TempData["Message"] != null)
+{
+    <script>
+        alert('@TempData["Message"]');
+    </script>
+}
+<script>
+    function confirmDelete(tenSach, maSach) {
+        // Hiển thị hộp thoại xác nhận
+        var result = confirm("Bạn có chắc chắn muốn xóa sách \"" + tenSach + "\" không?");
+        if (result) {
+            // Nếu người dùng xác nhận, chuyển hướng đến phương thức XoaSach trong controller
+            window.location.href = '/XoaSach?MaSach=' + maSach;
+        }
+        return false; // Ngăn không cho sự kiện click tiếp tục
+    }
+</script>
